@@ -17980,15 +17980,15 @@ msgstr ""
 
 #: apps/erpnext/erpnext/accounts/doctype/financial_report_template/financial_report_engine.py:223
 msgid "Missing required filter: {0}"
-msgstr ""
+msgstr "Filtro obrigatório ausente: {0}"
 
 #: apps/erpnext/erpnext/manufacturing/doctype/work_order/work_order.py:1448
 msgid "Missing value"
-msgstr ""
+msgstr "Valor ausente"
 
 #: DocType: Pricing Rule:0
 msgid "Mixed Conditions"
-msgstr ""
+msgstr "Condições mistas"
 
 #: apps/erpnext/erpnext/accounts/print_format/sales_invoice_print/sales_invoice_print.html:58
 msgid "Mobile: "
@@ -18012,39 +18012,39 @@ msgstr "Modo de Pagamento"
 
 #: DocType: Vehicle:0
 msgid "Model"
-msgstr ""
+msgstr "Modelo"
 
 #: DocType: POS Closing Entry:0
 msgid "Modes of Payment"
-msgstr ""
+msgstr "Formas de pagamento"
 
 #: apps/erpnext/erpnext/templates/pages/projects.html:69
 msgid "Modified By"
-msgstr ""
+msgstr "Modificado por"
 
 #: apps/erpnext/erpnext/templates/pages/projects.html:49
 msgid "Modified On"
-msgstr ""
+msgstr "Modificado em"
 
 #: DocType: Financial Report Template:0
 msgid "Module (for Export)"
-msgstr ""
+msgstr "Módulo (para exportação)"
 
 #: DocType: Project:0
 msgid "Monitor Progress"
-msgstr ""
+msgstr "Monitorar progresso"
 
 #: DocType: Ledger Health Monitor:0
 msgid "Monitor for Last 'X' days"
-msgstr ""
+msgstr "Monitorar nos últimos 'X' dias"
 
 #: DocType: Quality Goal:0
 msgid "Monitoring Frequency"
-msgstr ""
+msgstr "Frequência de monitoramento"
 
 #: DocType: Payment Schedule:0
 msgid "Month(s) after the end of the invoice month"
-msgstr ""
+msgstr "Mês(es) após o final do mês da fatura"
 
 #: apps/erpnext/erpnext/manufacturing/dashboard_fixtures.py:215
 msgid "Monthly Completed Work Orders"
@@ -18060,7 +18060,7 @@ msgstr "Distribuição Percentual Mensal"
 
 #: DocType: Monthly Distribution:0
 msgid "Monthly Distribution Percentages"
-msgstr ""
+msgstr "Percentuais de distribuição mensal"
 
 #: apps/erpnext/erpnext/manufacturing/dashboard_fixtures.py:244
 msgid "Monthly Quality Inspections"
@@ -18068,11 +18068,11 @@ msgstr "Inspeções Mensais de Qualidade"
 
 #: DocType: Subscription Plan:0
 msgid "Monthly Rate"
-msgstr ""
+msgstr "Taxa mensal"
 
 #: DocType: Company:0
 msgid "Monthly Sales Target"
-msgstr ""
+msgstr "Meta de vendas mensal"
 
 #: apps/erpnext/erpnext/manufacturing/dashboard_fixtures.py:198
 msgid "Monthly Total Work Orders"
@@ -18080,11 +18080,11 @@ msgstr "Total Mensal de Ordens de Serviço"
 
 #: DocType: Accounts Settings:0
 msgid "Months"
-msgstr ""
+msgstr "Meses"
 
 #: DocType: Fiscal Year:0
 msgid "More/Less than 12 months."
-msgstr ""
+msgstr "Mais/Menos de 12 meses."
 
 #: apps/erpnext/erpnext/public/dist/js/item-dashboard.bundle.XJ2A36TH.js:262
 msgid "Move Item"
@@ -18092,23 +18092,23 @@ msgstr "Mover Item"
 
 #: apps/erpnext/erpnext/manufacturing/doctype/plant_floor/plant_floor.js:239
 msgid "Move Stock"
-msgstr ""
+msgstr "Mover estoque"
 
 #: apps/erpnext/erpnext/templates/includes/macros.html:169
 msgid "Move to Cart"
-msgstr ""
+msgstr "Mover para o carrinho"
 
 #: apps/erpnext/erpnext/assets/doctype/asset/asset_dashboard.py:7
 msgid "Movement"
-msgstr ""
+msgstr "Movimentação"
 
 #: DocType: Company:0
 msgid "Moving Average"
-msgstr ""
+msgstr "Média móvel"
 
 #: apps/erpnext/erpnext/accounts/doctype/bisect_accounting_statements/bisect_accounting_statements.js:82
 msgid "Moving up in tree ..."
-msgstr ""
+msgstr "Movendo para cima na árvore ..."
 
 #: DocType: Journal Entry:0
 msgid "Multi Currency"
@@ -18116,16 +18116,18 @@ msgstr "Multi Moeda"
 
 #: apps/erpnext/erpnext/manufacturing/doctype/bom_creator/bom_creator.js:41
 msgid "Multi-level BOM Creator"
-msgstr ""
+msgstr "Criador de lista de materiais multinível"
 
 #: apps/erpnext/erpnext/selling/doctype/customer/customer.py:393
 msgid ""
 "Multiple Loyalty Programs found for Customer {}. Please select manually."
 msgstr ""
+"Vários programas de fidelidade encontrados para o cliente {}. Selecione "
+"manualmente."
 
 #: apps/erpnext/erpnext/accounts/doctype/sales_invoice/sales_invoice.py:1223
 msgid "Multiple POS Opening Entry"
-msgstr ""
+msgstr "Múltiplas entradas de abertura de PDV"
 
 #: apps/erpnext/erpnext/accounts/doctype/pricing_rule/utils.py:346
 msgid ""
@@ -18137,7 +18139,7 @@ msgstr ""
 
 #: DocType: Loyalty Program:0
 msgid "Multiple Tier Program"
-msgstr ""
+msgstr "Programa de níveis múltiplos"
 
 #: apps/erpnext/erpnext/stock/doctype/item/item.js:170
 msgid "Multiple Variants"
@@ -18145,17 +18147,19 @@ msgstr "Variantes Múltiplas"
 
 #: apps/erpnext/erpnext/stock/doctype/warehouse/warehouse.py:152
 msgid "Multiple Warehouse Accounts"
-msgstr ""
+msgstr "Múltiplas contas de armazém"
 
 #: apps/erpnext/erpnext/controllers/accounts_controller.py:1234
 msgid ""
 "Multiple fiscal years exist for the date {0}. Please set company in Fiscal "
 "Year"
 msgstr ""
+"Existem múltiplos anos fiscais para a data {0}. Defina a empresa no Ano "
+"Fiscal"
 
 #: apps/erpnext/erpnext/stock/doctype/stock_entry/stock_entry.py:1542
 msgid "Multiple items cannot be marked as finished item"
-msgstr ""
+msgstr "Vários itens não podem ser marcados como item final"
 
 #: DocType: UOM:0
 msgid "Must be Whole Number"
@@ -18166,22 +18170,24 @@ msgid ""
 "Must be a publicly accessible Google Sheets URL and adding Bank Account "
 "column is necessary for importing via Google Sheets"
 msgstr ""
+"Deve ser uma URL do Google Sheets de acesso público e a inclusão da coluna "
+"Conta Bancária é necessária para importação via Google Sheets"
 
 #: DocType: Payment Request:0
 msgid "Mute Email"
-msgstr ""
+msgstr "Silenciar e‑mail"
 
 #: DocType: Contract:0
 msgid "N/A"
-msgstr ""
+msgstr "N/D"
 
 #: DocType: Sales Person:0
 msgid "Name and Employee ID"
-msgstr ""
+msgstr "Nome e ID do Funcionário"
 
 #: DocType: Bank Guarantee:0
 msgid "Name of Beneficiary"
-msgstr ""
+msgstr "Nome do Beneficiário"
 
 #: apps/erpnext/erpnext/accounts/doctype/account/account_tree.js:125
 msgid ""
@@ -18193,27 +18199,27 @@ msgstr ""
 
 #: DocType: Monthly Distribution:0
 msgid "Name of the Monthly Distribution"
-msgstr ""
+msgstr "Nome da Distribuição Mensal"
 
 #: DocType: Purchase Invoice:0
 msgid "Named Place"
-msgstr ""
+msgstr "Local Nomeado"
 
 #: DocType: Stock Settings:0
 msgid "Naming Series Prefix"
-msgstr ""
+msgstr "Prefixo da Série de Nomenclatura"
 
 #: DocType: Buying Settings:0
 msgid "Naming Series and Price Defaults"
-msgstr ""
+msgstr "Série de Nomenclatura e Preços Padrão"
 
 #: apps/erpnext/erpnext/stock/doctype/serial_and_batch_bundle/serial_and_batch_bundle.py:94
 msgid "Naming Series is mandatory"
-msgstr ""
+msgstr "A série de nomenclatura é obrigatória"
 
 #: DocType: Vehicle:0
 msgid "Natural Gas"
-msgstr ""
+msgstr "Gás Natural"
 
 #: apps/erpnext/erpnext/setup/setup_wizard/operations/install_fixtures.py:434
 msgid "Needs Analysis"
@@ -18225,7 +18231,7 @@ msgstr "Negativo Quantidade não é permitido"
 
 #: apps/erpnext/erpnext/stock/serial_batch_bundle.py:1498
 msgid "Negative Stock Error"
-msgstr ""
+msgstr "Erro de Estoque Negativo"
 
 #: apps/erpnext/erpnext/stock/doctype/stock_reconciliation/stock_reconciliation.py:625
 msgid "Negative Valuation Rate is not allowed"
@@ -18237,11 +18243,11 @@ msgstr "Negociação / Revisão"
 
 #: DocType: Advance Taxes and Charges:0
 msgid "Net Amount"
-msgstr ""
+msgstr "Valor Líquido"
 
 #: DocType: Advance Taxes and Charges:0
 msgid "Net Amount (Company Currency)"
-msgstr ""
+msgstr "Valor Líquido (Moeda da Empresa)"
 
 #: apps/erpnext/erpnext/accounts/report/asset_depreciations_and_balances/asset_depreciations_and_balances.py:665
 msgid "Net Asset value as on"
@@ -18285,7 +18291,7 @@ msgstr "Variação Líquida no Inventário"
 
 #: DocType: Workstation:0
 msgid "Net Hour Rate"
-msgstr ""
+msgstr "Taxa Horária Líquida"
 
 #: apps/erpnext/erpnext/accounts/report/gross_and_net_profit_report/gross_and_net_profit_report.py:214
 msgid "Net Profit"
@@ -18293,7 +18299,7 @@ msgstr "Lucro Líquido"
 
 #: apps/erpnext/erpnext/accounts/report/financial_ratios/financial_ratios.py:172
 msgid "Net Profit Ratio"
-msgstr ""
+msgstr "Índice de Lucro Líquido"
 
 #: apps/erpnext/erpnext/accounts/report/profit_and_loss_statement/profit_and_loss_statement.py:186
 msgid "Net Profit/Loss"
@@ -18301,17 +18307,19 @@ msgstr "Lucro / Perda Líquida"
 
 #: DocType: Asset:0
 msgid "Net Purchase Amount"
-msgstr ""
+msgstr "Valor Líquido da Compra"
 
 #: apps/erpnext/erpnext/assets/doctype/asset/asset.py:385
 msgid "Net Purchase Amount is mandatory"
-msgstr ""
+msgstr "Valor líquido de compra é obrigatório"
 
 #: apps/erpnext/erpnext/assets/doctype/asset/asset.py:445
 msgid ""
 "Net Purchase Amount should be <b>equal</b> to purchase amount of one single "
 "Asset."
 msgstr ""
+"O Valor Líquido da Compra deve ser <b>igual</b> ao valor da compra de um "
+"único Ativo."
 
 #: apps/erpnext/erpnext/assets/doctype/asset_depreciation_schedule/deppreciation_schedule_controller.py:388
 msgid "Net Purchase Amount {0} cannot be depreciated over {1} cycles."
@@ -18507,7 +18515,7 @@ msgstr "Novas {0} regras de precificação são criadas"
 
 #: DocType: Asset:0
 msgid "Next Depreciation Date"
-msgstr ""
+msgstr "Próxima Data de Depreciação"
 
 #: DocType: Asset Maintenance Task:0
 msgid "Next Due Date"
@@ -18674,7 +18682,7 @@ msgstr ""
 
 #: apps/erpnext/erpnext/stock/doctype/delivery_trip/delivery_trip.py:445
 msgid "No contacts with email IDs found."
-msgstr ""
+msgstr "Nenhum contato com IDs de e‑mail encontrado."
 
 #: apps/erpnext/erpnext/selling/page/sales_funnel/sales_funnel.js:134
 msgid "No data for this period"
@@ -18754,7 +18762,7 @@ msgstr ""
 
 #: DocType: Item:0
 msgid "No of Months (Expense)"
-msgstr ""
+msgstr "Número de Meses (Despesa)"
 
 #: DocType: Item:0
 msgid "No of Months (Revenue)"
@@ -18911,7 +18919,7 @@ msgstr ""
 
 #: apps/erpnext/erpnext/selling/report/sales_analytics/sales_analytics.js:95
 msgid "Non-Zeros"
-msgstr ""
+msgstr "Não-Zeros"
 
 #: apps/erpnext/erpnext/stock/doctype/stock_reconciliation/stock_reconciliation.py:553
 msgid "None of the items have any change in quantity or value."
@@ -18997,6 +19005,8 @@ msgstr ""
 #: apps/erpnext/erpnext/accounts/party.py:698
 msgid "Note: Due Date exceeds allowed {0} credit days by {1} day(s)"
 msgstr ""
+"Observação: a data de vencimento excede {0} dias de crédito permitidos em "
+"{1} dia(s)"
 
 #: DocType: Email Digest:0
 msgid "Note: Email will not be sent to disabled users"
@@ -19148,7 +19158,7 @@ msgstr ""
 
 #: DocType: Item Quality Inspection Parameter:0
 msgid "Numeric"
-msgstr ""
+msgstr "Numérico"
 
 #: DocType: Quality Inspection Reading:0
 msgid "Numeric Inspection"
