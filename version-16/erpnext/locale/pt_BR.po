@@ -2208,7 +2208,7 @@ msgstr "Contra"
 
 #: DocType: Bank Clearance Detail:0
 msgid "Against Account"
-msgstr "Contra À Conta"
+msgstr "Associado à Conta"
 
 #: DocType: Purchase Order Item:0
 msgid "Against Blanket Order"
@@ -15149,7 +15149,7 @@ msgstr "Consulta de pesquisa inválida"
 
 #: apps/erpnext/erpnext/accounts/general_ledger.py:841
 msgid "Invalid value {0} for {1} against account {2}"
-msgstr "Valor inválido {0} para {1} contra a conta {2}"
+msgstr "Valor inválido {0} para {1} associado a conta {2}"
 
 #: apps/erpnext/erpnext/accounts/doctype/pricing_rule/utils.py:197
 msgid "Invalid {0}"
@@ -16743,7 +16743,7 @@ msgstr "Nível (BOM)"
 
 #: DocType: Account:0
 msgid "Lft"
-msgstr "lft"
+msgstr "esq"
 
 #: apps/erpnext/erpnext/accounts/report/balance_sheet/balance_sheet.py:251
 msgid "Liabilities"
@@ -17296,8 +17296,8 @@ msgid ""
 "Making Journal Entries against advance accounts: {0} is not recommended. "
 "These Journals won't be available for Reconciliation."
 msgstr ""
-"Criar lançamentos contábeis contra contas adiantadas: {0} não é recomendado."
-" Estes lançamentos não estarão disponíveis para Reconciliação."
+"Criar lançamentos contábeis para contas adiantadas: {0} não é recomendado. "
+"Estes lançamentos não estarão disponíveis para Reconciliação."
 
 #: apps/erpnext/erpnext/assets/doctype/asset/asset.js:94
 msgid "Manage"
@@ -19463,7 +19463,7 @@ msgstr "Abra a Visualização do Formulário"
 
 #: DocType: Email Digest:0
 msgid "Open Issues"
-msgstr "Problemas Abertos "
+msgstr "Problemas em Aberto "
 
 #: apps/erpnext/erpnext/setup/doctype/email_digest/templates/default.html:46
 msgid "Open Issues "
@@ -19507,7 +19507,7 @@ msgstr "Abrir Tarefas"
 
 #: DocType: Email Digest:0
 msgid "Open To Do"
-msgstr "Tarefas Pendentes Abertas "
+msgstr "Tarefas Pendentes "
 
 #: apps/erpnext/erpnext/setup/doctype/email_digest/templates/default.html:130
 msgid "Open To Do "
@@ -19823,7 +19823,7 @@ msgid "Opportunity Source"
 msgstr "Fonte da Oportunidade"
 
 msgid "Opportunity Summary by Sales Stage"
-msgstr "Resumo de Oportunidades por Etapa de Vendas "
+msgstr "Resumo de Oportunidades por Estágio de Vendas "
 
 #: DocType: Opportunity:0
 msgid "Opportunity Type"
@@ -21590,7 +21590,7 @@ msgstr "A Data de Retirada não pode ser antes deste dia"
 
 #: DocType: Shipment:0
 msgid "Pickup From"
-msgstr "Retirada de"
+msgstr "Retirar de"
 
 #: apps/erpnext/erpnext/stock/doctype/shipment/shipment.py:106
 msgid "Pickup To time should be greater than Pickup From time"
@@ -21752,7 +21752,7 @@ msgstr ""
 
 #: apps/erpnext/erpnext/selling/page/sales_funnel/sales_funnel.py:18
 msgid "Please Select a Company"
-msgstr "Por favor, selecione uma empresa"
+msgstr "Por favor, selecione uma Empresa"
 
 #: apps/erpnext/erpnext/selling/page/sales_funnel/sales_funnel.js:111
 msgid "Please Select a Company."
@@ -24172,7 +24172,7 @@ msgstr "A Regra de Posicionamento já existe para o Item {0} no Depósito {1}."
 
 #: DocType: Pricing Rule:0
 msgid "Qty"
-msgstr "Qtd "
+msgstr "Quantidade "
 
 #: apps/erpnext/erpnext/templates/pages/order.html:178
 msgid "Qty "
@@ -24212,7 +24212,7 @@ msgstr "Qtd por Unidade"
 
 #: apps/erpnext/erpnext/manufacturing/doctype/bom/bom.js:330
 msgid "Qty To Manufacture"
-msgstr "Qtd a fabricar"
+msgstr "Quantidade a fabricar"
 
 #: apps/erpnext/erpnext/manufacturing/doctype/work_order/work_order.py:1391
 msgid ""
@@ -24224,7 +24224,7 @@ msgstr ""
 
 #: DocType: Batch:0
 msgid "Qty To Produce"
-msgstr "Qtd a produzir"
+msgstr "Quantidade a produzir"
 
 #: apps/erpnext/erpnext/manufacturing/report/quality_inspection_summary/quality_inspection_summary.py:56
 msgid "Qty Wise Chart"
@@ -24236,7 +24236,7 @@ msgstr "Qtd e Taxa"
 
 #: DocType: Purchase Receipt Item:0
 msgid "Qty as Per Stock UOM"
-msgstr "Qtd conforme UDM de estoque"
+msgstr "Quantidade conforme UOM de estoque"
 
 #: DocType: POS Invoice Item:0
 msgid "Qty as per Stock UOM"
@@ -26188,7 +26188,7 @@ msgstr "Valor Devolvido"
 
 #: DocType: Purchase Order Item:0
 msgid "Returned Qty"
-msgstr "Qtd retornada "
+msgstr "Quantidade devolvida "
 
 #: DocType: Work Order Item:0
 msgid "Returned Qty "
@@ -26232,7 +26232,7 @@ msgstr "Inverter Sinal"
 
 #: DocType: Quality Action:0
 msgid "Review"
-msgstr "Reveja"
+msgstr "Revisar"
 
 #: DocType: Task:0
 msgid "Review Date"
@@ -26244,7 +26244,7 @@ msgstr "Rever"
 
 #: DocType: Account:0
 msgid "Rgt"
-msgstr "direita"
+msgstr "dir"
 
 #: DocType: Bisect Nodes:0
 msgid "Right Child"
@@ -29718,7 +29718,7 @@ msgstr "Acionista"
 
 #: DocType: Item:0
 msgid "Shelf Life In Days"
-msgstr "Validade em dias"
+msgstr "Vida útil em dias"
 
 #: apps/erpnext/erpnext/stock/doctype/batch/batch.py:208
 msgid "Shelf Life in Days"
@@ -30827,9 +30827,9 @@ msgid ""
 "you need to make changes, we recommend canceling the existing entry and "
 "creating a new one."
 msgstr ""
-"Entrada de Reserva de Estoque criada contra uma Lista de Pick não pode ser "
-"atualizada. Se você precisar fazer alterações, recomendamos cancelar a "
-"entrada existente e criar uma nova."
+"A Entrada de Reserva de Estoque criada para uma Lista de Coleta não pode ser"
+" atualizada. Se precisar fazer alterações, recomendamos cancelar a entrada "
+"existente e criar uma nova."
 
 #: apps/erpnext/erpnext/stock/doctype/delivery_note/delivery_note.py:553
 msgid "Stock Reservation Warehouse Mismatch"
@@ -32074,8 +32074,8 @@ msgid ""
 "Tax Withholding Category {} against Company {} for Customer {} should have "
 "Cumulative Threshold value."
 msgstr ""
-"A categoria de imposto retido { } contra a Empresa { } para o Cliente { } "
-"deve ter um valor de Limite Cumulativo."
+"Categoria de Retenção de Impostos {} para a Empresa {} e Cliente {} deve ter"
+" valor de Limite Acumulado."
 
 msgid "Tax Withholding Details"
 msgstr "Detalhes da Retenção de Impostos"
@@ -32958,7 +32958,7 @@ msgid ""
 "against category {2} for this time period."
 msgstr ""
 "Já existe um Certificado de Dedução Inferior válido {0} para o Fornecedor "
-"{1} contra a categoria {2} para este período de tempo."
+"{1} associado a categoria {2} para este período de tempo."
 
 #: apps/erpnext/erpnext/subcontracting/doctype/subcontracting_bom/subcontracting_bom.py:77
 msgid ""
@@ -34917,7 +34917,7 @@ msgstr "Para cima"
 
 #: DocType: Email Digest:0
 msgid "Upcoming Calendar Events"
-msgstr "Próximos eventos do calendário "
+msgstr "Próximos Eventos do Calendário "
 
 #: apps/erpnext/erpnext/setup/doctype/email_digest/templates/default.html:97
 msgid "Upcoming Calendar Events "
@@ -38030,7 +38030,7 @@ msgstr "Taxa média de comissão"
 
 #: apps/erpnext/erpnext/manufacturing/report/bom_stock_report/bom_stock_report.py:27
 msgid "BOM UOM"
-msgstr "Unidade de Medida da Lista de Materiais"
+msgstr "UdM da L.M."
 
 #: DocType: Budget:0
 msgid "BUDGET-.########"
@@ -38600,7 +38600,7 @@ msgstr "Nome do campo"
 
 #: DocType: Accounting Dimension:0
 msgid "Fieldname"
-msgstr "nome_campo"
+msgstr "nome do campo"
 
 #: DocType: Item Variant Settings:0
 msgid "Fields"
@@ -38755,7 +38755,7 @@ msgstr "Por Hora"
 
 #: DocType: Call Log:0
 msgid "ID"
-msgstr "ID"
+msgstr "Id"
 
 #: DocType: Contract:0
 msgid "IP Address"
