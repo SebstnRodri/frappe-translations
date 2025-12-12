@@ -27154,8 +27154,8 @@ msgid ""
 "Row #{0}: Stock cannot be reserved for Item {1} against a disabled Batch "
 "{2}."
 msgstr ""
-"Linha #{0}: O Estoque não pode ser reservado para o Item {1} contra um Lote "
-"{2} desativado."
+"Linha #{0}: Estoque não pode ser reservado para o Item {1} associado ao Lote"
+" desativado {2}."
 
 #: apps/erpnext/erpnext/stock/doctype/stock_reservation_entry/stock_reservation_entry.py:1637
 msgid "Row #{0}: Stock cannot be reserved for a non-stock Item {1}"
