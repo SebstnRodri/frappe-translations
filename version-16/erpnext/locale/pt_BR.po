@@ -2298,7 +2298,7 @@ msgstr "Relacinado ao voucher"
 
 #: DocType: Advance Payment Ledger Entry:0
 msgid "Against Voucher No"
-msgstr "Nº do Voucher Contra"
+msgstr "Número do voucher relacionado"
 
 #: DocType: Advance Payment Ledger Entry:0
 msgid "Against Voucher Type"
