@@ -27179,8 +27179,8 @@ msgid ""
 "Row #{0}: Stock not available to reserve for Item {1} against Batch {2} in "
 "Warehouse {3}."
 msgstr ""
-"Linha #{0}: Estoque não disponível para reservar para o Item {1} contra o "
-"Lote {2} no Armazém {3}."
+"Linha #{0}: Estoque indisponível para reserva do Item {1} associado ao Lote "
+"{2} no Armazém {3}."
 
 #: apps/erpnext/erpnext/stock/doctype/stock_reservation_entry/stock_reservation_entry.py:1230
 msgid ""
