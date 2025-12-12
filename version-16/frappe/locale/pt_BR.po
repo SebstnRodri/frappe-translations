@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-08 22:32\n"
-"PO-Revision-Date: 2025-12-08 22:32\n"
+"POT-Creation-Date: 2025-12-11 13:08\n"
+"PO-Revision-Date: 2025-12-12 17:34\n"
 "Last-Translator: Translation Hub <ai@translationhub.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -627,7 +627,7 @@ msgstr "A9"
 
 #: DocType: Email Account:0
 msgid "ALL"
-msgstr "TODOS"
+msgstr "Todos"
 
 #: DocType: Server Script:0
 msgid "API"
@@ -842,7 +842,7 @@ msgstr "Adicionar Videoconferência"
 
 #: DocType: Permission Log:0
 msgid "Added"
-msgstr "Adicionado"
+msgstr "adicionado"
 
 #: DocType: Website Settings:0
 msgid ""
@@ -861,7 +861,7 @@ msgid "Address"
 msgstr "Endereço"
 
 msgid "Address And Contacts"
-msgstr "Endereço e Contatos"
+msgstr "Endereços e Contatos"
 
 #: DocType: Address:0
 msgid "Address Line 1"
@@ -1074,7 +1074,7 @@ msgstr "Permitir Aprovação por Criador"
 
 #: DocType: System Settings:0
 msgid "Allow Sending Usage Data for Improving Applications"
-msgstr "Permitir Envio de Dados de Uso para Melhorar Aplicativos"
+msgstr "Permitir o envio de dados de uso para melhorar as aplicações"
 
 #: DocType: Workflow Transition:0
 msgid "Allow approval for creator of the document"
@@ -1266,7 +1266,7 @@ msgstr "Sempre use este nome como nome do remetente"
 
 #: DocType: Custom DocPerm:0
 msgid "Amend"
-msgstr "Alterar"
+msgstr "alterar"
 
 #: DocType: Amended Document Naming Settings:0
 msgid "Amend Counter"
@@ -1710,7 +1710,7 @@ msgstr "Média"
 
 #: DocType: User Email:0
 msgid "Awaiting Password"
-msgstr "Aguardando Senha"
+msgstr "Aguardando senha"
 
 #: DocType: Email Account:0
 msgid "Awaiting password"
@@ -1830,7 +1830,7 @@ msgstr "Barra"
 
 #: DocType: DocField:0
 msgid "Barcode"
-msgstr "Código de Barras"
+msgstr "código de barras"
 
 #: DocType: LDAP Settings:0
 msgid "Base Distinguished Name (DN)"
@@ -1942,11 +1942,11 @@ msgstr "Blogueiro"
 
 #: DocType: DocType State:0
 msgid "Blue"
-msgstr "Azul"
+msgstr "azul"
 
 #: DocType: DocField:0
 msgid "Bold"
-msgstr "Negrito"
+msgstr "negrito"
 
 #: DocType: Comment:0
 msgid "Bot"
@@ -2051,8 +2051,8 @@ msgstr "Por script"
 #: DocType: User:0
 msgid "Bypass Restricted IP Address Check If Two Factor Auth Enabled"
 msgstr ""
-"Ignorar Verificação de Endereço IP Restrito se Autenticação de Dois Fatores "
-"Habilitada"
+"Ignorar verificação de endereço IP restrito se Autenticação de Dois Fatores "
+"habilitada"
 
 #: DocType: System Settings:0
 msgid "Bypass Two Factor Auth for users who login from restricted IP Address"
@@ -2103,7 +2103,7 @@ msgstr "Mês de Desconto Calculado Incompatível"
 
 #: DocType: Form Tour:0
 msgid "Calendar"
-msgstr "Calendário"
+msgstr "calendário"
 
 #: DocType: Google Calendar:0
 msgid "Calendar Name"
@@ -2151,11 +2151,11 @@ msgstr ""
 
 #: DocType: Custom DocPerm:0
 msgid "Cancel"
-msgstr "Cancelar"
+msgstr "cancelar"
 
 #: DocType: Comment:0
 msgid "Cancelled"
-msgstr "Cancelado"
+msgstr "CANCELADO"
 
 #: DocType: Number Card Link:0
 msgid "Card"
@@ -2257,7 +2257,7 @@ msgstr "Bate-papo"
 
 #: DocType: DocField:0
 msgid "Check"
-msgstr "Verificar"
+msgstr "verificar"
 
 #: DocType: Document Naming Settings:0
 msgid ""
@@ -2348,7 +2348,7 @@ msgstr "Metadados do Cliente"
 
 #: DocType: Client Script:0
 msgid "Client Script"
-msgstr "Script do Cliente"
+msgstr "Script do cliente"
 
 #: DocType: Connected App:0
 msgid "Client Secret"
@@ -2440,7 +2440,7 @@ msgstr "Comm10E"
 
 #: DocType: Comment:0
 msgid "Comment"
-msgstr "Comentário"
+msgstr "comentário"
 
 #: DocType: Comment:0
 msgid "Comment By"
@@ -2802,7 +2802,7 @@ msgstr "Configuração Personalizada"
 
 #: DocType: Data Import:0
 msgid "Custom Delimiters"
-msgstr "Delimitadores Personalizados"
+msgstr "Delimitadores personalizados"
 
 #: DocType: Custom DocPerm:0
 msgid "Custom DocPerm"
@@ -2890,11 +2890,11 @@ msgstr "Personalizar Campo do Formulário"
 
 #: DocType: DocType State:0
 msgid "Cyan"
-msgstr "Ciano"
+msgstr "ciano"
 
 #: DocType: Recorder:0
 msgid "DELETE"
-msgstr "EXCLUIR"
+msgstr "Excluir"
 
 #: DocType: DocType:0
 msgid "DESC"
@@ -2906,7 +2906,7 @@ msgstr "DLE"
 
 #: DocType: Auto Repeat:0
 msgid "Daily"
-msgstr "Diário"
+msgstr "Diariamente"
 
 #: DocType: Scheduled Job Type:0
 msgid "Daily Long"
@@ -3001,7 +3001,7 @@ msgstr "Versão do Banco de Dados"
 
 #: DocType: Activity Log:0
 msgid "Date"
-msgstr "Data"
+msgstr "Data "
 
 #: DocType: Language:0
 msgid "Date Format"
@@ -3045,7 +3045,7 @@ msgstr "Log de Depuração"
 
 #: DocType: DocField:0
 msgid "Default"
-msgstr "Padrão"
+msgstr "padrão"
 
 #: DocType: Document Naming Settings:0
 msgid "Default Amendment Naming"
@@ -3193,7 +3193,7 @@ msgstr "Passos de Exclusão"
 
 #: DocType: Data Import:0
 msgid "Delimiter Options"
-msgstr "Opções de Delimitador"
+msgstr "Opções de delimitador"
 
 #: DocType: Communication:0
 msgid "Delivery Status"
@@ -3217,7 +3217,7 @@ msgstr "Depende de"
 
 #: DocType: Assignment Rule:0
 msgid "Description"
-msgstr "Descrição"
+msgstr "descrição"
 
 #: DocType: Test Blog Post:0
 msgid ""
@@ -3522,7 +3522,7 @@ msgstr "Título do Documento"
 
 #: DocType: Assignment Rule:0
 msgid "Document Type"
-msgstr "Tipo de Documento"
+msgstr "Tipo de Documento "
 
 #: DocType: Milestone Tracker:0
 msgid "Document Type to Track"
@@ -3649,7 +3649,7 @@ msgstr "Modelo dinâmico"
 
 #: DocType: Comment:0
 msgid "Edit"
-msgstr "Editar"
+msgstr "editar"
 
 #: DocType: Web Page Block:0
 msgid "Edit Values"
@@ -3725,7 +3725,7 @@ msgstr "Id de E-mail"
 
 #: DocType: Communication:0
 msgid "Email Inbox"
-msgstr "Caixa de Entrada de E-mail"
+msgstr "caixa de entrada de e-mail"
 
 #: DocType: Email Queue:0
 msgid "Email Queue"
@@ -3898,7 +3898,7 @@ msgstr "Habilitar rastreamento de site dentro do aplicativo"
 
 #: DocType: Language:0
 msgid "Enabled"
-msgstr "Ativado"
+msgstr "Habilitado"
 
 #: DocType: DocType:0
 msgid "Enables Calendar and Gantt views."
@@ -4112,7 +4112,7 @@ msgstr "Tempo de expiração da página de imagem do código QR"
 
 #: DocType: Custom DocPerm:0
 msgid "Export"
-msgstr "Exportar"
+msgstr "exportar"
 
 #: DocType: Access Log:0
 msgid "Export From"
@@ -4156,7 +4156,7 @@ msgstr "Parâmetros Extras"
 
 #: DocType: Social Login Key:0
 msgid "Facebook"
-msgstr "Facebook"
+msgstr "facebook"
 
 #: DocType: System Health Report:0
 msgid "Fail"
@@ -4236,7 +4236,7 @@ msgstr "Campo a Rastrear"
 
 #: DocType: Report Column:0
 msgid "Fieldname"
-msgstr "Nome do Campo"
+msgstr "nome do campo"
 
 #: DocType: DocType:0
 msgid "Fields"
@@ -4260,7 +4260,7 @@ msgstr "Tipo de campo"
 
 #: DocType: File:0
 msgid "File"
-msgstr "Arquivo"
+msgstr "arquivo"
 
 #: DocType: Access Log:0
 msgid "File Information"
@@ -4350,7 +4350,7 @@ msgstr ""
 
 #: DocType: Submission Queue:0
 msgid "Finished"
-msgstr "Concluído"
+msgstr "concluído"
 
 #: DocType: Prepared Report:0
 msgid "Finished At"
@@ -4370,7 +4370,7 @@ msgstr "Mensagem de sucesso inicial"
 
 #: DocType: Language:0
 msgid "Flag"
-msgstr "Bandeira"
+msgstr "bandeira"
 
 #: DocType: DocField:0
 msgid "Float"
@@ -4398,7 +4398,7 @@ msgstr "Folio"
 
 #: DocType: Print Settings:0
 msgid "Font"
-msgstr "Fonte"
+msgstr "fonte"
 
 #: DocType: Website Theme:0
 msgid "Font Properties"
@@ -4818,11 +4818,11 @@ msgstr "Tipo de concessão"
 
 #: DocType: DocType State:0
 msgid "Gray"
-msgstr "Cinza"
+msgstr "cinza"
 
 #: DocType: DocType State:0
 msgid "Green"
-msgstr "Verde"
+msgstr "verde"
 
 #: DocType: DocType:0
 msgid "Grid Page Length"
@@ -4854,7 +4854,7 @@ msgstr "Cabeçalho"
 
 #: DocType: Geolocation Settings:0
 msgid "HERE"
-msgstr "AQUI"
+msgstr "aqui"
 
 #: DocType: Language:0
 msgid "HH:mm"
@@ -5002,7 +5002,7 @@ msgstr "Helvetica Neue"
 
 #: DocType: DocField:0
 msgid "Hidden"
-msgstr "Oculto"
+msgstr "oculto"
 
 #: DocType: Form Tour Step:0
 msgid "Hidden Fields"
@@ -5098,7 +5098,7 @@ msgstr "Destaque"
 
 #: DocType: Website Settings:0
 msgid "Home"
-msgstr "Início"
+msgstr "início"
 
 #: DocType: Role:0
 msgid "Home Page"
@@ -5137,7 +5137,7 @@ msgstr "Nome legível para exibição ao usuário final."
 
 #: DocType: User Session Display:0
 msgid "ID"
-msgstr "ID"
+msgstr "Id"
 
 #: DocType: Property Setter:0
 msgid "ID (name) of the entity whose property is to be set"
@@ -5165,7 +5165,7 @@ msgstr "Endereço IP"
 
 #: DocType: DocField:0
 msgid "Icon"
-msgstr "Ícone"
+msgstr "ícone"
 
 #: DocType: Desktop Settings:0
 msgid "Icon Style"
@@ -5400,7 +5400,7 @@ msgstr "Aplicativos Ignorados"
 
 #: DocType: Contact:0
 msgid "Image"
-msgstr "Imagem"
+msgstr "imagem"
 
 #: DocType: DocType:0
 msgid "Image Field"
@@ -5428,7 +5428,7 @@ msgstr "Implícito"
 
 #: DocType: Custom DocPerm:0
 msgid "Import"
-msgstr "Importar"
+msgstr "importar"
 
 #: DocType: Data Import:0
 msgid "Import File"
@@ -5504,7 +5504,7 @@ msgstr "Em segundos"
 
 #: DocType: Form Tour:0
 msgid "Inbox"
-msgstr "Caixa de Entrada"
+msgstr "caixa de entrada"
 
 #: DocType: Communication:0
 msgid "Inbox User"
@@ -5544,7 +5544,7 @@ msgstr "Configurações de Entrada"
 
 #: DocType: Workspace Sidebar Item:0
 msgid "Indent"
-msgstr "Recuar"
+msgstr "Indentação"
 
 #: DocType: DocField:0
 msgid "Index"
@@ -5568,7 +5568,7 @@ msgstr "Indicador"
 
 #: DocType: Workspace:0
 msgid "Indicator Color"
-msgstr "Cor do Indicador"
+msgstr "Cor do indicador"
 
 #: DocType: Comment:0
 msgid "Info"
@@ -5802,7 +5802,7 @@ msgstr "É Spam"
 
 #: DocType: Navbar Item:0
 msgid "Is Standard"
-msgstr "É Padrão"
+msgstr "É padrão"
 
 #: DocType: DocType:0
 msgid "Is Submittable"
@@ -6042,7 +6042,7 @@ msgstr "Caminho de pesquisa LDAP para Usuários"
 
 #: DocType: Comment:0
 msgid "Label"
-msgstr "Rótulo"
+msgstr "rótulo"
 
 #: DocType: Custom Field:0
 msgid "Label Help"
@@ -6062,11 +6062,11 @@ msgstr "Idioma"
 
 #: DocType: Language:0
 msgid "Language Code"
-msgstr "Código do Idioma"
+msgstr "Código do idioma"
 
 #: DocType: Language:0
 msgid "Language Name"
-msgstr "Nome do Idioma"
+msgstr "Nome do idioma"
 
 #: DocType: System Health Report:0
 msgid "Last 10 active users"
@@ -6321,7 +6321,7 @@ msgstr "Links"
 
 #: DocType: Client Script:0
 msgid "List"
-msgstr "Lista"
+msgstr "lista"
 
 #: DocType: DocField:0
 msgid "List / Search Settings"
@@ -6369,7 +6369,7 @@ msgstr "Localização"
 
 #: DocType: Package Import:0
 msgid "Log"
-msgstr "Log"
+msgstr "Registro"
 
 #: DocType: System Settings:0
 msgid "Log API Requests"
@@ -6449,7 +6449,7 @@ msgstr "Sair de Todos os Dispositivos Após Alterar a Senha"
 
 #: DocType: Logs To Clear:0
 msgid "Logs To Clear"
-msgstr "Logs a Limpar"
+msgstr "Logs para Limpar"
 
 #: DocType: Log Settings:0
 msgid "Logs to Clear"
@@ -6927,7 +6927,7 @@ msgstr "Nunca"
 
 #: apps/frappe/frappe/core/doctype/success_action/success_action.js:57
 msgid "New"
-msgstr "Novo"
+msgstr "novo"
 
 #: DocType: Form Tour:0
 msgid "New Document Form"
@@ -7125,7 +7125,7 @@ msgstr "Notificar Usuários em Cada Login"
 
 #: DocType: Auto Repeat:0
 msgid "Notify by Email"
-msgstr "Notificar por E-mail"
+msgstr "Notificar por e-mail"
 
 #: DocType: DocShare:0
 msgid "Notify by email"
@@ -7249,7 +7249,7 @@ msgstr "Configurações OAuth"
 
 #: DocType: Recorder:0
 msgid "OPTIONS"
-msgstr "OPÇÕES"
+msgstr "Opções"
 
 #: DocType: System Settings:0
 msgid "OTP App"
@@ -7274,7 +7274,7 @@ msgstr "Ocorrências"
 
 #: DocType: LDAP Settings:0
 msgid "Off"
-msgstr "Desligado"
+msgstr "desligado"
 
 #: DocType: Address:0
 msgid "Office"
@@ -7384,7 +7384,7 @@ msgstr "Abrir Documentos"
 
 #: DocType: Notification Log:0
 msgid "Open Reference Document"
-msgstr "Abrir Documento de Referência"
+msgstr "Abrir documento de referência"
 
 #: DocType: Top Bar Item:0
 msgid "Open URL in a New Tab"
@@ -7435,7 +7435,7 @@ msgstr "Ajuda de Opções"
 
 #: DocType: DocType State:0
 msgid "Orange"
-msgstr "Laranja"
+msgstr "laranja"
 
 #: DocType: Kanban Board Column:0
 msgid "Order"
@@ -7483,7 +7483,7 @@ msgstr "Saída"
 
 #: DocType: Recorder:0
 msgid "PATCH"
-msgstr "PATCH"
+msgstr "Patch"
 
 #: DocType: Auto Email Report:0
 msgid "PDF"
@@ -7515,7 +7515,7 @@ msgstr "PID"
 
 #: DocType: Recorder:0
 msgid "POST"
-msgstr "POST"
+msgstr "Postar"
 
 #: DocType: Recorder:0
 msgid "PUT"
@@ -7802,7 +7802,7 @@ msgstr "CEP"
 
 #: DocType: DocType State:0
 msgid "Pink"
-msgstr "Rosa"
+msgstr "rosa"
 
 #: DocType: DocField:0
 msgid "Placeholder"
@@ -7921,7 +7921,7 @@ msgstr "Cor primária"
 
 #: DocType: Custom DocPerm:0
 msgid "Print"
-msgstr "Imprimir"
+msgstr "imprimir"
 
 #: DocType: Auto Repeat:0
 msgid "Print Format"
@@ -8127,7 +8127,7 @@ msgstr "Usuário de Compras"
 
 #: DocType: DocType State:0
 msgid "Purple"
-msgstr "Roxo"
+msgstr "roxo"
 
 #: DocType: Push Notification Settings:0
 msgid "Push Notification Settings"
@@ -8191,7 +8191,7 @@ msgstr "Fila(s)"
 
 #: DocType: Prepared Report:0
 msgid "Queued"
-msgstr "Enfileirado"
+msgstr "Na fila"
 
 #: DocType: Prepared Report:0
 msgid "Queued At"
@@ -8231,7 +8231,7 @@ msgstr "Trabalhador RQ"
 
 #: DocType: DocType:0
 msgid "Random"
-msgstr "Aleatório"
+msgstr "aleatório"
 
 #: DocType: Server Script:0
 msgid "Rate Limiting"
@@ -8259,7 +8259,7 @@ msgstr "Impressão Bruta"
 
 #: DocType: Communication:0
 msgid "Read"
-msgstr "Lido"
+msgstr "ler"
 
 #: DocType: DocField:0
 msgid "Read Only"
@@ -8339,7 +8339,7 @@ msgstr "Índice Sugerido do Gravador"
 
 #: DocType: DocType State:0
 msgid "Red"
-msgstr "Vermelho"
+msgstr "vermelho"
 
 #: DocType: Website Route Redirect:0
 msgid "Redirect HTTP Status"
@@ -8427,7 +8427,7 @@ msgstr "Tipo de Documento de Referência"
 
 #: DocType: Activity Log:0
 msgid "Reference Name"
-msgstr "Nome de Referência"
+msgstr "Nome de referência"
 
 #: DocType: Activity Log:0
 msgid "Reference Owner"
@@ -8459,7 +8459,7 @@ msgstr "Token de Atualização"
 
 #: DocType: Communication:0
 msgid "Rejected"
-msgstr "Rejeitado"
+msgstr "Rejeitado "
 
 #: DocType: Related Todos:0
 msgid "Related Todos"
@@ -8491,7 +8491,7 @@ msgstr "Lembrete"
 
 #: DocType: Permission Log:0
 msgid "Removed"
-msgstr "Removido"
+msgstr "removido"
 
 #: DocType: Print Settings:0
 msgid "Repeat Header and Footer"
@@ -8531,7 +8531,7 @@ msgstr "Responder"
 
 #: DocType: Custom DocPerm:0
 msgid "Report"
-msgstr "Relatório"
+msgstr "relatório"
 
 #: DocType: Report:0
 msgid "Report Builder"
@@ -8683,7 +8683,7 @@ msgstr "URI do Termo de Serviço do Recurso"
 
 #: DocType: Email Template:0
 msgid "Response"
-msgstr "Resposta"
+msgstr "resposta"
 
 #: DocType: OAuth Client:0
 msgid "Response Type"
@@ -8796,7 +8796,7 @@ msgstr "Papeis Atribuídos"
 
 #: DocType: Role Profile:0
 msgid "Roles HTML"
-msgstr "Papeis HTML"
+msgstr "Papel HTML"
 
 #: DocType: Role Permission for Page and Report:0
 msgid "Roles Html"
@@ -8972,7 +8972,7 @@ msgstr "Agendar"
 
 #: DocType: Communication:0
 msgid "Scheduled"
-msgstr "Agendado"
+msgstr "agendado"
 
 #: DocType: Scheduler Event:0
 msgid "Scheduled Against"
@@ -9048,7 +9048,7 @@ msgstr "Scripts"
 
 #: DocType: System Settings:0
 msgid "Search"
-msgstr "Pesquisar"
+msgstr "pesquisar"
 
 #: DocType: User:0
 msgid "Search Bar"
@@ -9056,7 +9056,7 @@ msgstr "Barra de Pesquisa"
 
 #: DocType: DocType:0
 msgid "Search Fields"
-msgstr "Campos de Pesquisa"
+msgstr "Campos de pesquisa"
 
 #: DocType: Global Search Settings:0
 msgid "Search Priorities"
@@ -9310,7 +9310,7 @@ msgstr "Separador"
 
 #: DocType: Workspace:0
 msgid "Sequence Id"
-msgstr "ID da Sequência"
+msgstr "ID da sequência"
 
 #: DocType: Document Naming Settings:0
 msgid "Series List for this Transaction"
@@ -9346,7 +9346,7 @@ msgstr "Configurações de Padrão de Sessão"
 
 #: DocType: Session Default Settings:0
 msgid "Session Defaults"
-msgstr "Padrões de Sessão"
+msgstr "Padrões de sessão"
 
 #: DocType: System Settings:0
 msgid "Session Expiry (idle timeout)"
@@ -9503,7 +9503,7 @@ msgstr "Assistente de Configuração"
 
 #: DocType: Custom DocPerm:0
 msgid "Share"
-msgstr "Compartilhar"
+msgstr "compartilhar"
 
 #: DocType: Comment:0
 msgid "Shared"
@@ -9623,7 +9623,7 @@ msgstr "Mostrar Títulos de Seção"
 
 #: DocType: Web Page:0
 msgid "Show Sidebar"
-msgstr "Mostrar Barra Lateral"
+msgstr "Mostrar barra lateral"
 
 #: DocType: OAuth Settings:0
 msgid "Show Social Login Key as Authorization Server"
@@ -9970,7 +9970,7 @@ msgstr "Campo de Data de Início"
 
 #: DocType: RQ Worker:0
 msgid "Start Time"
-msgstr "Hora de Início"
+msgstr "Hora de início"
 
 #: DocType: LDAP Settings:0
 msgid "StartTLS"
@@ -9978,7 +9978,7 @@ msgstr "StartTLS"
 
 #: DocType: Prepared Report:0
 msgid "Started"
-msgstr "Iniciado"
+msgstr "iniciado"
 
 #: DocType: RQ Job:0
 msgid "Started At"
@@ -10113,7 +10113,7 @@ msgstr "Fila de Submissão"
 
 #: DocType: Custom DocPerm:0
 msgid "Submit"
-msgstr "Enviar"
+msgstr "enviar"
 
 #: DocType: Data Import:0
 msgid "Submit After Import"
@@ -10161,7 +10161,7 @@ msgstr "Ação de Sucesso"
 
 #: DocType: Module Onboarding:0
 msgid "Success Message"
-msgstr "Mensagem de Sucesso"
+msgstr "mensagem de sucesso"
 
 #: DocType: Token Cache:0
 msgid "Success URI"
@@ -10226,7 +10226,7 @@ msgstr "Console do Sistema"
 #: Navbar::0
 msgctxt "Label of a Navbar Item"
 msgid "System Health"
-msgstr "Saúde do Sistema"
+msgstr "Saúde do sistema"
 
 #: DocType: System Health Report:0
 msgid "System Health Report"
@@ -10254,7 +10254,7 @@ msgstr "Trabalhadores do Relatório de Saúde do Sistema"
 
 #: DocType: Assignment Rule:0
 msgid "System Manager"
-msgstr "Gerenciador do Sistema"
+msgstr "Administrador do Sistema"
 
 #: DocType: Notification:0
 msgid "System Notification"
@@ -10310,7 +10310,7 @@ msgstr "Tablóide"
 
 #: DocType: Tag:0
 msgid "Tag"
-msgstr "Tag"
+msgstr "etiqueta"
 
 #: DocType: Tag Link:0
 msgid "Tag Link"
@@ -10326,7 +10326,7 @@ msgstr "Tarefa"
 
 #: DocType: Workflow Transition Tasks:0
 msgid "Tasks"
-msgstr "Tarefas"
+msgstr "tarefas"
 
 #: DocType: Address:0
 msgid "Tax Category"
@@ -10575,7 +10575,7 @@ msgstr "Quinta-feira"
 
 #: DocType: DocField:0
 msgid "Time"
-msgstr "Hora"
+msgstr "hora"
 
 #: DocType: Language:0
 msgid "Time Format"
@@ -10674,7 +10674,7 @@ msgstr "Data e Hora"
 
 #: DocType: Custom Doctype:0
 msgid "Title"
-msgstr "Título"
+msgstr "título"
 
 #: DocType: DocType:0
 msgid "Title Field"
@@ -10771,12 +10771,12 @@ msgstr "Tarefa Dois"
 #: Navbar::0
 msgctxt "Label of a Navbar Item"
 msgid "Toggle Full Width"
-msgstr "Alternar Largura Total"
+msgstr "Alternar largura total"
 
 #: Navbar::0
 msgctxt "Label of a Navbar Item"
 msgid "Toggle Theme"
-msgstr "Alternar Tema"
+msgstr "Alternar tema"
 
 #: DocType: OAuth Client:0
 msgid "Token"
@@ -10940,7 +10940,7 @@ msgstr "Tradutor"
 
 #: DocType: Communication:0
 msgid "Trash"
-msgstr "Lixo"
+msgstr "lixeira"
 
 #: DocType: Form Tour:0
 msgid "Tree"
@@ -11923,7 +11923,7 @@ msgstr "Áreas de Trabalho"
 
 #: DocType: Custom DocPerm:0
 msgid "Write"
-msgstr "Escrever"
+msgstr "gravar"
 
 #: DocType: Dashboard Chart:0
 msgid "X Field"
@@ -11959,7 +11959,7 @@ msgstr "Anual"
 
 #: DocType: DocType State:0
 msgid "Yellow"
-msgstr "Amarelo"
+msgstr "amarelo"
 
 #: DocType: Page:0
 msgid "Yes"
@@ -12456,7 +12456,7 @@ msgstr "mover"
 
 #: DocType: Workflow State:0
 msgid "music"
-msgstr "música"
+msgstr "Música"
 
 #: DocType: Email Account:0
 msgid "no failed attempts"
@@ -13437,7 +13437,7 @@ msgstr "Adicionar Filho"
 
 #: apps/frappe/frappe/public/dist/js/list.bundle.4KG2W3OU.js:9832
 msgid "Add Column"
-msgstr "Adicionar Coluna"
+msgstr "Adicionar coluna"
 
 #: apps/frappe/frappe/core/doctype/communication/communication.js:127
 msgid "Add Contact"
@@ -13634,7 +13634,7 @@ msgstr "Busca avançada"
 
 #: apps/frappe/frappe/public/dist/js/list.bundle.4KG2W3OU.js:690
 msgid "After"
-msgstr "Depois"
+msgstr "após"
 
 #: apps/frappe/frappe/desk/doctype/number_card/number_card.py:63
 msgid "Aggregate Field is required to create a number card"
@@ -14313,7 +14313,7 @@ msgstr "Calcular"
 
 #: apps/frappe/frappe/public/dist/js/web_form.bundle.AANXCITD.js:23838
 msgid "Camera"
-msgstr "Câmera"
+msgstr "câmera"
 
 #: apps/frappe/frappe/custom/doctype/custom_field/custom_field.py:410
 msgid "Can not rename as column {0} is already present on DocType."
@@ -14760,7 +14760,7 @@ msgstr "O Chromium não foi baixado. Execute a configuração primeiro."
 
 #: apps/frappe/frappe/core/doctype/recorder/recorder_list.js:12
 msgid "Clear"
-msgstr "Limpar"
+msgstr "limpar"
 
 #: apps/frappe/frappe/public/dist/js/desk.bundle.HY5KZHHZ.js:35680
 msgid "Clear & Add Template"
@@ -15314,7 +15314,7 @@ msgstr "Ctrl+Enter para adicionar comentário"
 
 #: apps/frappe/frappe/public/dist/js/form.bundle.ZYMBCX6X.js:2802
 msgid "Current status"
-msgstr "Status atual"
+msgstr "Status Atual"
 
 #: apps/frappe/frappe/public/dist/js/form.bundle.ZYMBCX6X.js:1214
 msgid "Currently Viewing"
@@ -15324,7 +15324,7 @@ msgstr "Visualizando atualmente"
 msgid "Custom Document Types Limit Exceeded"
 msgstr "Limite de Tipos de Documentos Personalizados Excedido"
 
-#: apps/frappe/frappe/desk/desktop.py:524
+#: apps/frappe/frappe/desk/desktop.py:529
 msgid "Custom Documents"
 msgstr "Documentos Personalizados"
 
@@ -15369,7 +15369,7 @@ msgstr ""
 "Diretório LDAP personalizado selecionado, certifique-se de que 'Atributo de "
 "membro do grupo LDAP' e 'Classe de objeto do grupo' sejam inseridos"
 
-#: apps/frappe/frappe/desk/desktop.py:525
+#: apps/frappe/frappe/desk/desktop.py:530
 msgid "Custom Reports"
 msgstr "Relatórios personalizados"
 
@@ -15419,7 +15419,7 @@ msgstr "Cortar"
 
 #: apps/frappe/frappe/templates/print_formats/standard_macros.html:215
 msgid "DRAFT"
-msgstr "RASCUNHO"
+msgstr "Rascunho"
 
 #: apps/frappe/frappe/templates/emails/upcoming_events.html:8
 msgid ""
@@ -15558,7 +15558,7 @@ msgstr "Excluir Tudo"
 #: apps/frappe/frappe/public/dist/js/form_builder.bundle.ZF57XIZE.js:47066
 msgctxt "Title of confirmation dialog"
 msgid "Delete Column"
-msgstr "Excluir Coluna"
+msgstr "Excluir coluna"
 
 #: apps/frappe/frappe/website/doctype/personal_data_deletion_request/personal_data_deletion_request.js:10
 msgid "Delete Data"
@@ -15571,12 +15571,12 @@ msgstr "Excluir Quadro Kanban"
 #: apps/frappe/frappe/public/dist/js/form_builder.bundle.ZF57XIZE.js:47008
 msgctxt "Title of confirmation dialog"
 msgid "Delete Section"
-msgstr "Excluir Seção"
+msgstr "Excluir seção"
 
 #: apps/frappe/frappe/public/dist/js/form_builder.bundle.ZF57XIZE.js:47318
 msgctxt "Title of confirmation dialog"
 msgid "Delete Tab"
-msgstr "Excluir Guia"
+msgstr "Excluir guia"
 
 #: apps/frappe/frappe/public/dist/js/report.bundle.OSWLGZ24.js:7431
 msgid "Delete and Generate New"
@@ -15679,7 +15679,7 @@ msgstr "Descendentes de"
 msgid "Descendants Of (inclusive)"
 msgstr "Descendentes de (inclusivo)"
 
-#: apps/frappe/frappe/desk/doctype/desktop_icon/desktop_icon.py:317
+#: apps/frappe/frappe/desk/doctype/desktop_icon/desktop_icon.py:320
 msgid "Desktop Icon already exists"
 msgstr "Ícone da Área de Trabalho já existe"
 
@@ -15798,7 +15798,7 @@ msgstr "Tipo de Documento não suportado pelas Configurações de Log."
 
 #: apps/frappe/frappe/public/dist/js/list.bundle.4KG2W3OU.js:8208
 msgid "DocType required"
-msgstr "Tipo de Documento necessário"
+msgstr "Tipo de documento obrigatório"
 
 #: apps/frappe/frappe/modules/utils.py:177
 msgid "DocType {0} does not exist."
@@ -15991,7 +15991,7 @@ msgstr "Clique duas vezes para editar o rótulo"
 
 #: apps/frappe/frappe/core/doctype/file/file.js:15
 msgid "Download"
-msgstr "Baixar"
+msgstr "baixar"
 
 #: apps/frappe/frappe/templates/emails/download_data.html:6
 msgid "Download Data"
@@ -16963,7 +16963,7 @@ msgstr "O arquivo {0} não existe"
 
 #: apps/frappe/frappe/core/doctype/prepared_report/prepared_report.js:11
 msgid "Filter"
-msgstr "Filtro"
+msgstr "filtro"
 
 #: apps/frappe/frappe/public/dist/js/list.bundle.4KG2W3OU.js:6450
 msgid "Filter By"
@@ -17139,7 +17139,7 @@ msgstr "Esqueceu a senha?"
 
 #: apps/frappe/frappe/core/doctype/communication/communication.js:70
 msgid "Forward"
-msgstr "Encaminhar"
+msgstr "encaminhar"
 
 #: apps/frappe/frappe/public/dist/js/desk.bundle.HY5KZHHZ.js:34712
 msgid "Frappe Blog"
@@ -17544,7 +17544,7 @@ msgstr "Pasta Inicial / Pasta de Teste 2"
 #: apps/frappe/frappe/public/dist/js/web_form.bundle.AANXCITD.js:41067
 msgctxt "Duration"
 msgid "Hours"
-msgstr "Horas"
+msgstr "horas"
 
 #: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.NQBRUJPR.js:42340
 msgid "ID (name)"
@@ -17730,11 +17730,11 @@ msgstr "Na Visualização em Grade"
 
 #: apps/frappe/frappe/core/report/prepared_report_analytics/prepared_report_analytics.js:19
 msgid "In Minutes"
-msgstr "Em Minutos"
+msgstr "Em minutos"
 
 #: apps/frappe/frappe/core/doctype/data_import/data_import.js:42
 msgid "In Progress"
-msgstr "Em Andamento"
+msgstr "Em andamento"
 
 #: apps/frappe/frappe/database/database.py:288
 msgid "In Read Only Mode"
@@ -18359,7 +18359,7 @@ msgstr "O JavaScript está desativado no seu navegador"
 
 #: apps/frappe/frappe/core/doctype/data_import/data_import.js:191
 msgid "Job Stopped Successfully"
-msgstr "Trabalho Parado com Sucesso"
+msgstr "Trabalho parado com sucesso"
 
 #: apps/frappe/frappe/core/doctype/rq_job/rq_job.py:121
 msgid "Job is in {0} state and can't be cancelled"
@@ -18397,7 +18397,7 @@ msgstr "Exibição Kanban"
 
 #: apps/frappe/frappe/public/dist/js/web_form.bundle.AANXCITD.js:45145
 msgid "Keyboard Shortcuts"
-msgstr "Atalhos do Teclado"
+msgstr "Atalhos de teclado"
 
 #: apps/frappe/frappe/public/dist/js/frappe-web.bundle.SZ7HXF36.js:43245
 msgctxt "Number system"
@@ -18619,7 +18619,7 @@ msgstr "Vinculado com {0}"
 
 #: apps/frappe/frappe/public/dist/js/desk.bundle.HY5KZHHZ.js:34724
 msgid "LinkedIn"
-msgstr "LinkedIn"
+msgstr "linkedin"
 
 #: apps/frappe/frappe/public/dist/js/list.bundle.4KG2W3OU.js:2255
 msgid "List View"
@@ -18635,7 +18635,7 @@ msgstr "Listas"
 
 #: apps/frappe/frappe/public/dist/js/list.bundle.4KG2W3OU.js:2433
 msgid "Load More"
-msgstr "Carregar Mais"
+msgstr "Carregar mais"
 
 #: apps/frappe/frappe/public/dist/js/form.bundle.ZYMBCX6X.js:5643
 msgctxt "Form timeline"
@@ -18696,7 +18696,7 @@ msgstr "ID de Login é obrigatório"
 
 #: apps/frappe/frappe/www/login.py:156
 msgid "Login To {0}"
-msgstr "Login em {0}"
+msgstr "Faça login em {0}"
 
 #: apps/frappe/frappe/twofactor.py:260
 msgid "Login Verification Code from {}"
@@ -18784,7 +18784,7 @@ msgstr "Parece que você não recebeu nenhuma notificação."
 #: apps/frappe/frappe/public/dist/js/frappe-web.bundle.SZ7HXF36.js:43221
 msgctxt "Number system"
 msgid "M"
-msgstr "M"
+msgstr "m"
 
 #: apps/frappe/frappe/desk/page/setup_wizard/install_fixtures.py:48
 msgid "Madam"
@@ -18996,7 +18996,7 @@ msgstr "Permissão Faltante"
 
 #: apps/frappe/frappe/www/update-password.html:134
 msgid "Missing Value"
-msgstr "Valor Faltante"
+msgstr "Valor ausente"
 
 #: apps/frappe/frappe/workflow/doctype/workflow/workflow.js:71
 msgid "Missing Values Required"
@@ -19048,7 +19048,7 @@ msgstr "Muito provavelmente sua senha é muito longa."
 
 #: apps/frappe/frappe/core/doctype/communication/communication.js:86
 msgid "Move"
-msgstr "Mover"
+msgstr "mover"
 
 #: apps/frappe/frappe/public/dist/js/web_form.bundle.AANXCITD.js:36335
 msgid "Move To"
@@ -19467,7 +19467,7 @@ msgstr "Nenhum Nome Especificado para {0}"
 
 #: apps/frappe/frappe/public/dist/js/desk.bundle.HY5KZHHZ.js:33345
 msgid "No New notifications"
-msgstr "Nenhuma nova notificação"
+msgstr "Nenhuma notificação nova"
 
 #: apps/frappe/frappe/core/doctype/doctype/doctype.py:1764
 msgid "No Permissions Specified"
@@ -19735,7 +19735,7 @@ msgstr "Sem e-mail {0}"
 #: apps/frappe/frappe/public/dist/js/form_builder.bundle.ZF57XIZE.js:42295
 msgctxt "Title of the 'row number' column"
 msgid "No."
-msgstr "N.º"
+msgstr "Nº"
 
 #: apps/frappe/frappe/desk/page/setup_wizard/install_fixtures.py:33
 msgid "Non-Conforming"
@@ -19767,7 +19767,7 @@ msgstr "Não Igual"
 
 #: apps/frappe/frappe/app.py:390
 msgid "Not Found"
-msgstr "Não Encontrado"
+msgstr "Não encontrado"
 
 #: apps/frappe/frappe/public/dist/js/list.bundle.4KG2W3OU.js:651
 msgid "Not In"
@@ -19783,7 +19783,7 @@ msgstr "Não vinculado a nenhum registro"
 
 #: apps/frappe/frappe/public/dist/js/web_form.bundle.AANXCITD.js:46358
 msgid "Not Permitted"
-msgstr "Não Permitido"
+msgstr "Não permitido"
 
 #: apps/frappe/frappe/desk/query_report.py:596
 msgid "Not Permitted to read {0}"
@@ -19906,7 +19906,7 @@ msgstr ""
 
 #: apps/frappe/frappe/core/doctype/data_export/exporter.py:183
 msgid "Notes:"
-msgstr "Notas:"
+msgstr "Notas: "
 
 #: apps/frappe/frappe/public/dist/js/desk.bundle.HY5KZHHZ.js:33497
 msgid "Nothing New"
@@ -19951,7 +19951,7 @@ msgstr "Notificações Desabilitadas"
 
 #: apps/frappe/frappe/public/dist/js/web_form.bundle.AANXCITD.js:24882
 msgid "Now"
-msgstr "Agora"
+msgstr "agora"
 
 #: apps/frappe/frappe/public/dist/js/form.bundle.ZYMBCX6X.js:8388
 msgid "Number of attachment fields are more than {}, limit updated to {}."
@@ -21365,7 +21365,7 @@ msgstr "Referência: {0} {1}"
 
 #: apps/frappe/frappe/printing/page/print/print.js:86
 msgid "Refresh"
-msgstr "Atualizar"
+msgstr "atualizar"
 
 #: apps/frappe/frappe/core/page/dashboard_view/dashboard_view.js:177
 msgid "Refresh All"
@@ -21438,7 +21438,7 @@ msgstr "Lembrete definido em {0}"
 
 #: apps/frappe/frappe/public/dist/js/list.bundle.4KG2W3OU.js:1703
 msgid "Remove"
-msgstr "Remover"
+msgstr "remover"
 
 #: apps/frappe/frappe/core/doctype/rq_job/rq_job_list.js:8
 msgid "Remove Failed Jobs"
@@ -21446,7 +21446,7 @@ msgstr "Remover Trabalhos Falhados"
 
 #: apps/frappe/frappe/printing/page/print_format_builder/print_format_builder.js:493
 msgid "Remove Field"
-msgstr "Remover Campo"
+msgstr "Remover campo"
 
 #: apps/frappe/frappe/public/dist/js/list.bundle.4KG2W3OU.js:957
 msgid "Remove Filter"
@@ -21454,7 +21454,7 @@ msgstr "Remover Filtro"
 
 #: apps/frappe/frappe/printing/page/print_format_builder/print_format_builder.js:427
 msgid "Remove Section"
-msgstr "Remover Seção"
+msgstr "Remover seção"
 
 #: apps/frappe/frappe/custom/doctype/customize_form/customize_form.js:138
 msgid "Remove all customizations?"
@@ -21516,7 +21516,7 @@ msgstr "Reabrir"
 
 #: apps/frappe/frappe/public/dist/js/form.bundle.ZYMBCX6X.js:1862
 msgid "Repeat"
-msgstr "Repetir"
+msgstr "repetir"
 
 #: apps/frappe/frappe/utils/password_strength.py:110
 msgid "Repeats like \"aaa\" are easy to guess"
@@ -21693,7 +21693,7 @@ msgstr "Redefinir Permissões para {0}?"
 
 #: apps/frappe/frappe/public/dist/js/form_builder.bundle.ZF57XIZE.js:46522
 msgid "Reset To Default"
-msgstr "Restaurar Padrão"
+msgstr "Restaurar padrão"
 
 #: apps/frappe/frappe/public/dist/js/desk.bundle.HY5KZHHZ.js:32365
 msgid "Reset sorting"
@@ -22867,7 +22867,7 @@ msgstr "Passos para verificar seu login"
 
 #: apps/frappe/frappe/core/doctype/recorder/recorder_list.js:87
 msgid "Stop"
-msgstr "Parar"
+msgstr "parar"
 
 #: apps/frappe/frappe/core/doctype/user/user.js:497
 msgid "Store the API secret securely. It won't be displayed again."
@@ -23092,7 +23092,7 @@ msgstr "A tabela {0} não pode estar vazia"
 
 #: apps/frappe/frappe/public/dist/js/list.bundle.4KG2W3OU.js:3269
 msgid "Tags"
-msgstr "Tags"
+msgstr "tags"
 
 #: apps/frappe/frappe/public/dist/js/web_form.bundle.AANXCITD.js:23745
 msgid "Take Photo"
@@ -23483,7 +23483,7 @@ msgstr "Esse Quadro Kanban será privado"
 
 #: apps/frappe/frappe/public/dist/js/list.bundle.4KG2W3OU.js:1171
 msgid "This Month"
-msgstr "Este Mês"
+msgstr "Este mês"
 
 #: apps/frappe/frappe/core/doctype/file/file.py:396
 msgid "This PDF cannot be uploaded as it contains unsafe content."
@@ -24176,7 +24176,7 @@ msgstr "Atualizar {0} registros"
 
 #: apps/frappe/frappe/desk/doctype/bulk_update/bulk_update.js:32
 msgid "Updated Successfully"
-msgstr "Atualizado com Sucesso"
+msgstr "Atualizado com sucesso"
 
 #: apps/frappe/frappe/public/dist/js/desk.bundle.HY5KZHHZ.js:48443
 msgid "Updated To A New Version \\u{1F389}"
@@ -24244,7 +24244,7 @@ msgstr "Melhore sua experiência de suporte com o Frappe Helpdesk"
 
 #: apps/frappe/frappe/public/dist/js/web_form.bundle.AANXCITD.js:37709
 msgid "Upload"
-msgstr "Enviar"
+msgstr "enviar"
 
 #: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.NQBRUJPR.js:41372
 msgid "Upload Image"
@@ -24547,7 +24547,7 @@ msgstr "Visualizar Barra Lateral"
 
 #: apps/frappe/frappe/website/doctype/website_settings/website_settings.js:16
 msgid "View Website"
-msgstr "Visualizar Site"
+msgstr "Ver site"
 
 #: apps/frappe/frappe/www/confirm_workflow_action.html:12
 msgid "View document"
@@ -24802,7 +24802,7 @@ msgstr "Campos do Eixo Y"
 
 #: apps/frappe/frappe/public/dist/js/list.bundle.4KG2W3OU.js:1231
 msgid "Yesterday"
-msgstr "Ontem"
+msgstr "ontem"
 
 #: apps/frappe/frappe/public/dist/js/desk.bundle.HY5KZHHZ.js:30802
 msgctxt "Name of the current user. For example: You edited this 5 hours ago."
@@ -26039,7 +26039,7 @@ msgstr "{0} Configurações da Visualização de Lista"
 
 #: apps/frappe/frappe/public/dist/js/frappe-web.bundle.SZ7HXF36.js:47357
 msgid "{0} M"
-msgstr "{0} M"
+msgstr "{0} m"
 
 #: apps/frappe/frappe/public/dist/js/list.bundle.4KG2W3OU.js:8049
 msgid "{0} Map"
@@ -26501,7 +26501,7 @@ msgstr "{0} não é um Estado válido"
 msgid "{0} not allowed to be renamed"
 msgstr "{0} não permitido para renomear"
 
-#: apps/frappe/frappe/desk/doctype/desktop_icon/desktop_icon.py:457
+#: apps/frappe/frappe/desk/doctype/desktop_icon/desktop_icon.py:460
 msgid "{0} not found"
 msgstr "{0} não encontrado"
 
@@ -26536,369 +26536,452 @@ msgstr "{0} registros são mantidos por {1} dias."
 
 #: apps/frappe/frappe/core/doctype/user_permission/user_permission_list.js:179
 msgid "{0} records deleted"
-msgstr ""
+msgstr "{0} registros excluídos"
 
 #: apps/frappe/frappe/public/dist/js/data_import_tools.bundle.2FYWI47H.js:5342
 msgid "{0} records will be exported"
-msgstr ""
+msgstr "{0} registros serão exportados"
 
 #: apps/frappe/frappe/public/dist/js/form.bundle.ZYMBCX6X.js:5054
 msgid "{0} removed 1 row from {1}"
-msgstr ""
+msgstr "{0} removeu 1 linha de {1}"
 
 #: apps/frappe/frappe/public/dist/js/form.bundle.ZYMBCX6X.js:5829
 msgctxt "Form timeline"
 msgid "{0} removed attachment {1}"
-msgstr ""
+msgstr "{0} removeu o anexo {1}"
 
 #: apps/frappe/frappe/desk/doctype/todo/todo.py:58
 msgid "{0} removed their assignment."
-msgstr ""
+msgstr "{0} removeu sua atribuição."
 
 #: apps/frappe/frappe/public/dist/js/form.bundle.ZYMBCX6X.js:5032
 msgid "{0} removed {1} rows from {2}"
-msgstr ""
+msgstr "{0} removeu {1} linhas de {2}"
 
 #: apps/frappe/frappe/public/dist/js/desk.bundle.HY5KZHHZ.js:25956
 msgid "{0} role does not have permission on any doctype"
-msgstr ""
+msgstr "A função {0} não tem permissão em nenhum DocType"
 
 #: apps/frappe/frappe/model/document.py:1832
 msgid "{0} row #{1}:"
-msgstr ""
+msgstr "{0} linha nº {1}:"
 
 #: apps/frappe/frappe/public/dist/js/form.bundle.ZYMBCX6X.js:5040
 msgctxt "User removed rows from child table"
 msgid "{0} rows from {1}"
-msgstr ""
+msgstr "{0} linhas de {1}"
 
 #: apps/frappe/frappe/public/dist/js/form.bundle.ZYMBCX6X.js:4995
 msgctxt "User added rows to child table"
 msgid "{0} rows to {1}"
-msgstr ""
+msgstr "{0} linhas para {1}"
 
 #: apps/frappe/frappe/desk/query_report.py:666
 msgid "{0} saved successfully"
-msgstr ""
+msgstr "{0} salvo com sucesso"
 
 #: apps/frappe/frappe/desk/doctype/todo/todo.py:44
 msgid "{0} self assigned this task: {1}"
-msgstr ""
+msgstr "{0} auto-atribuiu esta tarefa: {1}"
 
 #: apps/frappe/frappe/share.py:229
 msgid "{0} shared a document {1} {2} with you"
-msgstr ""
+msgstr "{0} compartilhou um documento {1} {2} com você"
 
 #: apps/frappe/frappe/core/doctype/docshare/docshare.py:77
 msgid "{0} shared this document with everyone"
-msgstr ""
+msgstr "{0} compartilhou este documento com todos"
 
 #: apps/frappe/frappe/core/doctype/docshare/docshare.py:80
 msgid "{0} shared this document with {1}"
-msgstr ""
+msgstr "{0} compartilhou este documento com {1}"
 
 #: apps/frappe/frappe/core/doctype/doctype/doctype.py:317
 msgid "{0} should be indexed because it's referred in dashboard connections"
-msgstr ""
+msgstr "{0} deve ser indexado porque está referenciado nas conexões do painel"
 
 #: apps/frappe/frappe/automation/doctype/auto_repeat/auto_repeat.py:149
 msgid "{0} should not be same as {1}"
-msgstr ""
+msgstr "{0} não deve ser igual a {1}"
 
 #: apps/frappe/frappe/public/dist/js/form.bundle.ZYMBCX6X.js:4825
 msgid "{0} submitted this document"
-msgstr ""
+msgstr "{0} submeteu este documento"
 
 #: apps/frappe/frappe/public/dist/js/form.bundle.ZYMBCX6X.js:4817
 msgid "{0} submitted this document {1}"
-msgstr ""
+msgstr "{0} submeteu este documento {1}"
 
 #: apps/frappe/frappe/email/doctype/email_group/email_group.py:71
 msgid "{0} subscribers added"
-msgstr ""
+msgstr "{0} assinantes adicionados"
 
 #: apps/frappe/frappe/email/queue.py:69
 msgid "{0} to stop receiving emails of this type"
-msgstr ""
+msgstr "{0} para parar de receber e‑mails deste tipo"
 
 #: apps/frappe/frappe/public/dist/js/web_form.bundle.AANXCITD.js:25116
 msgid "{0} to {1}"
-msgstr ""
+msgstr "{0} até {1}"
 
 #: apps/frappe/frappe/core/doctype/docshare/docshare.py:89
 msgid "{0} un-shared this document with {1}"
-msgstr ""
+msgstr "{0} removeu o compartilhamento deste documento com {1}"
 
 #: apps/frappe/frappe/custom/doctype/customize_form/customize_form.py:256
 msgid "{0} updated"
-msgstr ""
+msgstr "{0} atualizado"
 
 #: apps/frappe/frappe/public/dist/js/web_form.bundle.AANXCITD.js:40852
 msgid "{0} values selected"
-msgstr ""
+msgstr "{0} valores selecionados"
 
 #: apps/frappe/frappe/public/dist/js/form.bundle.ZYMBCX6X.js:5619
 msgid "{0} viewed this"
-msgstr ""
+msgstr "{0} visualizou isto"
 
 #: apps/frappe/frappe/public/dist/js/frappe-web.bundle.SZ7HXF36.js:47355
 msgid "{0} w"
-msgstr ""
+msgstr "{0} sem"
 
 #: apps/frappe/frappe/public/dist/js/frappe-web.bundle.SZ7HXF36.js:47383
 msgid "{0} weeks ago"
-msgstr ""
+msgstr "há {0} semanas"
 
 #: apps/frappe/frappe/public/dist/js/frappe-web.bundle.SZ7HXF36.js:47359
 msgid "{0} y"
-msgstr ""
+msgstr "{0} anos"
 
 #: apps/frappe/frappe/public/dist/js/frappe-web.bundle.SZ7HXF36.js:47391
 msgid "{0} years ago"
-msgstr ""
+msgstr "há {0} anos"
 
 #: apps/frappe/frappe/public/dist/js/web_form.bundle.AANXCITD.js:43873
 msgid "{0} {1} added"
-msgstr ""
+msgstr "{0} {1} adicionado"
 
 #: apps/frappe/frappe/public/dist/js/desk.bundle.HY5KZHHZ.js:8619
 msgid "{0} {1} added to Dashboard {2}"
-msgstr ""
+msgstr "{0} {1} adicionado ao Painel {2}"
 
 #: apps/frappe/frappe/model/rename_doc.py:110
 msgid "{0} {1} already exists"
-msgstr ""
+msgstr "{0} {1} já existe"
 
 #: apps/frappe/frappe/model/base_document.py:1073
 msgid "{0} {1} cannot be \"{2}\". It should be one of \"{3}\""
-msgstr ""
+msgstr "{0} {1} não pode ser \"{2}\". Deve ser um dos \"{3}\""
 
 #: apps/frappe/frappe/utils/nestedset.py:353
 msgid "{0} {1} cannot be a leaf node as it has children"
-msgstr ""
+msgstr "{0} {1} não pode ser um nó folha pois tem filhos"
 
 #: apps/frappe/frappe/model/rename_doc.py:376
 msgid "{0} {1} does not exist, select a new target to merge"
-msgstr ""
+msgstr "{0} {1} não existe, selecione um novo destino para mesclar"
 
 #: apps/frappe/frappe/public/dist/js/form.bundle.ZYMBCX6X.js:7290
 msgid "{0} {1} is linked with the following submitted documents: {2}"
-msgstr ""
+msgstr "{0} {1} está vinculado aos seguintes documentos enviados: {2}"
 
 #: apps/frappe/frappe/permissions.py:586
 msgid "{0} {1} not found"
-msgstr ""
+msgstr "{0} {1} não encontrado"
 
 #: apps/frappe/frappe/model/delete_doc.py:290
 msgid ""
 "{0} {1}: Submitted Record cannot be deleted. You must {2} Cancel {3} it "
 "first."
 msgstr ""
+"{0} {1}: Registro enviado não pode ser excluído. Você deve {2} Cancelar {3} "
+"primeiro."
 
 #: apps/frappe/frappe/model/base_document.py:1205
 msgid "{0}, Row {1}"
-msgstr ""
+msgstr "{0}, Linha {1}"
 
 #: apps/frappe/frappe/utils/print_format.py:148
 msgid "{0}/{1} complete | Please leave this tab open until completion."
-msgstr ""
+msgstr "{0}/{1} concluído | Por favor, deixe esta aba aberta até a conclusão."
 
 #: apps/frappe/frappe/model/base_document.py:1210
 msgid "{0}: '{1}' ({3}) will get truncated, as max characters allowed is {2}"
 msgstr ""
+"{0}: '{1}' ({3}) será truncado, pois o máximo de caracteres permitido é {2}"
 
 #: apps/frappe/frappe/core/doctype/doctype/doctype.py:1821
 msgid "{0}: Cannot set Amend without Cancel"
-msgstr ""
+msgstr "{0}: Não é possível definir Alterar sem Cancelar"
 
 #: apps/frappe/frappe/core/doctype/doctype/doctype.py:1839
 msgid "{0}: Cannot set Assign Amend if not Submittable"
-msgstr ""
+msgstr "{0}: Não é possível atribuir Alterar se não for enviável"
 
 #: apps/frappe/frappe/core/doctype/doctype/doctype.py:1837
 msgid "{0}: Cannot set Assign Submit if not Submittable"
-msgstr ""
+msgstr "{0}: Não é possível atribuir Enviar se não for enviável"
 
 #: apps/frappe/frappe/core/doctype/doctype/doctype.py:1816
 msgid "{0}: Cannot set Cancel without Submit"
-msgstr ""
+msgstr "{0}: Não é possível definir Cancelar sem Enviar"
 
 #: apps/frappe/frappe/core/doctype/doctype/doctype.py:1823
 msgid "{0}: Cannot set Import without Create"
-msgstr ""
+msgstr "{0}: Não é possível definir Importar sem Criar"
 
 #: apps/frappe/frappe/core/doctype/doctype/doctype.py:1819
 msgid "{0}: Cannot set Submit, Cancel, Amend without Write"
-msgstr ""
+msgstr "{0}: Não é possível definir Enviar, Cancelar, Alterar sem Escrita"
 
 #: apps/frappe/frappe/core/doctype/doctype/doctype.py:1843
 msgid "{0}: Cannot set import as {1} is not importable"
-msgstr ""
+msgstr "{0}: Não é possível definir importação, pois {1} não é importável"
 
 #: apps/frappe/frappe/automation/doctype/auto_repeat/auto_repeat.py:436
 msgid ""
 "{0}: Failed to attach new recurring document. To enable attaching document "
 "in the auto repeat notification email, enable {1} in Print Settings"
 msgstr ""
+"{0}: Falha ao anexar novo documento recorrente. Para habilitar o anexo de "
+"documento no e‑mail de notificação de repetição automática, habilite {1} nas"
+" Configurações de Impressão"
 
 #: apps/frappe/frappe/core/doctype/doctype/doctype.py:1427
 msgid "{0}: Field '{1}' cannot be set as Unique as it has non-unique values"
 msgstr ""
+"{0}: O campo '{1}' não pode ser definido como Único pois possui valores não "
+"únicos"
 
 #: apps/frappe/frappe/core/doctype/doctype/doctype.py:1335
 msgid ""
 "{0}: Field {1} in row {2} cannot be hidden and mandatory without default"
 msgstr ""
+"{0}: O campo {1} na linha {2} não pode ser oculto e obrigatório sem valor "
+"padrão"
 
 #: apps/frappe/frappe/core/doctype/doctype/doctype.py:1294
 msgid "{0}: Field {1} of type {2} cannot be mandatory"
-msgstr ""
+msgstr "{0}: O campo {1} do tipo {2} não pode ser obrigatório"
 
 #: apps/frappe/frappe/core/doctype/doctype/doctype.py:1282
 msgid "{0}: Fieldname {1} appears multiple times in rows {2}"
-msgstr ""
+msgstr "{0}: O nome do campo {1} aparece várias vezes nas linhas {2}"
 
 #: apps/frappe/frappe/core/doctype/doctype/doctype.py:1414
 msgid "{0}: Fieldtype {1} for {2} cannot be unique"
-msgstr ""
+msgstr "{0}: O tipo de campo {1} para {2} não pode ser único"
 
 #: apps/frappe/frappe/core/doctype/doctype/doctype.py:1776
 msgid "{0}: No basic permissions set"
-msgstr ""
+msgstr "{0}: Nenhuma permissão básica definida"
 
 #: apps/frappe/frappe/core/doctype/doctype/doctype.py:1790
 msgid "{0}: Only one rule allowed with the same Role, Level and {1}"
-msgstr ""
+msgstr "{0}: Apenas uma regra permitida com o mesmo Papel, Nível e {1}"
 
 #: apps/frappe/frappe/core/doctype/doctype/doctype.py:1316
 msgid "{0}: Options must be a valid DocType for field {1} in row {2}"
-msgstr ""
+msgstr "{0}: Opções deve ser um DocType válido para o campo {1} na linha {2}"
 
 #: apps/frappe/frappe/core/doctype/doctype/doctype.py:1305
 msgid "{0}: Options required for Link or Table type field {1} in row {2}"
 msgstr ""
+"{0}: Opções são obrigatórias para campo do tipo Link ou Tabela {1} na linha "
+"{2}"
 
 #: apps/frappe/frappe/core/doctype/doctype/doctype.py:1323
 msgid ""
 "{0}: Options {1} must be the same as doctype name {2} for the field {3}"
 msgstr ""
+"{0}: Opções {1} devem ser iguais ao nome do DocType {2} para o campo {3}"
 
 #: apps/frappe/frappe/public/dist/js/form.bundle.ZYMBCX6X.js:2805
 msgid "{0}: Other permission rules may also apply"
-msgstr ""
+msgstr "{0}: Outras regras de permissão também podem ser aplicadas"
 
 #: apps/frappe/frappe/core/doctype/doctype/doctype.py:1805
 msgid "{0}: Permission at level 0 must be set before higher levels are set"
 msgstr ""
+"{0}: A permissão no nível 0 deve ser definida antes que níveis superiores "
+"sejam definidos"
 
 #: apps/frappe/frappe/public/dist/js/web_form.bundle.AANXCITD.js:24334
 msgid "{0}: You can increase the limit for the field if required via {1}"
-msgstr ""
+msgstr "{0}: Você pode aumentar o limite para o campo, se necessário, via {1}"
 
 #: apps/frappe/frappe/core/doctype/doctype/doctype.py:1269
 msgid "{0}: fieldname cannot be set to reserved keyword {1}"
-msgstr ""
+msgstr "{0}: o nome do campo não pode ser definido como palavra‑reservada {1}"
 
 #: apps/frappe/frappe/contacts/doctype/address/address.js:35
 msgid "{0}: {1}"
-msgstr ""
+msgstr "{0}: {1}"
 
 #: apps/frappe/frappe/workflow/doctype/workflow_action/workflow_action.py:172
 msgid "{0}: {1} is set to state {2}"
-msgstr ""
+msgstr "{0}: {1} está definido para o estado {2}"
 
 #: apps/frappe/frappe/public/dist/js/report.bundle.OSWLGZ24.js:7736
 msgid "{0}: {1} vs {2}"
-msgstr ""
+msgstr "{0}: {1} vs {2}"
 
 #: apps/frappe/frappe/core/doctype/doctype/doctype.py:1435
 msgid "{0}:Fieldtype {1} for {2} cannot be indexed"
-msgstr ""
+msgstr "{0}:Tipo de campo {1} para {2} não pode ser indexado"
 
 #: apps/frappe/frappe/public/dist/js/form.bundle.ZYMBCX6X.js:1011
 msgid "{1} saved"
-msgstr ""
+msgstr "{1} salvo"
 
 #: apps/frappe/frappe/public/dist/js/desk.bundle.HY5KZHHZ.js:32369
 msgid "{count} cell copied"
-msgstr ""
+msgstr "{count} célula copiada"
 
 #: apps/frappe/frappe/public/dist/js/desk.bundle.HY5KZHHZ.js:32370
 msgid "{count} cells copied"
-msgstr ""
+msgstr "{count} células copiadas"
 
 #: apps/frappe/frappe/public/dist/js/desk.bundle.HY5KZHHZ.js:32373
 msgid "{count} row selected"
-msgstr ""
+msgstr "{count} linha selecionada"
 
 #: apps/frappe/frappe/public/dist/js/desk.bundle.HY5KZHHZ.js:32374
 msgid "{count} rows selected"
-msgstr ""
+msgstr "{count} linhas selecionadas"
 
 #: apps/frappe/frappe/core/doctype/doctype/doctype.py:1489
 msgid "{{{0}}} is not a valid fieldname pattern. It should be {{field_name}}."
 msgstr ""
+"{{{0}}} não é um padrão de nome de campo válido. Deve ser {{field_name}}."
 
 #: apps/frappe/frappe/public/dist/js/form.bundle.ZYMBCX6X.js:6959
 msgid "{} Complete"
-msgstr ""
+msgstr "{} Concluído"
 
 #: apps/frappe/frappe/utils/data.py:2614
 msgid "{} Invalid python code on line {}"
-msgstr ""
+msgstr "{} Código Python inválido na linha {}"
 
 #: apps/frappe/frappe/utils/data.py:2623
 msgid "{} Possibly invalid python code. <br>{}"
-msgstr ""
+msgstr "{} Possivelmente código Python inválido. <br>{}"
 
 #: apps/frappe/frappe/core/doctype/log_settings/log_settings.py:54
 msgid "{} does not support automated log clearing."
-msgstr ""
+msgstr "{} não suporta limpeza automática de logs."
 
 #: apps/frappe/frappe/core/doctype/audit_trail/audit_trail.py:41
 msgid "{} field cannot be empty."
-msgstr ""
+msgstr "O campo {} não pode ficar vazio."
 
 #: apps/frappe/frappe/email/doctype/email_account/email_account.py:223
 msgid "{} has been disabled. It can only be enabled if {} is checked."
-msgstr ""
+msgstr "{} foi desativado. Só pode ser ativado se {} estiver marcado."
 
 #: apps/frappe/frappe/utils/data.py:145
 msgid "{} is not a valid date string."
-msgstr ""
+msgstr "{} não é uma string de data válida."
 
 #: apps/frappe/frappe/commands/utils.py:564
 msgid "{} not found in PATH! This is required to access the console."
-msgstr ""
+msgstr "{} não encontrado no PATH! Isso é necessário para acessar o console."
 
 #: apps/frappe/frappe/database/db_manager.py:99
 msgid "{} not found in PATH! This is required to restore the database."
 msgstr ""
+"{} não encontrado no PATH! Isso é necessário para restaurar o banco de "
+"dados."
 
 #: apps/frappe/frappe/utils/backups.py:466
 msgid "{} not found in PATH! This is required to take a backup."
-msgstr ""
+msgstr "{} não encontrado no PATH! Isso é necessário para fazer um backup."
 
 #: apps/frappe/frappe/public/dist/js/file_uploader.bundle.O4NSI7RV.js:15671
 msgid "← Back to upload files"
-msgstr ""
+msgstr "← Voltar ao envio de arquivos"
+
+#: frappe/website/number_card/website_themes_available/website_themes_available.json:0
+msgctxt "Number Card"
+msgid "Website Themes Available"
+msgstr "Temas de Site Disponíveis"
+
+#: frappe/desk/number_card/published_web_pages/published_web_pages.json:0
+msgctxt "Number Card"
+msgid "Published Web Pages"
+msgstr "Páginas Web Publicadas"
+
+#: frappe/desk/number_card/published_web_forms/published_web_forms.json:0
+msgctxt "Number Card"
+msgid "Published Web Forms"
+msgstr "Formulários Web Publicados"
+
+#: frappe/desk/number_card/failed_login_attempts/failed_login_attempts.json:0
+msgctxt "Number Card"
+msgid "Failed Login Attempts"
+msgstr "Tentativas de Login Falhadas"
+
+#: frappe/website/workspace/website/website.json:0
+msgctxt "Workspace"
+msgid "Website"
+msgstr "Site"
+
+#: frappe/core/workspace/welcome_workspace/welcome_workspace.json:0
+msgctxt "Workspace"
+msgid "Welcome Workspace"
+msgstr "Workspace de Boas-vindas"
+
+#: frappe/core/workspace/system/system.json:0
+msgctxt "Workspace"
+msgid "System"
+msgstr "Sistema"
+
+#: frappe/core/workspace/build/build.json:0
+msgctxt "Workspace"
+msgid "Build"
+msgstr "Compilação"
+
+#: frappe/core/workspace/users/users.json:0
+msgctxt "Workspace"
+msgid "Users"
+msgstr "Usuários"
+
+#: frappe/integrations/workspace/integrations/integrations.json:0
+msgctxt "Workspace"
+msgid "Integrations"
+msgstr "Integrações"
+
+#: frappe/core/dashboard_chart/background_job_activity/background_job_activity.json:0
+msgctxt "Dashboard Chart"
+msgid "Background Job Activity"
+msgstr "Atividade de Jobs em Segundo Plano"
+
+#: frappe/desk/dashboard_chart/email_activity/email_activity.json:0
+msgctxt "Dashboard Chart"
+msgid "Email Activity"
+msgstr "Atividade de E‑mail"
+
+#: frappe/desk/dashboard_chart/login/login.json:0
+msgctxt "Dashboard Chart"
+msgid "Login"
+msgstr "Login"
 
 #~ msgctxt "Label of a Navbar Item"
 #~ msgid "Apps"
-#~ msgstr ""
+#~ msgstr "Aplicativos"
 
 #~ msgctxt "Label of a Navbar Item"
 #~ msgid "Keyboard Shortcuts"
-#~ msgstr ""
+#~ msgstr "Atalhos de teclado"
 
 #~ msgctxt "Label of a Navbar Item"
 #~ msgid "Log out"
-#~ msgstr ""
+#~ msgstr "Sair"
 
 #~ msgctxt "Label of a Navbar Item"
 #~ msgid "Reload"
-#~ msgstr ""
+#~ msgstr "Recarregar"
 
 #~ msgctxt "Label of a Navbar Item"
 #~ msgid "View Website"
-#~ msgstr ""
+#~ msgstr "Ver site"
