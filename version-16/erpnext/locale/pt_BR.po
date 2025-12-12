@@ -15612,8 +15612,8 @@ msgstr "Tipo de problema"
 #: DocType: Sales Invoice:0
 msgid "Issue a debit note with 0 qty against an existing Sales Invoice"
 msgstr ""
-"Emitir uma nota de débito com 0 quantidade contra uma fatura de venda "
-"existente"
+"Emitir uma Nota de Débito com 0 quantidade relacionada a uma Nota Fiscal de "
+"Venda existente"
 
 #: DocType: Share Balance:0
 msgid "Issued"
