@@ -2290,7 +2290,7 @@ msgstr "Contra Lançamento de Estoque"
 
 #: apps/erpnext/erpnext/accounts/doctype/purchase_invoice/purchase_invoice.py:332
 msgid "Against Supplier Invoice {0}"
-msgstr "Contra Fatura de Fornecedor {0}"
+msgstr "Relacionado à fatura do fornecedor {0}"
 
 #: DocType: GL Entry:0
 msgid "Against Voucher"
@@ -20191,7 +20191,7 @@ msgstr "Grupo de Cliente PDV"
 
 #: DocType: POS Field:0
 msgid "POS Field"
-msgstr "Campo POS"
+msgstr "Campo PDV"
 
 #: DocType: POS Invoice:0
 msgid "POS Invoice"
@@ -20771,9 +20771,7 @@ msgstr "Informações da Parte"
 
 #: DocType: Pricing Rule:0
 msgid "Party Information"
-msgstr ""
-"A moeda da conta da Parte {0} ({1}) e a moeda do documento ({2}) devem ser "
-"iguais"
+msgstr "Informação da Parte"
 
 #: DocType: Blanket Order Item:0
 msgid "Party Item Code"
@@ -30066,7 +30064,7 @@ msgstr "Exibir valores líquidos nas colunas de abertura e fechamento"
 
 #: apps/erpnext/erpnext/accounts/report/sales_payment_summary/sales_payment_summary.js:35
 msgid "Show only POS"
-msgstr "Mostrar apenas POS"
+msgstr "Mostrar apenas PDV"
 
 #: apps/erpnext/erpnext/selling/report/payment_terms_status_for_sales_order/payment_terms_status_for_sales_order.js:107
 msgid "Show only the Immediate Upcoming Term"
@@ -38255,7 +38253,7 @@ msgstr "Cr"
 
 #: apps/erpnext/erpnext/accounts/doctype/dunning/dunning.js:55
 msgid "Create"
-msgstr "criar"
+msgstr "Criar"
 
 #: apps/erpnext/erpnext/manufacturing/report/work_order_summary/work_order_summary.py:224
 msgid "Created On"
@@ -38472,7 +38470,7 @@ msgstr "Editar Formulário Completo"
 
 #: DocType: Payment Entry:0
 msgid "Email"
-msgstr "e-mail"
+msgstr "E-mail"
 
 #: DocType: Issue:0
 msgid "Email Account"
@@ -40188,7 +40186,7 @@ msgstr "Atualizando {0} de {1}, {2}"
 
 #: DocType: Cashier Closing:0
 msgid "User"
-msgstr "usuário"
+msgstr "Usuário"
 
 #: DocType: POS Closing Entry:0
 msgid "User Details"
