@@ -2302,7 +2302,7 @@ msgstr "Número do voucher relacionado"
 
 #: DocType: Advance Payment Ledger Entry:0
 msgid "Against Voucher Type"
-msgstr "Tipo de Voucher Contra"
+msgstr "Tipo de voucher relacionado"
 
 #: apps/erpnext/erpnext/accounts/report/payment_period_based_on_invoice_date/payment_period_based_on_invoice_date.py:113
 msgid "Age"
