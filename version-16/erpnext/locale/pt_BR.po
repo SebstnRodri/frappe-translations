@@ -2294,7 +2294,7 @@ msgstr "Relacionado à fatura do fornecedor {0}"
 
 #: DocType: GL Entry:0
 msgid "Against Voucher"
-msgstr "Contra o Comprovante"
+msgstr "Relacinado ao voucher"
 
 #: DocType: Advance Payment Ledger Entry:0
 msgid "Against Voucher No"
