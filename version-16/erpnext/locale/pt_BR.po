@@ -16961,124 +16961,129 @@ msgstr "Imagem do Item (se não for slideshow)"
 
 #: DocType: Stock Reservation Entry:0
 msgid "Item Information"
-msgstr ""
+msgstr "Informações do Item"
 
 #: DocType: Item Lead Time:0
 msgid "Item Lead Time"
-msgstr ""
+msgstr "Tempo de Lead do Item"
 
 #: DocType: Pick List:0
 msgid "Item Locations"
-msgstr ""
+msgstr "Localizações do Item"
 
 #: DocType: Brand:0
 msgid "Item Manager"
-msgstr ""
+msgstr "Gerenciador do Item"
 
 #: DocType: Item Manufacturer:0
 msgid "Item Manufacturer"
-msgstr ""
+msgstr "Fabricante do Item"
 
 #: DocType: Opening Invoice Creation Tool Item:0
 msgid "Item Name"
-msgstr ""
+msgstr "Nome do Item"
 
 #: DocType: Stock Settings:0
 msgid "Item Naming By"
-msgstr ""
+msgstr "Nome do Item pelo"
 
 #: DocType: Selling Settings:0
 msgid "Item Price"
-msgstr ""
+msgstr "Preço do Item"
 
 #: DocType: Accounts Settings:0
 msgid "Item Price Settings"
-msgstr ""
+msgstr "Configurações de Preço do Item"
 
 msgid "Item Price Stock"
-msgstr ""
+msgstr "Preço do Item"
 
 #: apps/erpnext/erpnext/stock/get_item_details.py:1101
 msgid "Item Price added for {0} in Price List {1}"
-msgstr ""
+msgstr "Preço do Item adicionado para {0} na Lista de Preços {1}"
 
 #: apps/erpnext/erpnext/stock/doctype/item_price/item_price.py:140
 msgid ""
 "Item Price appears multiple times based on Price List, Supplier/Customer, "
 "Currency, Item, Batch, UOM, Qty, and Dates."
 msgstr ""
+"O Preço do Item aparece várias vezes com base na Lista de Preços, "
+"Fornecedor/Cliente, Moeda, Item, Lote, UOM, Qtde, e datas."
 
 #: apps/erpnext/erpnext/stock/get_item_details.py:1080
 msgid "Item Price updated for {0} in Price List {1}"
-msgstr ""
+msgstr "Preço do Item atualizado para {0} na Lista de Preços {1}"
 
 msgid "Item Prices"
-msgstr ""
+msgstr "Preços do Item"
 
 #: DocType: Item Quality Inspection Parameter:0
 msgid "Item Quality Inspection Parameter"
-msgstr ""
+msgstr "Parâmetro de Inspeção de Qualidade do Item"
 
 #: DocType: Maintenance Schedule Detail:0
 msgid "Item Reference"
-msgstr ""
+msgstr "Referência do Item"
 
 #: DocType: Item Reorder:0
 msgid "Item Reorder"
-msgstr ""
+msgstr "Reordenar Item"
 
 #: DocType: Item Wise Tax Detail:0
 msgid "Item Row"
-msgstr ""
+msgstr "Linha do Item"
 
 #: apps/erpnext/erpnext/stock/doctype/landed_cost_voucher/landed_cost_voucher.py:145
 msgid "Item Row {0}: {1} {2} does not exist in above '{1}' table"
-msgstr ""
+msgstr "Linha do Item {0}: {1} {2} não existe na tabela '{1}' acima"
 
 #: DocType: Quality Inspection:0
 msgid "Item Serial No"
-msgstr ""
+msgstr "Número Serial do Item"
 
 msgid "Item Shortage Report"
-msgstr ""
+msgstr "Relatório de Falta do Item"
 
 #: DocType: Item Supplier:0
 msgid "Item Supplier"
-msgstr ""
+msgstr "Fornecedor do Item"
 
 #: DocType: Item Group:0
 msgid "Item Tax"
-msgstr ""
+msgstr "Imposto do Item"
 
 #: DocType: Purchase Invoice Item:0
 msgid "Item Tax Amount Included in Value"
-msgstr ""
+msgstr "Valor do Imposto do Item Incluído no Valor"
 
 #: DocType: POS Invoice Item:0
 msgid "Item Tax Rate"
-msgstr ""
+msgstr "Taxa de Imposto do Item"
 
 #: apps/erpnext/erpnext/accounts/doctype/item_tax_template/item_tax_template.py:61
 msgid ""
 "Item Tax Row {0} must have account of type Tax or Income or Expense or "
 "Chargeable"
 msgstr ""
+"Linha do Imposto do Item {0} deve ter conta do tipo Imposto ou Receita ou "
+"Despesa ou Cobrança"
 
 #: apps/erpnext/erpnext/accounts/doctype/item_tax_template/item_tax_template.py:48
 msgid "Item Tax Row {0}: Account must belong to Company - {1}"
 msgstr ""
+"Linha do Imposto do Item {0}: A conta deve pertencer à Companhia - {1}"
 
 #: DocType: Item Tax Template:0
 msgid "Item Tax Template"
-msgstr ""
+msgstr "Modelo de Imposto do Item"
 
 #: DocType: Item Tax Template Detail:0
 msgid "Item Tax Template Detail"
-msgstr ""
+msgstr "Detalhe do Modelo de Imposto do Item"
 
 #: DocType: Work Order:0
 msgid "Item To Manufacture"
-msgstr ""
+msgstr "Item para Fabricação"
 
 #: DocType: BOM:0
 msgid "Item UOM"
