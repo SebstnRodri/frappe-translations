@@ -22041,248 +22041,251 @@ msgstr "Itens Empacotados"
 
 #: apps/erpnext/erpnext/controllers/stock_controller.py:1492
 msgid "Packed Items cannot be transferred internally"
-msgstr ""
+msgstr "Itens embalados não podem ser transferidos internamente"
 
 #: DocType: Delivery Note Item:0
 msgid "Packed Qty"
-msgstr ""
+msgstr "Qtde embalada"
 
 #: DocType: POS Invoice:0
 msgid "Packing List"
-msgstr ""
+msgstr "Lista de embalagem"
 
 #: apps/erpnext/erpnext/stock/doctype/delivery_note/delivery_note.js:299
 msgid "Packing Slip"
-msgstr ""
+msgstr "Slip de embalagem"
 
 #: DocType: Packing Slip Item:0
 msgid "Packing Slip Item"
-msgstr ""
+msgstr "Item do slip de embalagem"
 
 #: apps/erpnext/erpnext/stock/doctype/delivery_note/delivery_note.py:645
 msgid "Packing Slip(s) cancelled"
-msgstr ""
+msgstr "Slip(s) de embalagem cancelado(s)"
 
 #: DocType: Item Price:0
 msgid "Packing Unit"
-msgstr ""
+msgstr "Unidade de embalagem"
 
 #: DocType: POS Invoice Item:0
 msgid "Page Break"
-msgstr ""
+msgstr "Quebra de página"
 
 #: DocType: Process Statement Of Accounts:0
 msgid "Page Break After Each SoA"
-msgstr ""
+msgstr "Quebra de página após cada SOA"
 
 #: apps/erpnext/erpnext/accounts/print_format/sales_invoice_print/sales_invoice_print.html:43
 msgid "Page {0} of {1}"
-msgstr ""
+msgstr "Página {0} de {1}"
 
 #: DocType: Payment Request:0
 msgid "Paid"
-msgstr ""
+msgstr "Pago"
 
 #: DocType: Overdue Payment:0
 msgid "Paid Amount"
-msgstr ""
+msgstr "Valor pago"
 
 #: DocType: Payment Entry:0
 msgid "Paid Amount (Company Currency)"
-msgstr ""
+msgstr "Valor pago (moeda da empresa)"
 
 #: DocType: Payment Entry:0
 msgid "Paid Amount After Tax"
-msgstr ""
+msgstr "Valor pago após impostos"
 
 #: DocType: Payment Entry:0
 msgid "Paid Amount After Tax (Company Currency)"
-msgstr ""
+msgstr "Valor pago após impostos (moeda da empresa)"
 
 #: apps/erpnext/erpnext/accounts/doctype/payment_entry/payment_entry.py:2006
 msgid ""
 "Paid Amount cannot be greater than total negative outstanding amount {0}"
 msgstr ""
+"O valor pago não pode ser maior que o valor total pendente negativo {0}"
 
 #: DocType: Payment Entry:0
 msgid "Paid From Account Type"
-msgstr ""
+msgstr "Tipo de Conta de Origem do Pagamento"
 
 #: DocType: Payment Entry:0
 msgid "Paid To Account Type"
-msgstr ""
+msgstr "Tipo de Conta de Destino do Pagamento"
 
 #: apps/erpnext/erpnext/accounts/doctype/sales_invoice/sales_invoice.py:1180
 msgid "Paid amount + Write Off Amount can not be greater than Grand Total"
-msgstr ""
+msgstr "Valor pago + Valor de Baixa não pode ser maior que o Total Geral"
 
 #: DocType: Shipment:0
 msgid "Pallets"
-msgstr ""
+msgstr "Pallets"
 
 #: DocType: Quality Feedback Parameter:0
 msgid "Parameter"
-msgstr ""
+msgstr "Parâmetro"
 
 #: DocType: Item Quality Inspection Parameter:0
 msgid "Parameter Group"
-msgstr ""
+msgstr "Grupo de Parâmetros"
 
 #: DocType: Quality Inspection Parameter Group:0
 msgid "Parameter Group Name"
-msgstr ""
+msgstr "Nome do Grupo de Parâmetros"
 
 #: DocType: Supplier Scorecard Scoring Variable:0
 msgid "Parameter Name"
-msgstr ""
+msgstr "Nome do Parâmetro"
 
 #: DocType: Currency Exchange Settings:0
 msgid "Parameters"
-msgstr ""
+msgstr "Parâmetros"
 
 #: DocType: Shipment:0
 msgid "Parcel Template"
-msgstr ""
+msgstr "Modelo de Pacote"
 
 #: DocType: Shipment Parcel Template:0
 msgid "Parcel Template Name"
-msgstr ""
+msgstr "Nome do Modelo de Pacote"
 
 #: apps/erpnext/erpnext/stock/doctype/shipment/shipment.py:96
 msgid "Parcel weight cannot be 0"
-msgstr ""
+msgstr "O peso do pacote não pode ser 0"
 
 #: DocType: Shipment:0
 msgid "Parcels"
-msgstr ""
+msgstr "Pacotes"
 
 #: DocType: Quality Procedure:0
 msgid "Parent"
-msgstr ""
+msgstr "Pai"
 
 #: DocType: Account:0
 msgid "Parent Account"
-msgstr ""
+msgstr "Conta Pai"
 
 #: apps/erpnext/erpnext/accounts/doctype/chart_of_accounts_importer/chart_of_accounts_importer.py:379
 msgid "Parent Account Missing"
-msgstr ""
+msgstr "Conta Pai Ausente"
 
 #: DocType: Batch:0
 msgid "Parent Batch"
-msgstr ""
+msgstr "Lote Pai"
 
 #: DocType: Company:0
 msgid "Parent Company"
-msgstr ""
+msgstr "Empresa Matriz"
 
 #: apps/erpnext/erpnext/setup/doctype/company/company.py:590
 msgid "Parent Company must be a group company"
-msgstr ""
+msgstr "A Empresa Matriz deve ser uma empresa do grupo"
 
 #: DocType: Cost Center:0
 msgid "Parent Cost Center"
-msgstr ""
+msgstr "Centro de Custo Pai"
 
 #: DocType: Customer Group:0
 msgid "Parent Customer Group"
-msgstr ""
+msgstr "Grupo de Cliente Pai"
 
 #: DocType: Department:0
 msgid "Parent Department"
-msgstr ""
+msgstr "Departamento Pai"
 
 #: DocType: Packed Item:0
 msgid "Parent Detail docname"
-msgstr ""
+msgstr "Nome do Documento do Detalhe Pai"
 
 #: DocType: Process Payment Reconciliation Log:0
 msgid "Parent Document"
-msgstr ""
+msgstr "Documento Pai"
 
 #: DocType: Product Bundle:0
 msgid "Parent Item"
-msgstr ""
+msgstr "Item Pai"
 
 #: DocType: Item Group:0
 msgid "Parent Item Group"
-msgstr ""
+msgstr "Grupo de Item Pai"
 
 #: apps/erpnext/erpnext/selling/doctype/product_bundle/product_bundle.py:81
 msgid "Parent Item {0} must not be a Fixed Asset"
-msgstr ""
+msgstr "O Item Pai {0} não deve ser um Ativo Fixo"
 
 #: apps/erpnext/erpnext/selling/doctype/product_bundle/product_bundle.py:79
 msgid "Parent Item {0} must not be a Stock Item"
-msgstr ""
+msgstr "O Item Pai {0} não deve ser um Item de Estoque"
 
 #: DocType: Location:0
 msgid "Parent Location"
-msgstr ""
+msgstr "Localização Pai"
 
 #: DocType: Quality Procedure:0
 msgid "Parent Procedure"
-msgstr ""
+msgstr "Procedimento Pai"
 
 #: DocType: BOM Creator Item:0
 msgid "Parent Row No"
-msgstr ""
+msgstr "Nº da Linha Pai"
 
 #: apps/erpnext/erpnext/manufacturing/doctype/bom_creator/bom_creator.py:513
 msgid "Parent Row No not found for {0}"
-msgstr ""
+msgstr "Nº da Linha Pai não encontrado para {0}"
 
 #: DocType: Sales Person:0
 msgid "Parent Sales Person"
-msgstr ""
+msgstr "Vendedor Pai"
 
 #: DocType: Supplier Group:0
 msgid "Parent Supplier Group"
-msgstr ""
+msgstr "Grupo de Fornecedores Pai"
 
 #: DocType: Task:0
 msgid "Parent Task"
-msgstr ""
+msgstr "Tarefa Pai"
 
 #: apps/erpnext/erpnext/projects/doctype/task/task.py:167
 msgid "Parent Task {0} is not a Template Task"
-msgstr ""
+msgstr "Tarefa Pai {0} não é uma Tarefa Modelo"
 
 #: apps/erpnext/erpnext/projects/doctype/task/task.py:190
 msgid "Parent Task {0} must be a Group Task"
-msgstr ""
+msgstr "Tarefa Pai {0} deve ser uma Tarefa de Grupo"
 
 #: DocType: Territory:0
 msgid "Parent Territory"
-msgstr ""
+msgstr "Território Pai"
 
 #: DocType: Master Production Schedule:0
 msgid "Parent Warehouse"
-msgstr ""
+msgstr "Depósito Pai"
 
 #: apps/erpnext/erpnext/accounts/doctype/bank_statement_import/bank_statement_import.py:167
 msgid "Parsed file is not in valid MT940 format or contains no transactions."
 msgstr ""
+"O arquivo analisado não está no formato MT940 válido ou não contém "
+"transações."
 
 #: apps/erpnext/erpnext/edi/doctype/code_list/code_list_import.py:39
 msgid "Parsing Error"
-msgstr ""
+msgstr "Erro de Análise"
 
 #: DocType: Subcontracting Order:0
 msgid "Partial Material Transferred"
-msgstr ""
+msgstr "Transferência Parcial de Material"
 
 #: apps/erpnext/erpnext/accounts/doctype/sales_invoice/sales_invoice.py:1203
 msgid "Partial Payment in POS Transactions are not allowed."
-msgstr ""
+msgstr "Pagamentos parciais não são permitidos em transações POS."
 
 #: apps/erpnext/erpnext/stock/doctype/stock_reservation_entry/stock_reservation_entry.py:1720
 msgid "Partial Stock Reservation"
-msgstr ""
+msgstr "Reserva Parcial de Estoque"
 
 #: DocType: Bank Statement Import:0
 msgid "Partial Success"
-msgstr ""
+msgstr "Sucesso Parcial"
 
 #: DocType: Stock Settings:0
 msgid ""
@@ -22290,241 +22293,248 @@ msgid ""
 " units and the Available Stock is 90 units then a Stock Reservation Entry "
 "will be created for 90 units. "
 msgstr ""
+"O estoque parcial pode ser reservado. Por exemplo, se você tiver um pedido "
+"de venda de 100 unidades e o estoque disponível for de 90 unidades, uma "
+"entrada de reserva de estoque será criada para 90 unidades. "
 
 #: DocType: Maintenance Schedule Detail:0
 msgid "Partially Completed"
-msgstr ""
+msgstr "Parcialmente Concluído"
 
 #: DocType: Stock Reservation Entry:0
 msgid "Partially Delivered"
-msgstr ""
+msgstr "Parcialmente Entregue"
 
 #: DocType: Asset:0
 msgid "Partially Depreciated"
-msgstr ""
+msgstr "Parcialmente Depreciado"
 
 #: DocType: Contract:0
 msgid "Partially Fulfilled"
-msgstr ""
+msgstr "Parcialmente Cumprido"
 
 #: DocType: Quotation:0
 msgid "Partially Ordered"
-msgstr ""
+msgstr "parcialmente solicitado"
 
 #: DocType: Payment Request:0
 msgid "Partially Paid"
-msgstr ""
+msgstr "Parcialmente Pago"
 
 #: DocType: Material Request:0
 msgid "Partially Received"
-msgstr ""
+msgstr "Parcialmente Recebido"
 
 #: DocType: Process Payment Reconciliation:0
 msgid "Partially Reconciled"
-msgstr ""
+msgstr "Parcialmente Reconciliado"
 
 #: DocType: Stock Reservation Entry:0
 msgid "Partially Reserved"
-msgstr ""
+msgstr "Parcialmente Reservado"
 
 #: DocType: Stock Reservation Entry:0
 msgid "Partially Used"
-msgstr ""
+msgstr "Parcialmente Utilizado"
 
 #: apps/erpnext/erpnext/stock/doctype/material_request/material_request_list.js:28
 msgid "Partially ordered"
-msgstr ""
+msgstr "parcialmente solicitado"
 
 #: apps/erpnext/erpnext/accounts/report/general_ledger/general_ledger.html:88
 msgid "Particulars"
-msgstr ""
+msgstr "Particularidades"
 
 #: DocType: Sales Order:0
 msgid "Partly Billed"
-msgstr ""
+msgstr "Parcialmente Faturado"
 
 #: DocType: Sales Order:0
 msgid "Partly Delivered"
-msgstr ""
+msgstr "Parcialmente Entregue"
 
 #: DocType: POS Invoice:0
 msgid "Partly Paid"
-msgstr ""
+msgstr "Parcialmente Pago"
 
 #: DocType: POS Invoice:0
 msgid "Partly Paid and Discounted"
-msgstr ""
+msgstr "Parcialmente Pago e Descontado"
 
 #: DocType: Sales Partner:0
 msgid "Partner Type"
-msgstr ""
+msgstr "Tipo de Parceiro"
 
 #: DocType: Sales Partner:0
 msgid "Partner website"
-msgstr ""
+msgstr "Site do Parceiro"
 
 #: DocType: Supplier:0
 msgid "Partnership"
-msgstr ""
+msgstr "Parceria"
 
 #: DocType: Bank Account:0
 msgid "Party"
-msgstr ""
+msgstr "Parte"
 
 #: DocType: Party Account:0
 msgid "Party Account"
-msgstr ""
+msgstr "Conta da Parte"
 
 #: DocType: Payment Request:0
 msgid "Party Account Currency"
-msgstr ""
+msgstr "Moeda da Conta da Parte"
 
 #: DocType: Bank Transaction:0
 msgid "Party Account No. (Bank Statement)"
-msgstr ""
+msgstr "Nº da Conta da Parte (Extrato Bancário)"
 
 #: apps/erpnext/erpnext/controllers/accounts_controller.py:2384
 msgid ""
 "Party Account {0} currency ({1}) and document currency ({2}) should be same"
 msgstr ""
+"A moeda da Conta da Parte {0} ({1}) e a moeda do documento ({2}) devem ser "
+"iguais"
 
 #: DocType: Payment Entry:0
 msgid "Party Bank Account"
-msgstr ""
+msgstr "Conta Bancária da Parte"
 
 #: DocType: Bank Account:0
 msgid "Party Details"
-msgstr ""
+msgstr "Detalhes da Parte"
 
 #: DocType: Contract:0
 msgid "Party Full Name"
-msgstr ""
+msgstr "Nome Completo da Parte"
 
 #: DocType: Bank Transaction:0
 msgid "Party IBAN (Bank Statement)"
-msgstr ""
+msgstr "IBAN da Parte (Extrato Bancário)"
 
 #: DocType: Pricing Rule:0
 msgid "Party Information"
-msgstr ""
+msgstr "Informações da Parte"
 
 #: DocType: Blanket Order Item:0
 msgid "Party Item Code"
-msgstr ""
+msgstr "Código de Item da Parte"
 
 #: DocType: Party Link:0
 msgid "Party Link"
-msgstr ""
+msgstr "Link da Parte"
 
 #: apps/erpnext/erpnext/controllers/sales_and_purchase_return.py:49
 msgid "Party Mismatch"
-msgstr ""
+msgstr "Discrepância de Parte"
 
 #: DocType: Payment Entry:0
 msgid "Party Name"
-msgstr ""
+msgstr "Nome da Parte"
 
 #: DocType: Bank Transaction:0
 msgid "Party Name/Account Holder (Bank Statement)"
-msgstr ""
+msgstr "Nome da Parte/Titular da Conta (Extrato Bancário)"
 
 #: DocType: Journal Entry:0
 msgid "Party Not Required"
-msgstr ""
+msgstr "Parte Não Obrigatória"
 
 #: DocType: Party Specific Item:0
 msgid "Party Specific Item"
-msgstr ""
+msgstr "Item Específico da Parte"
 
 #: DocType: Bank Account:0
 msgid "Party Type"
-msgstr ""
+msgstr "Tipo de Parte"
 
 #: apps/erpnext/erpnext/accounts/party.py:827
 msgid ""
 "Party Type and Party can only be set for Receivable / Payable "
 "account<br><br>{0}"
 msgstr ""
+"Tipo de Parte e Parte só podem ser definidos para conta a "
+"Receber/Pagar<br><br>{0}"
 
 #: apps/erpnext/erpnext/accounts/doctype/exchange_rate_revaluation/exchange_rate_revaluation.py:627
 msgid "Party Type and Party is mandatory for {0} account"
-msgstr ""
+msgstr "Tipo de Parte e Parte são obrigatórios para conta {0}"
 
 #: apps/erpnext/erpnext/accounts/doctype/bank_reconciliation_tool/bank_reconciliation_tool.py:161
 msgid "Party Type and Party is required for Receivable / Payable account {0}"
-msgstr ""
+msgstr "Tipo de Parte e Parte são necessários para conta a Receber/Pagar {0}"
 
 #: apps/erpnext/erpnext/accounts/party.py:428
 msgid "Party Type is mandatory"
-msgstr ""
+msgstr "Tipo de Parte é obrigatório"
 
 #: DocType: Contract:0
 msgid "Party User"
-msgstr ""
+msgstr "Usuário da Parte"
 
 #: apps/erpnext/erpnext/accounts/doctype/payment_entry/payment_entry.js:456
 msgid "Party can only be one of {0}"
-msgstr ""
+msgstr "A Parte só pode ser uma das {0}"
 
 #: apps/erpnext/erpnext/accounts/doctype/payment_entry/payment_entry.py:517
 msgid "Party is mandatory"
-msgstr ""
+msgstr "A parte é obrigatória"
 
 #: DocType: Quality Review:0
 msgid "Passed"
-msgstr ""
+msgstr "Aprovado"
 
 #: DocType: Employee:0
 msgid "Passport Details"
-msgstr ""
+msgstr "Detalhes do Passaporte"
 
 #: DocType: Employee:0
 msgid "Passport Number"
-msgstr ""
+msgstr "Número do Passaporte"
 
 #: DocType: Subscription:0
 msgid "Past Due Date"
-msgstr ""
+msgstr "Data de Vencimento Passada"
 
 #: apps/erpnext/erpnext/public/dist/js/erpnext.bundle.E5FP2ILV.js:9325
 msgid "Past Events"
-msgstr ""
+msgstr "Eventos Passados"
 
 #: DocType: Supplier Scorecard Scoring Variable:0
 msgid "Path"
-msgstr ""
+msgstr "Caminho"
 
 #: apps/erpnext/erpnext/accounts/doctype/process_payment_reconciliation/process_payment_reconciliation.js:96
 msgid "Pause"
-msgstr ""
+msgstr "Pausar"
 
 #: apps/erpnext/erpnext/manufacturing/doctype/job_card/job_card.js:251
 msgid "Pause Job"
-msgstr ""
+msgstr "Pausar Trabalho"
 
 #: DocType: Pause SLA On Status:0
 msgid "Pause SLA On Status"
-msgstr ""
+msgstr "Pausar SLA no Status"
 
 #: DocType: Process Payment Reconciliation:0
 msgid "Paused"
-msgstr ""
+msgstr "Pausado"
 
 #: DocType: Payment Entry:0
 msgid "Pay"
-msgstr ""
+msgstr "Pagar"
 
 #: DocType: Journal Entry:0
 msgid "Pay To / Recd From"
-msgstr ""
+msgstr "Pagar Para / Recebido De"
 
 #: DocType: Account:0
 msgid "Payable"
-msgstr ""
+msgstr "A Pagar"
 
 #: apps/erpnext/erpnext/accounts/report/accounts_payable/accounts_payable.js:39
 msgid "Payable Account"
-msgstr ""
+msgstr "Conta a Pagar"
 
 #: DocType: Email Digest:0
 msgid "Payables"
@@ -22532,186 +22542,193 @@ msgstr "Pagamentos"
 
 #: DocType: Cheque Print Template:0
 msgid "Payer Settings"
-msgstr ""
+msgstr "Configurações do Pagador"
 
 #: DocType: Accounts Settings:0
 msgid "Payment"
-msgstr ""
+msgstr "Pagamento"
 
 #: DocType: Payment Gateway Account:0
 msgid "Payment Account"
-msgstr ""
+msgstr "Conta de Pagamento"
 
 #: DocType: Overdue Payment:0
 msgid "Payment Amount"
-msgstr ""
+msgstr "Valor do Pagamento"
 
 #: DocType: Payment Schedule:0
 msgid "Payment Amount (Company Currency)"
-msgstr ""
+msgstr "Valor do Pagamento (Moeda da Empresa)"
 
 #: DocType: Payment Gateway Account:0
 msgid "Payment Channel"
-msgstr ""
+msgstr "Canal de Pagamento"
 
 #: DocType: Payment Entry:0
 msgid "Payment Deductions or Loss"
-msgstr ""
+msgstr "Deduções ou Perdas de Pagamento"
 
 #: DocType: Bank Clearance Detail:0
 msgid "Payment Document"
-msgstr ""
+msgstr "Documento de Pagamento"
 
 #: apps/erpnext/erpnext/accounts/report/bank_clearance_summary/bank_clearance_summary.py:23
 msgid "Payment Document Type"
-msgstr ""
+msgstr "Tipo de Documento de Pagamento"
 
 #: DocType: POS Invoice:0
 msgid "Payment Due Date"
-msgstr ""
+msgstr "Data de Vencimento do Pagamento"
 
 #: DocType: Bank Clearance:0
 msgid "Payment Entries"
-msgstr ""
+msgstr "Entradas de Pagamento"
 
 #: apps/erpnext/erpnext/accounts/utils.py:1114
 msgid "Payment Entries {0} are un-linked"
-msgstr ""
+msgstr "Entradas de Pagamento {0} não estão vinculadas"
 
 #: DocType: Bank Clearance Detail:0
 msgid "Payment Entry"
-msgstr ""
+msgstr "Entrada de Pagamento"
 
 #: DocType: Payment Entry Deduction:0
 msgid "Payment Entry Deduction"
-msgstr ""
+msgstr "Dedução de Entrada de Pagamento"
 
 #: DocType: Payment Entry Reference:0
 msgid "Payment Entry Reference"
-msgstr ""
+msgstr "Referência de Entrada de Pagamento"
 
 #: apps/erpnext/erpnext/accounts/doctype/payment_request/payment_request.py:449
 msgid "Payment Entry already exists"
-msgstr ""
+msgstr "Entrada de Pagamento já existe"
 
 #: apps/erpnext/erpnext/accounts/utils.py:613
 msgid ""
 "Payment Entry has been modified after you pulled it. Please pull it again."
 msgstr ""
+"A Entrada de Pagamento foi modificada após você tê-la obtido. Por favor, "
+"obtenha-a novamente."
 
 #: apps/erpnext/erpnext/accounts/doctype/payment_request/payment_request.py:128
 msgid "Payment Entry is already created"
-msgstr ""
+msgstr "Entrada de Pagamento já foi criada"
 
 #: apps/erpnext/erpnext/controllers/accounts_controller.py:1545
 msgid ""
 "Payment Entry {0} is linked against Order {1}, check if it should be pulled "
 "as advance in this invoice."
 msgstr ""
+"Entrada de Pagamento {0} está vinculada à Ordem {1}, verifique se ela deve "
+"ser obtida como adiantamento nesta fatura."
 
 #: apps/erpnext/erpnext/selling/page/point_of_sale/pos_payment.js:378
 msgid "Payment Failed"
-msgstr ""
+msgstr "Pagamento Falhou"
 
 #: DocType: Bank Transaction:0
 msgid "Payment From / To"
-msgstr ""
+msgstr "De / Para Pagamento"
 
 #: DocType: Payment Gateway Account:0
 msgid "Payment Gateway"
-msgstr ""
+msgstr "Gateway de Pagamento"
 
 #: DocType: Payment Gateway Account:0
 msgid "Payment Gateway Account"
-msgstr ""
+msgstr "Conta de Gateway de Pagamento"
 
 #: apps/erpnext/erpnext/accounts/utils.py:1384
 msgid "Payment Gateway Account not created, please create one manually."
 msgstr ""
+"Conta de Gateway de Pagamento não criada, por favor crie uma manualmente."
 
 #: DocType: Payment Request:0
 msgid "Payment Gateway Details"
-msgstr ""
+msgstr "Detalhes do Gateway de Pagamento"
 
 msgid "Payment Ledger"
-msgstr ""
+msgstr "Razão de Pagamento"
 
 #: apps/erpnext/erpnext/accounts/report/general_and_payment_ledger_comparison/general_and_payment_ledger_comparison.py:248
 msgid "Payment Ledger Balance"
-msgstr ""
+msgstr "Saldo do Razão de Pagamento"
 
 #: DocType: Payment Ledger Entry:0
 msgid "Payment Ledger Entry"
-msgstr ""
+msgstr "Lançamento no Razão de Pagamento"
 
 #: DocType: Payment Reconciliation:0
 msgid "Payment Limit"
-msgstr ""
+msgstr "Limite de Pagamento"
 
 #: DocType: Purchase Order:0
 msgid "Payment Method"
-msgstr ""
+msgstr "Método de Pagamento"
 
 #: DocType: POS Profile:0
 msgid "Payment Methods"
-msgstr ""
+msgstr "Métodos de Pagamento"
 
 #: apps/erpnext/erpnext/accounts/report/sales_payment_summary/sales_payment_summary.py:24
 msgid "Payment Mode"
-msgstr ""
+msgstr "Modo de Pagamento"
 
 #: DocType: Journal Entry:0
 msgid "Payment Order"
-msgstr ""
+msgstr "Ordem de Pagamento"
 
 #: DocType: Payment Order:0
 msgid "Payment Order Reference"
-msgstr ""
+msgstr "Referência da Ordem de Pagamento"
 
 #: DocType: Payment Entry:0
 msgid "Payment Order Status"
-msgstr ""
+msgstr "Status da Ordem de Pagamento"
 
 #: DocType: Payment Order:0
 msgid "Payment Order Type"
-msgstr ""
+msgstr "Tipo de Ordem de Pagamento"
 
 #: DocType: Payment Entry:0
 msgid "Payment Ordered"
-msgstr ""
+msgstr "Pagamento Solicitado"
 
 msgid "Payment Period Based On Invoice Date"
-msgstr ""
+msgstr "Período de Pagamento Baseado na Data da Fatura"
 
 #: DocType: Subscription Plan:0
 msgid "Payment Plan"
-msgstr ""
+msgstr "Plano de Pagamento"
 
 #: apps/erpnext/erpnext/accounts/print_format/payment_receipt_voucher/payment_receipt_voucher.html:4
 msgid "Payment Receipt Note"
-msgstr ""
+msgstr "Nota de Recebimento de Pagamento"
 
 #: apps/erpnext/erpnext/selling/page/point_of_sale/pos_payment.js:359
 msgid "Payment Received"
-msgstr ""
+msgstr "Pagamento Recebido"
 
 #: DocType: Payment Reconciliation:0
 msgid "Payment Reconciliation"
-msgstr ""
+msgstr "Reconciliação de Pagamento"
 
 #: DocType: Payment Reconciliation Allocation:0
 msgid "Payment Reconciliation Allocation"
-msgstr ""
+msgstr "Alocação de Reconciliação de Pagamento"
 
 #: DocType: Payment Reconciliation Invoice:0
 msgid "Payment Reconciliation Invoice"
-msgstr ""
+msgstr "Fatura de Reconciliação de Pagamento"
 
 #: apps/erpnext/erpnext/accounts/doctype/payment_reconciliation/payment_reconciliation.js:139
 msgid ""
 "Payment Reconciliation Job: {0} is running for this party. Can't reconcile "
 "now."
 msgstr ""
+"Tarefa de Reconciliação de Pagamento: {0} está em execução para esta parte. "
+"Não é possível reconciliar agora."
 
 #: DocType: Payment Reconciliation Payment:0
 msgid "Payment Reconciliation Payment"
@@ -38678,7 +38695,7 @@ msgstr ""
 
 #: apps/erpnext/erpnext/stock/doctype/purchase_receipt/purchase_receipt.py:509
 msgid "{0} account not found while submitting purchase receipt"
-msgstr ""
+msgstr "{0} conta não encontrada ao submeter o recebimento de mercadorias"
 
 #: apps/erpnext/erpnext/accounts/doctype/journal_entry/journal_entry.py:1119
 msgid "{0} against Bill {1} dated {2}"
