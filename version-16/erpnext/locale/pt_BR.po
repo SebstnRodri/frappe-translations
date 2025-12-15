@@ -23528,73 +23528,93 @@ msgstr "Por favor, cancele a transação relacionada."
 msgid ""
 "Please check Multi Currency option to allow accounts with other currency"
 msgstr ""
+"Por favor, marque a opção Moeda Múltipla para permitir contas com outras "
+"moedas"
 
 #: apps/erpnext/erpnext/accounts/deferred_revenue.py:543
 msgid ""
 "Please check Process Deferred Accounting {0} and submit manually after "
 "resolving errors."
 msgstr ""
+"Por favor, verifique o Processamento de Contabilidade Diferida {0} e envie "
+"manualmente após resolver os erros."
 
 #: apps/erpnext/erpnext/manufacturing/doctype/bom/bom.js:86
 msgid "Please check either with operations or FG Based Operating Cost."
 msgstr ""
+"Por favor, verifique com operações ou Custo Operacional Baseado em Produto "
+"Acabado."
 
 #: apps/erpnext/erpnext/stock/doctype/repost_item_valuation/repost_item_valuation.py:521
 msgid ""
 "Please check the error message and take necessary actions to fix the error "
 "and then restart the reposting again."
 msgstr ""
+"Por favor, verifique a mensagem de erro e tome as medidas necessárias para "
+"corrigir o erro e reinicie a reavaliação novamente."
 
 #: apps/erpnext/erpnext/erpnext_integrations/doctype/plaid_settings/plaid_connector.py:65
 msgid "Please check your Plaid client ID and secret values"
-msgstr ""
+msgstr "Por favor, verifique o ID do cliente Plaid e os valores secretos"
 
 #: apps/erpnext/erpnext/www/book_appointment/index.js:235
 msgid "Please check your email to confirm the appointment"
-msgstr ""
+msgstr "Por favor, verifique seu e-mail para confirmar o compromisso"
 
 #: apps/erpnext/erpnext/maintenance/doctype/maintenance_schedule/maintenance_schedule.py:374
 msgid "Please click on 'Generate Schedule'"
-msgstr ""
+msgstr "Por favor, clique em 'Gerar Cronograma'"
 
 #: apps/erpnext/erpnext/maintenance/doctype/maintenance_schedule/maintenance_schedule.py:386
 msgid ""
 "Please click on 'Generate Schedule' to fetch Serial No added for Item {0}"
 msgstr ""
+"Por favor, clique em 'Gerar Cronograma' para buscar o Nº de Série adicionado"
+" para o Item {0}"
 
 #: apps/erpnext/erpnext/maintenance/doctype/maintenance_schedule/maintenance_schedule.py:104
 msgid "Please click on 'Generate Schedule' to get schedule"
-msgstr ""
+msgstr "Por favor, clique em 'Gerar Cronograma' para obter o cronograma"
 
 #: apps/erpnext/erpnext/selling/doctype/customer/customer.py:585
 msgid ""
 "Please contact any of the following users to extend the credit limits for "
 "{0}: {1}"
 msgstr ""
+"Por favor, entre em contato com qualquer um dos seguintes usuários para "
+"estender os limites de crédito para {0}: {1}"
 
 #: apps/erpnext/erpnext/stock/doctype/stock_ledger_entry/stock_ledger_entry.py:338
 msgid "Please contact any of the following users to {} this transaction."
 msgstr ""
+"Por favor, entre em contato com qualquer um dos seguintes usuários para {} "
+"esta transação."
 
 #: apps/erpnext/erpnext/selling/doctype/customer/customer.py:578
 msgid "Please contact your administrator to extend the credit limits for {0}."
 msgstr ""
+"Por favor, entre em contato com o administrador para estender os limites de "
+"crédito para {0}."
 
 #: apps/erpnext/erpnext/accounts/doctype/account/account.py:382
 msgid ""
 "Please convert the parent account in corresponding child company to a group "
 "account."
 msgstr ""
+"Por favor, converta a conta pai na empresa filha correspondente em uma conta"
+" de grupo."
 
 #: apps/erpnext/erpnext/selling/doctype/quotation/quotation.py:610
 msgid "Please create Customer from Lead {0}."
-msgstr ""
+msgstr "Por favor, crie o Cliente a partir da Oportunidade {0}."
 
 #: apps/erpnext/erpnext/stock/doctype/landed_cost_voucher/landed_cost_voucher.py:132
 msgid ""
 "Please create Landed Cost Vouchers against Invoices that have 'Update Stock'"
 " enabled."
 msgstr ""
+"Por favor, crie Notas de Custo Terceirizado contra Notas Fiscais que tenham "
+"'Atualizar Estoque' habilitado."
 
 #: apps/erpnext/erpnext/accounts/doctype/accounting_dimension/accounting_dimension.py:74
 msgid "Please create a new Accounting Dimension if required."
@@ -25713,7 +25733,7 @@ msgstr ""
 
 #: DocType: Stock Entry:0
 msgid "Purchase Receipt No"
-msgstr ""
+msgstr "Nº do Recebimento de Mercadorias"
 
 #: apps/erpnext/erpnext/accounts/doctype/purchase_invoice/purchase_invoice.py:652
 msgid "Purchase Receipt Required"
