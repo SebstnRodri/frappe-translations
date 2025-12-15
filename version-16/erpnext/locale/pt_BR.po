@@ -22732,184 +22732,196 @@ msgstr ""
 
 #: DocType: Payment Reconciliation Payment:0
 msgid "Payment Reconciliation Payment"
-msgstr ""
+msgstr "Pagamento de Reconciliação de Pagamento"
 
 #: DocType: Accounts Settings:0
 msgid "Payment Reconciliation Settings"
-msgstr ""
+msgstr "Configurações de Reconciliação de Pagamento"
 
 #: DocType: Payment Order Reference:0
 msgid "Payment Reference"
-msgstr ""
+msgstr "Referência de Pagamento"
 
 #: DocType: Payment Entry:0
 msgid "Payment References"
-msgstr ""
+msgstr "Referências de Pagamento"
 
 #: DocType: Accounts Settings:0
 msgid "Payment Request"
-msgstr ""
+msgstr "Solicitação de Pagamento"
 
 #: DocType: Payment Entry Reference:0
 msgid "Payment Request Outstanding"
-msgstr ""
+msgstr "Solicitação de Pagamento Pendente"
 
 #: DocType: Payment Request:0
 msgid "Payment Request Type"
-msgstr ""
+msgstr "Tipo de Solicitação de Pagamento"
 
 #: DocType: Accounts Settings:0
 msgid ""
 "Payment Request created from Sales Order or Purchase Order will be in Draft "
 "status. When disabled document will be in unsaved state."
 msgstr ""
+"A Solicitação de Pagamento criada a partir de uma Ordem de Venda ou Ordem de"
+" Compra estará no status de Rascunho. Quando desativada, o documento estará "
+"em estado não salvo."
 
 #: apps/erpnext/erpnext/accounts/doctype/payment_request/payment_request.py:622
 msgid "Payment Request for {0}"
-msgstr ""
+msgstr "Solicitação de Pagamento para {0}"
 
 #: apps/erpnext/erpnext/accounts/doctype/payment_request/payment_request.py:564
 msgid "Payment Request is already created"
-msgstr ""
+msgstr "Solicitação de Pagamento já foi criada"
 
 #: apps/erpnext/erpnext/accounts/doctype/pos_invoice/pos_invoice.js:454
 msgid ""
 "Payment Request took too long to respond. Please try requesting for payment "
 "again."
 msgstr ""
+"A Solicitação de Pagamento demorou muito para responder. Por favor, tente "
+"solicitar o pagamento novamente."
 
 #: apps/erpnext/erpnext/accounts/doctype/payment_request/payment_request.py:540
 msgid "Payment Requests cannot be created against: {0}"
-msgstr ""
+msgstr "Solicitações de Pagamento não podem ser criadas contra: {0}"
 
 #: DocType: Overdue Payment:0
 msgid "Payment Schedule"
-msgstr ""
+msgstr "Cronograma de Pagamento"
 
 #: apps/erpnext/erpnext/accounts/print_format/sales_invoice_print/sales_invoice_print.html:123
 msgid "Payment Status"
-msgstr ""
+msgstr "Status do Pagamento"
 
 #: DocType: Overdue Payment:0
 msgid "Payment Term"
-msgstr ""
+msgstr "Prazo de Pagamento"
 
 #: DocType: Payment Term:0
 msgid "Payment Term Name"
-msgstr ""
+msgstr "Nome do Termo de Pagamento"
 
 #: DocType: Payment Entry Reference:0
 msgid "Payment Term Outstanding"
-msgstr ""
+msgstr "Pagamento Pendente"
 
 #: DocType: Payment Terms Template:0
 msgid "Payment Terms"
-msgstr ""
+msgstr "Condições de Pagamento"
 
 msgid "Payment Terms Status for Sales Order"
-msgstr ""
+msgstr "Status das Condições de Pagamento para Pedido de Venda"
 
 #: DocType: Payment Terms Template:0
 msgid "Payment Terms Template"
-msgstr ""
+msgstr "Modelo de Condições de Pagamento"
 
 #: DocType: Payment Terms Template Detail:0
 msgid "Payment Terms Template Detail"
-msgstr ""
+msgstr "Detalhe do Modelo de Condições de Pagamento"
 
 #: DocType: Accounts Settings:0
 msgid "Payment Terms from orders will be fetched into the invoices as is"
 msgstr ""
+"As Condições de Pagamento dos pedidos serão transferidas para as faturas "
+"como estão"
 
 #: apps/erpnext/erpnext/accounts/doctype/process_statement_of_accounts/process_statement_of_accounts_accounts_receivable.html:45
 msgid "Payment Terms:"
-msgstr ""
+msgstr "Condições de Pagamento:"
 
 #: DocType: Payment Entry:0
 msgid "Payment Type"
-msgstr ""
+msgstr "Tipo de Pagamento"
 
 #: apps/erpnext/erpnext/accounts/doctype/payment_entry/payment_entry.py:603
 msgid "Payment Type must be one of Receive, Pay and Internal Transfer"
 msgstr ""
+"O Tipo de Pagamento deve ser um de Receber, Pagar e Transferência Interna"
 
 #: DocType: Payment Request:0
 msgid "Payment URL"
-msgstr ""
+msgstr "URL de Pagamento"
 
 #: apps/erpnext/erpnext/accounts/utils.py:1102
 msgid "Payment Unlink Error"
-msgstr ""
+msgstr "Erro ao Desvincular Pagamento"
 
 #: apps/erpnext/erpnext/accounts/doctype/journal_entry/journal_entry.py:952
 msgid "Payment against {0} {1} cannot be greater than Outstanding Amount {2}"
-msgstr ""
+msgstr "Pagamento contra {0} {1} não pode ser maior que o Valor Pendente {2}"
 
 #: apps/erpnext/erpnext/accounts/doctype/pos_invoice/pos_invoice.py:761
 msgid "Payment amount cannot be less than or equal to 0"
-msgstr ""
+msgstr "O valor do pagamento não pode ser menor ou igual a 0"
 
 #: apps/erpnext/erpnext/accounts/doctype/pos_profile/pos_profile.py:175
 msgid "Payment methods are mandatory. Please add at least one payment method."
 msgstr ""
+"Os métodos de pagamento são obrigatórios. Por favor, adicione pelo menos um "
+"método de pagamento."
 
 #: apps/erpnext/erpnext/accounts/doctype/pos_invoice/pos_invoice.js:466
 msgid "Payment of {0} received successfully."
-msgstr ""
+msgstr "Pagamento de {0} recebido com sucesso."
 
 #: apps/erpnext/erpnext/selling/page/point_of_sale/pos_payment.js:371
 msgid ""
 "Payment of {0} received successfully. Waiting for other requests to "
 "complete..."
 msgstr ""
+"Pagamento de {0} recebido com sucesso. Aguardando outras solicitações serem "
+"concluídas..."
 
 #: apps/erpnext/erpnext/accounts/doctype/pos_invoice/pos_invoice.py:384
 msgid "Payment related to {0} is not completed"
-msgstr ""
+msgstr "Pagamento relacionado a {0} não foi concluído"
 
 #: apps/erpnext/erpnext/accounts/doctype/pos_invoice/pos_invoice.js:443
 msgid "Payment request failed"
-msgstr ""
+msgstr "Solicitação de pagamento falhou"
 
 #: apps/erpnext/erpnext/accounts/doctype/payment_entry/payment_entry.py:817
 msgid "Payment term {0} not used in {1}"
-msgstr ""
+msgstr "Prazo de pagamento {0} não utilizado em {1}"
 
 #: DocType: Cashier Closing:0
 msgid "Payments"
-msgstr ""
+msgstr "Pagamentos"
 
 #: apps/erpnext/erpnext/accounts/doctype/pos_invoice/pos_invoice.js:342
 msgid "Payments could not be updated."
-msgstr ""
+msgstr "Pagamentos não puderam ser atualizados."
 
 #: apps/erpnext/erpnext/accounts/doctype/pos_invoice/pos_invoice.js:336
 msgid "Payments updated."
-msgstr ""
+msgstr "Pagamentos atualizados."
 
 #: DocType: Journal Entry Account:0
 msgid "Payroll Entry"
-msgstr ""
+msgstr "Entrada de Folha de Pagamento"
 
 #: apps/erpnext/erpnext/accounts/doctype/account/chart_of_accounts/verified/standard_chart_of_accounts.py:156
 msgid "Payroll Payable"
-msgstr ""
+msgstr "Folha de Pagamento a Pagar"
 
 #: DocType: Timesheet:0
 msgid "Payslip"
-msgstr ""
+msgstr "Contra-cheque"
 
 #: DocType: Pegged Currency Details:0
 msgid "Pegged Against"
-msgstr ""
+msgstr "Vinculado a"
 
 #: DocType: Pegged Currencies:0
 msgid "Pegged Currencies"
-msgstr ""
+msgstr "Moedas Vinculadas"
 
 #: DocType: Pegged Currency Details:0
 msgid "Pegged Currency Details"
-msgstr ""
+msgstr "Detalhes da Moeda Vinculada"
 
 #: DocType: Bank Statement Import:0
 msgid "Pending"
@@ -22917,7 +22929,7 @@ msgstr "Pendente"
 
 #: apps/erpnext/erpnext/setup/doctype/email_digest/templates/default.html:93
 msgid "Pending Activities"
-msgstr ""
+msgstr "Atividades Pendentes"
 
 #: apps/erpnext/erpnext/accounts/report/delivered_items_to_be_billed/delivered_items_to_be_billed.py:65
 msgid "Pending Amount"
@@ -36833,6 +36845,9 @@ msgid ""
 "Users can enable the checkbox If they want to adjust the incoming rate (set "
 "using purchase receipt) based on the purchase invoice rate."
 msgstr ""
+"Os usuários podem habilitar a caixa de seleção se quiserem ajustar a taxa de"
+" entrada (definida usando o recebimento de mercadorias) com base na taxa da "
+"nota fiscal de compra."
 
 #: DocType: Accounts Settings:0
 msgid ""
