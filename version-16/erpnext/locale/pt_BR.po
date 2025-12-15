@@ -24175,65 +24175,74 @@ msgstr "Por favor, selecione uma frequência para o cronograma de entrega"
 #: apps/erpnext/erpnext/manufacturing/report/material_requirements_planning_report/material_requirements_planning_report.js:135
 msgid "Please select a row to create a Reposting Entry"
 msgstr ""
+"Por favor, selecione uma linha para criar uma Entrada de Reapresentação"
 
 #: apps/erpnext/erpnext/accounts/report/purchase_register/purchase_register.py:35
 msgid "Please select a supplier for fetching payments."
-msgstr ""
+msgstr "Por favor, selecione um fornecedor para buscar os pagamentos."
 
 #: apps/erpnext/erpnext/subcontracting/doctype/subcontracting_order/subcontracting_order.py:152
 msgid "Please select a valid Purchase Order that has Service Items."
 msgstr ""
+"Por favor, selecione um Pedido de Compra válido que tenha Itens de Serviço."
 
 #: apps/erpnext/erpnext/subcontracting/doctype/subcontracting_order/subcontracting_order.py:149
 msgid ""
 "Please select a valid Purchase Order that is configured for Subcontracting."
 msgstr ""
+"Por favor, selecione um Pedido de Compra válido que esteja configurado para "
+"Subcontratação."
 
 #: apps/erpnext/erpnext/selling/doctype/quotation/quotation.js:230
 msgid "Please select a value for {0} quotation_to {1}"
-msgstr ""
+msgstr "Por favor, selecione um valor para {0} cotação para {1}"
 
 #: apps/erpnext/erpnext/assets/doctype/asset_repair/asset_repair.js:194
 msgid "Please select an item code before setting the warehouse."
-msgstr ""
+msgstr "Por favor, selecione um código de item antes de definir o armazém."
 
 #: apps/erpnext/erpnext/stock/report/serial_no_and_batch_traceability/serial_no_and_batch_traceability.py:43
 msgid "Please select at least one filter: Item Code, Batch, or Serial No."
 msgstr ""
+"Por favor, selecione pelo menos um filtro: Código do Item, Lote ou Nº de "
+"Série."
 
 #: apps/erpnext/erpnext/stock/report/incorrect_serial_and_batch_bundle/incorrect_serial_and_batch_bundle.js:33
 msgid "Please select at least one row to fix"
-msgstr ""
+msgstr "Por favor, selecione pelo menos uma linha para corrigir"
 
 #: apps/erpnext/erpnext/selling/doctype/sales_order/sales_order.js:1284
 msgid "Please select atleast one item to continue"
-msgstr ""
+msgstr "Por favor, selecione pelo menos um item para continuar"
 
 #: apps/erpnext/erpnext/manufacturing/doctype/work_order/work_order.js:374
 msgid "Please select atleast one operation to create Job Card"
 msgstr ""
+"Por favor, selecione pelo menos uma operação para criar o Cartão de Trabalho"
 
 #: apps/erpnext/erpnext/accounts/doctype/journal_entry/journal_entry.py:1761
 msgid "Please select correct account"
-msgstr ""
+msgstr "Por favor, selecione a conta correta"
 
 #: apps/erpnext/erpnext/accounts/report/share_balance/share_balance.py:14
 msgid "Please select date"
-msgstr ""
+msgstr "Por favor, selecione a data"
 
 #: apps/erpnext/erpnext/stock/report/batch_wise_balance_history/batch_wise_balance_history.py:30
 msgid ""
 "Please select either the Item or Warehouse or Warehouse Type filter to "
 "generate the report."
 msgstr ""
+"Por favor, selecione pelo menos um dos filtros: Item, Armazém ou Tipo de "
+"Armazém para gerar o relatório."
 
 #: apps/erpnext/erpnext/maintenance/doctype/maintenance_schedule/maintenance_schedule.py:228
 msgid "Please select item code"
-msgstr ""
+msgstr "Por favor, selecione o código do item"
 
 #: apps/erpnext/erpnext/selling/doctype/sales_order/sales_order.js:419
 msgid "Please select items to reserve."
-msgstr ""
+msgstr "Por favor, selecione itens para reservar."
 
 #: apps/erpnext/erpnext/selling/doctype/sales_order/sales_order.js:523
 msgid "Please select items to unreserve."
@@ -32683,6 +32692,7 @@ msgstr ""
 #: apps/erpnext/erpnext/accounts/doctype/purchase_invoice/purchase_invoice.py:734
 msgid "Stock cannot be updated against Purchase Receipt {0}"
 msgstr ""
+"O estoque não pode ser atualizado para o Recebimento de Mercadorias {0}"
 
 #: apps/erpnext/erpnext/accounts/doctype/sales_invoice/sales_invoice.py:1255
 msgid "Stock cannot be updated against the following Delivery Notes: {0}"
