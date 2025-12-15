@@ -23264,31 +23264,31 @@ msgstr "Data de Retirada"
 
 #: apps/erpnext/erpnext/stock/doctype/shipment/shipment.js:398
 msgid "Pickup Date cannot be before this day"
-msgstr ""
+msgstr "Data de Coleta não pode ser antes deste dia"
 
 #: DocType: Shipment:0
 msgid "Pickup From"
-msgstr ""
+msgstr "Coletar De"
 
 #: apps/erpnext/erpnext/stock/doctype/shipment/shipment.py:106
 msgid "Pickup To time should be greater than Pickup From time"
-msgstr ""
+msgstr "A hora de Coleta Até deve ser maior que a hora de Coleta De"
 
 #: DocType: Shipment:0
 msgid "Pickup Type"
-msgstr ""
+msgstr "Tipo de Coleta"
 
 #: DocType: Shipment:0
 msgid "Pickup from"
-msgstr "Retirar de"
+msgstr "Coletar De"
 
 #: DocType: Shipment:0
 msgid "Pickup to"
-msgstr ""
+msgstr "Coletar até"
 
 #: apps/erpnext/erpnext/crm/report/sales_pipeline_analytics/sales_pipeline_analytics.js:8
 msgid "Pipeline By"
-msgstr ""
+msgstr "Pipeline Por"
 
 #: DocType: Purchase Order:0
 msgid "Pix"
@@ -23296,101 +23296,105 @@ msgstr "Pix"
 
 #: DocType: Employee:0
 msgid "Place of Issue"
-msgstr ""
+msgstr "Local de Emissão"
 
 #: DocType: Bank:0
 msgid "Plaid Access Token"
-msgstr ""
+msgstr "Token de Acesso Plaid"
 
 #: DocType: Plaid Settings:0
 msgid "Plaid Client ID"
-msgstr ""
+msgstr "ID do Cliente Plaid"
 
 #: DocType: Plaid Settings:0
 msgid "Plaid Environment"
-msgstr ""
+msgstr "Ambiente Plaid"
 
 #: apps/erpnext/erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.py:154
 msgid "Plaid Link Failed"
-msgstr ""
+msgstr "Conexão Plaid Falhou"
 
 #: apps/erpnext/erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.py:252
 msgid "Plaid Link Refresh Required"
-msgstr ""
+msgstr "Atualização da Conexão Plaid Necessária"
 
 #: apps/erpnext/erpnext/accounts/doctype/bank/bank.js:131
 msgid "Plaid Link Updated"
-msgstr ""
+msgstr "Conexão Plaid Atualizada"
 
 #: DocType: Plaid Settings:0
 msgid "Plaid Secret"
-msgstr ""
+msgstr "Segredo Plaid"
 
 #: DocType: Plaid Settings:0
 msgid "Plaid Settings"
-msgstr ""
+msgstr "Configurações Plaid"
 
 #: apps/erpnext/erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.py:227
 msgid "Plaid transactions sync error"
-msgstr ""
+msgstr "Erro de sincronização de transações Plaid"
 
 #: DocType: Subscription Plan Detail:0
 msgid "Plan"
-msgstr ""
+msgstr "Plano"
 
 #: DocType: Subscription Plan:0
 msgid "Plan Name"
-msgstr ""
+msgstr "Nome do Plano"
 
 #: DocType: Work Order:0
 msgid "Plan material for sub-assemblies"
-msgstr ""
+msgstr "Material do plano para subconjuntos"
 
 #: DocType: Manufacturing Settings:0
 msgid "Plan operations X days in advance"
-msgstr ""
+msgstr "Operações do plano com X dias de antecedência"
 
 #: DocType: Manufacturing Settings:0
 msgid "Plan time logs outside Workstation working hours"
 msgstr ""
+"Registros de tempo do plano fora do horário de funcionamento da Estação de "
+"Trabalho"
 
 #: DocType: Asset Maintenance Log:0
 msgid "Planned"
-msgstr ""
+msgstr "Planejado"
 
 #: DocType: Work Order:0
 msgid "Planned End Date"
-msgstr ""
+msgstr "Data de término planejada"
 
 #: DocType: Work Order Operation:0
 msgid "Planned End Time"
-msgstr ""
+msgstr "Horário de término planejado"
 
 #: DocType: Work Order:0
 msgid "Planned Operating Cost"
-msgstr ""
+msgstr "Custo operacional planejado"
 
 #: apps/erpnext/erpnext/manufacturing/report/material_requirements_planning_report/material_requirements_planning_report.py:1026
 msgid "Planned Purchase Order"
-msgstr ""
+msgstr "Ordem de compra planejada"
 
 #: DocType: Master Production Schedule Item:0
 msgid "Planned Qty"
-msgstr ""
+msgstr "Quantidade planejada"
 
 #: apps/erpnext/erpnext/manufacturing/doctype/production_plan/production_plan.js:199
 msgid ""
 "Planned Qty: Quantity, for which, Work Order has been raised, but is pending"
 " to be manufactured."
 msgstr ""
+"Quantidade planejada: Quantidade para a qual a Ordem de Produção foi criada,"
+" mas está pendente para ser fabricada."
 
 #: DocType: Sales Order Item:0
 msgid "Planned Quantity"
-msgstr ""
+msgstr "Quantidade planejada"
 
 #: DocType: Production Plan Item:0
 msgid "Planned Start Date"
-msgstr ""
+msgstr "Data de início planejada"
 
 #: DocType: Work Order Operation:0
 msgid "Planned Start Time"
@@ -34789,6 +34793,8 @@ msgid ""
 "This is done to handle accounting for cases when Purchase Receipt is created"
 " after Purchase Invoice"
 msgstr ""
+"Isso é feito para lidar com a contabilidade para casos em que o Recebimento "
+"de Mercadorias é criado após a Nota Fiscal de Compra"
 
 #: apps/erpnext/erpnext/manufacturing/doctype/work_order/work_order.js:1148
 msgid ""
