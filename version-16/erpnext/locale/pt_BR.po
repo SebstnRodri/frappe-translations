@@ -24246,65 +24246,73 @@ msgstr "Por favor, selecione itens para reservar."
 
 #: apps/erpnext/erpnext/selling/doctype/sales_order/sales_order.js:523
 msgid "Please select items to unreserve."
-msgstr ""
+msgstr "Por favor, selecione os itens para cancelar a reserva."
 
 #: apps/erpnext/erpnext/stock/report/stock_ledger_invariant_check/stock_ledger_invariant_check.js:75
 msgid "Please select only one row to create a Reposting Entry"
 msgstr ""
+"Por favor, selecione apenas uma linha para criar uma Entrada de "
+"Recontabilização"
 
 #: apps/erpnext/erpnext/stock/report/stock_and_account_value_comparison/stock_and_account_value_comparison.js:59
 msgid "Please select rows to create Reposting Entries"
 msgstr ""
+"Por favor, selecione as linhas para criar Entradas de Recontabilização"
 
 #: apps/erpnext/erpnext/accounts/doctype/opening_invoice_creation_tool/opening_invoice_creation_tool.py:92
 msgid "Please select the Company"
-msgstr ""
+msgstr "Por favor, selecione a Empresa"
 
 #: apps/erpnext/erpnext/accounts/doctype/loyalty_program/loyalty_program.js:65
 msgid ""
 "Please select the Multiple Tier Program type for more than one collection "
 "rules."
 msgstr ""
+"Por favor, selecione o tipo de Programa Multinível para mais de uma regra de"
+" cobrança."
 
 #: apps/erpnext/erpnext/accounts/doctype/coupon_code/coupon_code.py:48
 msgid "Please select the customer."
-msgstr ""
+msgstr "Por favor, selecione o cliente."
 
 #: apps/erpnext/erpnext/selling/report/sales_partner_commission_summary/sales_partner_commission_summary.py:21
 msgid "Please select the document type first"
-msgstr ""
+msgstr "Por favor, selecione o tipo de documento primeiro"
 
 #: apps/erpnext/erpnext/stock/report/batch_item_expiry_status/batch_item_expiry_status.py:21
 msgid "Please select the required filters"
-msgstr ""
+msgstr "Por favor, selecione os filtros necessários"
 
 #: apps/erpnext/erpnext/support/doctype/service_level_agreement/service_level_agreement.py:200
 msgid "Please select valid document type."
-msgstr ""
+msgstr "Por favor, selecione um tipo de documento válido."
 
 #: apps/erpnext/erpnext/setup/doctype/holiday_list/holiday_list.py:52
 msgid "Please select weekly off day"
-msgstr ""
+msgstr "Por favor, selecione o dia de folga semanal"
 
 #: apps/erpnext/erpnext/public/dist/js/erpnext.bundle.E5FP2ILV.js:939
 msgid "Please select {0}"
-msgstr ""
+msgstr "Por favor, selecione {0}"
 
 #: apps/erpnext/erpnext/accounts/doctype/payment_entry/payment_entry.js:1201
 msgid "Please select {0} first"
-msgstr ""
+msgstr "Por favor, selecione {0} primeiro"
 
 #: apps/erpnext/erpnext/public/dist/js/erpnext.bundle.E5FP2ILV.js:4139
 msgid "Please set 'Apply Additional Discount On'"
-msgstr ""
+msgstr "Por favor, defina 'Aplicar Desconto Adicional Em'"
 
 #: apps/erpnext/erpnext/assets/doctype/asset/depreciation.py:779
 msgid "Please set 'Asset Depreciation Cost Center' in Company {0}"
 msgstr ""
+"Por favor, defina 'Centro de Custo de Depreciação de Ativos' na Empresa {0}"
 
 #: apps/erpnext/erpnext/assets/doctype/asset/depreciation.py:777
 msgid "Please set 'Gain/Loss Account on Asset Disposal' in Company {0}"
 msgstr ""
+"Por favor, defina 'Conta de Ganho/Perda na Alienação de Ativos' na Empresa "
+"{0}"
 
 #: apps/erpnext/erpnext/accounts/general_ledger.py:549
 msgid "Please set '{0}' in Company: {1}"
@@ -25811,7 +25819,7 @@ msgstr ""
 
 #: apps/erpnext/erpnext/accounts/doctype/purchase_invoice/purchase_invoice.py:676
 msgid "Purchase Receipt {0} is not submitted"
-msgstr ""
+msgstr "O Recebimento de Mercadorias {0} não foi submetido"
 
 msgid "Purchase Register"
 msgstr ""
