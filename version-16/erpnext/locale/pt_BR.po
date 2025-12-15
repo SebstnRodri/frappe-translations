@@ -23050,7 +23050,7 @@ msgstr "Período"
 
 #: apps/erpnext/erpnext/assets/report/fixed_asset_register/fixed_asset_register.js:60
 msgid "Period Based On"
-msgstr "Baseado no Período"
+msgstr "Período baseado em"
 
 #: apps/erpnext/erpnext/accounts/general_ledger.py:809
 msgid "Period Closed"
@@ -23071,184 +23071,196 @@ msgstr "Voucher de Fechamento de Período"
 #: apps/erpnext/erpnext/accounts/doctype/period_closing_voucher/period_closing_voucher.py:499
 msgid "Period Closing Voucher {0} GL Entry Cancellation Failed"
 msgstr ""
+"Falha ao cancelar a entrada no razão geral do voucher de fechamento de "
+"período {0}"
 
 #: apps/erpnext/erpnext/accounts/doctype/period_closing_voucher/period_closing_voucher.py:478
 msgid "Period Closing Voucher {0} GL Entry Processing Failed"
 msgstr ""
+"Falha ao processar a entrada no razão geral do voucher de fechamento de "
+"período {0}"
 
 #: DocType: POS Closing Entry:0
 msgid "Period Details"
-msgstr ""
+msgstr "Detalhes do Período"
 
 #: DocType: Period Closing Voucher:0
 msgid "Period End Date"
-msgstr ""
+msgstr "Data de término do período"
 
 #: apps/erpnext/erpnext/accounts/doctype/period_closing_voucher/period_closing_voucher.py:69
 msgid "Period End Date cannot be greater than Fiscal Year End Date"
 msgstr ""
+"A data de término do período não pode ser maior que a data de término do ano"
+" fiscal"
 
 #: DocType: Financial Report Row:0
 msgid "Period Movement (Debits - Credits)"
-msgstr ""
+msgstr "Movimentação do Período (Débitos - Créditos)"
 
 #: DocType: Accounting Period:0
 msgid "Period Name"
-msgstr ""
+msgstr "Nome do Período"
 
 #: DocType: Supplier Scorecard Period:0
 msgid "Period Score"
-msgstr ""
+msgstr "Pontuação do Período"
 
 #: DocType: Pricing Rule:0
 msgid "Period Settings"
-msgstr ""
+msgstr "Configurações do Período"
 
 #: DocType: Period Closing Voucher:0
 msgid "Period Start Date"
-msgstr ""
+msgstr "Data de início do período"
 
 #: apps/erpnext/erpnext/accounts/doctype/period_closing_voucher/period_closing_voucher.py:66
 msgid "Period Start Date cannot be greater than Period End Date"
 msgstr ""
+"A data de início do período não pode ser maior que a data de término do "
+"período"
 
 #: apps/erpnext/erpnext/accounts/doctype/period_closing_voucher/period_closing_voucher.py:63
 msgid "Period Start Date must be {0}"
-msgstr ""
+msgstr "A data de início do período deve ser {0}"
 
 #: DocType: Bisect Nodes:0
 msgid "Period To Date"
-msgstr ""
+msgstr "Até a data do período"
 
 #: apps/erpnext/erpnext/public/dist/js/erpnext.bundle.E5FP2ILV.js:11433
 msgid "Period based On"
-msgstr ""
+msgstr "Período baseado em"
 
 #: DocType: Bisect Nodes:0
 msgid "Period_from_date"
-msgstr ""
+msgstr "Data de início do período"
 
 #: DocType: Journal Entry:0
 msgid "Periodic Accounting"
-msgstr ""
+msgstr "Contabilidade Periódica"
 
 #: DocType: Journal Entry:0
 msgid "Periodic Accounting Entry"
-msgstr ""
+msgstr "Entrada de Contabilidade Periódica"
 
 #: apps/erpnext/erpnext/accounts/doctype/journal_entry/journal_entry.py:244
 msgid ""
 "Periodic Accounting Entry is not allowed for company {0} with perpetual "
 "inventory enabled"
 msgstr ""
+"Entrada de Contabilidade Periódica não é permitida para a empresa {0} com "
+"inventário perpétuo habilitado"
 
 #: DocType: Journal Entry:0
 msgid "Periodic Entry Difference Account"
-msgstr ""
+msgstr "Conta de Diferença de Entrada Periódica"
 
 #: DocType: Asset Maintenance Log:0
 msgid "Periodicity"
-msgstr ""
+msgstr "Periodicidade"
 
 #: DocType: Employee:0
 msgid "Permanent Address"
-msgstr ""
+msgstr "Endereço Permanente"
 
 #: DocType: Employee:0
 msgid "Permanent Address Is"
-msgstr ""
+msgstr "Endereço Permanente É"
 
 #: apps/erpnext/erpnext/stock/report/incorrect_stock_value_report/incorrect_stock_value_report.py:19
 msgid "Perpetual inventory required for the company {0} to view this report."
 msgstr ""
+"Inventário perpétuo é necessário para a empresa {0} para visualizar este "
+"relatório."
 
 #: DocType: Employee:0
 msgid "Personal Details"
-msgstr ""
+msgstr "Detalhes Pessoais"
 
 #: DocType: Employee:0
 msgid "Personal Email"
-msgstr ""
+msgstr "E-mail Pessoal"
 
 #: DocType: Vehicle:0
 msgid "Petrol"
-msgstr ""
+msgstr "Gasolina"
 
 #: apps/erpnext/erpnext/public/dist/js/bom_configurator.bundle.JLUUNKVF.js:313
 msgid "Phantom Item"
-msgstr ""
+msgstr "Item Fantasma"
 
 #: apps/erpnext/erpnext/public/dist/js/bom_configurator.bundle.JLUUNKVF.js:413
 msgid "Phantom Item is mandatory"
-msgstr ""
+msgstr "Item Fantasma é obrigatório"
 
 #: apps/erpnext/erpnext/setup/setup_wizard/operations/install_fixtures.py:234
 msgid "Pharmaceutical"
-msgstr ""
+msgstr "Farmacêutico"
 
 #: DocType: Mode of Payment:0
 msgid "Phone"
-msgstr ""
+msgstr "Telefone"
 
 #: DocType: Lead:0
 msgid "Phone Ext."
-msgstr ""
+msgstr "Ramal"
 
 #: DocType: Company:0
 msgid "Phone No"
-msgstr ""
+msgstr "Telefone"
 
 #: DocType: Payment Request:0
 msgid "Phone Number"
-msgstr ""
+msgstr "Número de Telefone"
 
 #: apps/erpnext/erpnext/selling/doctype/sales_order/sales_order.js:1018
 msgid "Pick List"
-msgstr ""
+msgstr "Lista de Coleta"
 
 #: apps/erpnext/erpnext/stock/doctype/pick_list/pick_list.py:217
 msgid "Pick List Incomplete"
-msgstr ""
+msgstr "Lista de Coleta Incompleta"
 
 #: DocType: Delivery Note Item:0
 msgid "Pick List Item"
-msgstr ""
+msgstr "Item da Lista de Coleta"
 
 #: DocType: Pick List:0
 msgid "Pick Manually"
-msgstr ""
+msgstr "Escolher Manualmente"
 
 #: DocType: Asset Repair Consumed Item:0
 msgid "Pick Serial / Batch"
-msgstr ""
+msgstr "Escolher Número de Série / Lote"
 
 #: DocType: Stock Settings:0
 msgid "Pick Serial / Batch Based On"
-msgstr ""
+msgstr "Escolher Número de Série / Lote Com Base Em"
 
 #: DocType: Sales Invoice Item:0
 msgid "Pick Serial / Batch No"
-msgstr ""
+msgstr "Escolher Número de Série / Lote"
 
 #: DocType: Packed Item:0
 msgid "Picked Qty"
-msgstr ""
+msgstr "Quantidade Coletada"
 
 #: DocType: Sales Order Item:0
 msgid "Picked Qty (in Stock UOM)"
-msgstr ""
+msgstr "Quantidade Coletada (em UOM de Estoque)"
 
 #: DocType: Shipment:0
 msgid "Pickup"
-msgstr ""
+msgstr "Retirada"
 
 #: DocType: Shipment:0
 msgid "Pickup Contact Person"
-msgstr ""
+msgstr "Pessoa de Contato para Retirada"
 
 #: DocType: Shipment:0
 msgid "Pickup Date"
-msgstr ""
+msgstr "Data de Retirada"
 
 #: apps/erpnext/erpnext/stock/doctype/shipment/shipment.js:398
 msgid "Pickup Date cannot be before this day"
@@ -35292,6 +35304,8 @@ msgstr ""
 msgid ""
 "To submit the invoice without purchase receipt please set {0} as {1} in {2}"
 msgstr ""
+"Para enviar a nota fiscal sem o recebimento de mercadorias, por favor, "
+"defina {0} como {1} em {2}"
 
 #: apps/erpnext/erpnext/assets/report/fixed_asset_register/fixed_asset_register.py:234
 msgid ""
