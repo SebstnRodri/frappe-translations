@@ -23893,28 +23893,34 @@ msgstr ""
 
 #: apps/erpnext/erpnext/telephony/doctype/incoming_call_settings/incoming_call_settings.js:94
 msgid "Please fix overlapping time slots for {0}"
-msgstr ""
+msgstr "Por favor, corrija os horários sobrepostos para {0}"
 
 #: apps/erpnext/erpnext/telephony/doctype/incoming_call_settings/incoming_call_settings.py:72
 msgid "Please fix overlapping time slots for {0}."
-msgstr ""
+msgstr "Por favor, corrija os horários sobrepostos para {0}."
 
 #: apps/erpnext/erpnext/accounts/doctype/chart_of_accounts_importer/chart_of_accounts_importer.py:67
 msgid ""
 "Please import accounts against parent company or enable {} in company "
 "master."
 msgstr ""
+"Por favor, importe contas contra a empresa controladora ou habilite {} no "
+"cadastro da empresa."
 
 #: apps/erpnext/erpnext/setup/doctype/employee/employee.py:181
 msgid ""
 "Please make sure the employees above report to another Active employee."
 msgstr ""
+"Certifique-se de que os funcionários acima se reportem a outro funcionário "
+"ativo."
 
 #: apps/erpnext/erpnext/accounts/doctype/chart_of_accounts_importer/chart_of_accounts_importer.py:374
 msgid ""
 "Please make sure the file you are using has 'Parent Account' column present "
 "in the header."
 msgstr ""
+"Certifique-se de que o arquivo que você está usando tenha a coluna 'Conta "
+"Contábil Pai' presente no cabeçalho."
 
 #: apps/erpnext/erpnext/setup/doctype/company/company.js:216
 msgid ""
@@ -23922,42 +23928,45 @@ msgid ""
 "company. Your master data will remain as it is. This action cannot be "
 "undone."
 msgstr ""
+"Certifique-se de que você realmente deseja excluir todas as transações desta"
+" empresa. Seus dados principais permanecerão como estão. Esta ação não pode "
+"ser desfeita."
 
 #: apps/erpnext/erpnext/stock/doctype/item/item.js:578
 msgid "Please mention 'Weight UOM' along with Weight."
-msgstr ""
+msgstr "Por favor, mencione a 'Unidade de Medida de Peso' junto com o Peso."
 
 #: apps/erpnext/erpnext/accounts/general_ledger.py:643
 msgid "Please mention '{0}' in Company: {1}"
-msgstr ""
+msgstr "Por favor, mencione '{0}' na Empresa: {1}"
 
 #: apps/erpnext/erpnext/maintenance/doctype/maintenance_schedule/maintenance_schedule.py:232
 msgid "Please mention no of visits required"
-msgstr ""
+msgstr "Por favor, mencione o número de visitas necessárias"
 
 #: apps/erpnext/erpnext/manufacturing/doctype/bom_update_log/bom_update_log.py:70
 msgid "Please mention the Current and New BOM for replacement."
-msgstr ""
+msgstr "Por favor, mencione a BOM atual e a nova para substituição."
 
 #: apps/erpnext/erpnext/selling/doctype/installation_note/installation_note.py:120
 msgid "Please pull items from Delivery Note"
-msgstr ""
+msgstr "Por favor, puxe itens da Nota de Entrega"
 
 #: apps/erpnext/erpnext/stock/doctype/shipment/shipment.js:444
 msgid "Please rectify and try again."
-msgstr ""
+msgstr "Por favor, corrija e tente novamente."
 
 #: apps/erpnext/erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.py:251
 msgid "Please refresh or reset the Plaid linking of the Bank {}."
-msgstr ""
+msgstr "Por favor, atualize ou redefina a vinculação do Plaid do Banco {}."
 
 #: apps/erpnext/erpnext/accounts/doctype/process_statement_of_accounts/process_statement_of_accounts.js:12
 msgid "Please save before proceeding."
-msgstr ""
+msgstr "Por favor, salve antes de prosseguir."
 
 #: apps/erpnext/erpnext/maintenance/doctype/maintenance_schedule/maintenance_schedule.js:49
 msgid "Please save first"
-msgstr ""
+msgstr "Por favor, salve primeiro"
 
 #: apps/erpnext/erpnext/selling/doctype/sales_order/sales_order.js:859
 msgid "Please save the Sales Order before adding a delivery schedule."
@@ -25732,7 +25741,7 @@ msgstr ""
 
 #: apps/erpnext/erpnext/accounts/doctype/purchase_invoice/purchase_invoice.js:169
 msgid "Purchase Receipt"
-msgstr ""
+msgstr "Recebimento de Mercadorias"
 
 #: DocType: Buying Settings:0
 msgid ""
