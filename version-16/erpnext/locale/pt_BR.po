@@ -24316,134 +24316,152 @@ msgstr ""
 
 #: apps/erpnext/erpnext/accounts/general_ledger.py:549
 msgid "Please set '{0}' in Company: {1}"
-msgstr ""
+msgstr "Por favor, defina '{0}' em Empresa: {1}"
 
 #: apps/erpnext/erpnext/accounts/doctype/ledger_merge/ledger_merge.js:36
 msgid "Please set Account"
-msgstr ""
+msgstr "Por favor, defina Conta"
 
 #: apps/erpnext/erpnext/accounts/doctype/sales_invoice/sales_invoice.py:1854
 msgid "Please set Account for Change Amount"
-msgstr ""
+msgstr "Por favor, defina Conta para o Valor de Troco"
 
 #: apps/erpnext/erpnext/stock/__init__.py:88
 msgid ""
 "Please set Account in Warehouse {0} or Default Inventory Account in Company "
 "{1}"
 msgstr ""
+"Por favor, defina Conta no Armazém {0} ou Conta de Inventário Padrão na "
+"Empresa {1}"
 
 #: apps/erpnext/erpnext/accounts/doctype/pos_invoice_merge_log/pos_invoice_merge_log.py:333
 msgid "Please set Accounting Dimension {} in {}"
-msgstr ""
+msgstr "Por favor, defina Dimensão Contábil {} em {}"
 
 #: apps/erpnext/erpnext/accounts/doctype/ledger_merge/ledger_merge.js:23
 msgid "Please set Company"
-msgstr ""
+msgstr "Por favor, defina Empresa"
 
 #: apps/erpnext/erpnext/regional/united_arab_emirates/utils.py:26
 msgid ""
 "Please set Customer Address to determine if the transaction is an export."
 msgstr ""
+"Por favor, defina o Endereço do Cliente para determinar se a transação é uma"
+" exportação."
 
 #: apps/erpnext/erpnext/assets/doctype/asset/depreciation.py:741
 msgid ""
 "Please set Depreciation related Accounts in Asset Category {0} or Company "
 "{1}"
 msgstr ""
+"Por favor, defina Contas Relacionadas à Depreciação na Categoria de Ativo "
+"{0} ou Empresa {1}"
 
 #: apps/erpnext/erpnext/stock/doctype/shipment/shipment.js:176
 msgid "Please set Email/Phone for the contact"
-msgstr ""
+msgstr "Por favor, defina E-mail/Tel para o contato"
 
 #: apps/erpnext/erpnext/regional/italy/utils.py:250
 msgid "Please set Fiscal Code for the customer '%s'"
-msgstr ""
+msgstr "Por favor, defina o Código Fiscal para o cliente '%s'"
 
 #: apps/erpnext/erpnext/regional/italy/utils.py:258
 msgid "Please set Fiscal Code for the public administration '%s'"
-msgstr ""
+msgstr "Por favor, defina o Código Fiscal para a administração pública '%s'"
 
 #: apps/erpnext/erpnext/assets/doctype/asset/depreciation.py:727
 msgid "Please set Fixed Asset Account in Asset Category {0}"
-msgstr ""
+msgstr "Por favor, defina Conta de Ativo Fixo na Categoria de Ativo {0}"
 
 #: apps/erpnext/erpnext/accounts/doctype/purchase_invoice/purchase_invoice.py:592
 msgid "Please set Fixed Asset Account in {} against {}."
-msgstr ""
+msgstr "Por favor, defina Conta de Ativo Fixo em {} contra {}."
 
 #: apps/erpnext/erpnext/manufacturing/doctype/bom_creator/bom_creator.py:258
 msgid "Please set Parent Row No for item {0}"
-msgstr ""
+msgstr "Por favor, defina Nº da Linha Pai para o item {0}"
 
 #: apps/erpnext/erpnext/controllers/buying_controller.py:339
 msgid "Please set Purchase Expense Contra Account in Company {0}"
-msgstr ""
+msgstr "Por favor, defina Conta de Contra de Despesa de Compra na Empresa {0}"
 
 #: apps/erpnext/erpnext/accounts/doctype/ledger_merge/ledger_merge.js:24
 msgid "Please set Root Type"
-msgstr ""
+msgstr "Por favor, defina o Tipo de Raiz"
 
 #: apps/erpnext/erpnext/regional/italy/utils.py:265
 msgid "Please set Tax ID for the customer '%s'"
-msgstr ""
+msgstr "Por favor, defina o ID do Imposto para o cliente '%s'"
 
 #: apps/erpnext/erpnext/accounts/doctype/exchange_rate_revaluation/exchange_rate_revaluation.py:339
 msgid "Please set Unrealized Exchange Gain/Loss Account in Company {0}"
 msgstr ""
+"Por favor, defina a Conta de Ganho/Perda de Câmbio Não Realizado na Empresa "
+"{0}"
 
 #: apps/erpnext/erpnext/regional/report/vat_audit_report/vat_audit_report.py:56
 msgid "Please set VAT Accounts in {0}"
-msgstr ""
+msgstr "Por favor, defina Contas de IVA em {0}"
 
 #: apps/erpnext/erpnext/regional/united_arab_emirates/utils.py:83
 msgid "Please set Vat Accounts for Company: \"{0}\" in UAE VAT Settings"
 msgstr ""
+"Por favor, defina Contas de IVA para a Empresa: \"{0}\" nas Configurações de"
+" IVA dos Emirados Árabes Unidos"
 
 #: apps/erpnext/erpnext/accounts/doctype/account/account_tree.js:19
 msgid "Please set a Company"
-msgstr ""
+msgstr "Por favor, defina uma Empresa"
 
 #: apps/erpnext/erpnext/assets/doctype/asset/asset.py:309
 msgid ""
 "Please set a Cost Center for the Asset or set an Asset Depreciation Cost "
 "Center for the Company {}"
 msgstr ""
+"Por favor, defina um Centro de Custo para o Ativo ou defina um Centro de "
+"Custo de Depreciação de Ativo para a Empresa {}"
 
 #: apps/erpnext/erpnext/selling/doctype/sales_order/sales_order.py:1625
 msgid ""
 "Please set a Supplier against the Items to be considered in the Purchase "
 "Order."
 msgstr ""
+"Por favor, defina um Fornecedor contra os Itens a serem considerados no "
+"Pedido de Compra."
 
 #: apps/erpnext/erpnext/projects/doctype/project/project.py:728
 msgid "Please set a default Holiday List for Company {0}"
-msgstr ""
+msgstr "Por favor, defina uma Lista de Feriados padrão para a Empresa {0}"
 
 #: apps/erpnext/erpnext/setup/doctype/employee/employee.py:273
 msgid "Please set a default Holiday List for Employee {0} or Company {1}"
 msgstr ""
+"Por favor, defina uma Lista de Feriados padrão para o Funcionário {0} ou "
+"Empresa {1}"
 
 #: apps/erpnext/erpnext/accounts/doctype/purchase_invoice/purchase_invoice.py:1113
 msgid "Please set account in Warehouse {0}"
-msgstr ""
+msgstr "Por favor, defina uma conta no Armazém {0}"
 
 #: apps/erpnext/erpnext/manufacturing/doctype/master_production_schedule/master_production_schedule.js:68
 msgid ""
 "Please set actual demand or sales forecast to generate Material Requirements"
 " Planning Report."
 msgstr ""
+"Por favor, defina a demanda real ou previsão de vendas para gerar o "
+"Relatório de Planejamento de Necessidades de Materiais."
 
 #: apps/erpnext/erpnext/regional/italy/utils.py:220
 msgid "Please set an Address on the Company '%s'"
-msgstr ""
+msgstr "Por favor, defina um Endereço na Empresa '%s'"
 
 #: apps/erpnext/erpnext/controllers/stock_controller.py:871
 msgid "Please set an Expense Account in the Items table"
-msgstr ""
+msgstr "Por favor, defina uma Conta de Despesa na tabela de Itens"
 
 #: apps/erpnext/erpnext/crm/doctype/email_campaign/email_campaign.py:57
 msgid "Please set an email id for the Lead {0}"
-msgstr ""
+msgstr "Por favor, defina um id de e-mail para a Lead {0}"
 
 #: apps/erpnext/erpnext/regional/italy/utils.py:276
 msgid "Please set at least one row in the Taxes and Charges Table"
@@ -25815,7 +25833,7 @@ msgstr ""
 
 #: apps/erpnext/erpnext/subcontracting/doctype/subcontracting_receipt/subcontracting_receipt.py:991
 msgid "Purchase Receipt {0} created."
-msgstr ""
+msgstr "Recebimento de Mercadorias {0} criado."
 
 #: apps/erpnext/erpnext/accounts/doctype/purchase_invoice/purchase_invoice.py:676
 msgid "Purchase Receipt {0} is not submitted"
