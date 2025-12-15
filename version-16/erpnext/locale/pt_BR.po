@@ -23398,125 +23398,131 @@ msgstr "Data de início planejada"
 
 #: DocType: Work Order Operation:0
 msgid "Planned Start Time"
-msgstr ""
+msgstr "Hora de Início Planejada"
 
 #: apps/erpnext/erpnext/manufacturing/report/material_requirements_planning_report/material_requirements_planning_report.py:1031
 msgid "Planned Work Order"
-msgstr ""
+msgstr "Ordem de Produção Planejada"
 
 #: DocType: Master Production Schedule:0
 msgid "Planning"
-msgstr ""
+msgstr "Planejamento"
 
 #: DocType: Subscription:0
 msgid "Plans"
-msgstr ""
+msgstr "Planos"
 
 #: DocType: Plant Floor:0
 msgid "Plant Dashboard"
-msgstr ""
+msgstr "Painel de Fábrica"
 
 #: DocType: Plant Floor:0
 msgid "Plant Floor"
-msgstr ""
+msgstr "Piso de Fábrica"
 
 #: apps/erpnext/erpnext/accounts/doctype/account/chart_of_accounts/verified/standard_chart_of_accounts.py:57
 msgid "Plants and Machineries"
-msgstr ""
+msgstr "Plantas e Máquinas"
 
 #: apps/erpnext/erpnext/stock/doctype/pick_list/pick_list.py:561
 msgid ""
 "Please Restock Items and Update the Pick List to continue. To discontinue, "
 "cancel the Pick List."
 msgstr ""
+"Por favor, reabasteça os itens e atualize a Lista de Separação para "
+"continuar. Para descontinuar, cancele a Lista de Separação."
 
 #: apps/erpnext/erpnext/selling/page/sales_funnel/sales_funnel.py:18
 msgid "Please Select a Company"
-msgstr ""
+msgstr "Por favor, Selecione uma Empresa"
 
 #: apps/erpnext/erpnext/selling/page/sales_funnel/sales_funnel.js:111
 msgid "Please Select a Company."
-msgstr ""
+msgstr "Por favor, Selecione uma Empresa."
 
 #: apps/erpnext/erpnext/stock/doctype/delivery_note/delivery_note.js:165
 msgid "Please Select a Customer"
-msgstr ""
+msgstr "Por favor, Selecione um Cliente"
 
 #: apps/erpnext/erpnext/stock/doctype/purchase_receipt/purchase_receipt.js:139
 msgid "Please Select a Supplier"
-msgstr ""
+msgstr "Por favor, Selecione um Fornecedor"
 
 #: apps/erpnext/erpnext/accounts/doctype/pricing_rule/pricing_rule.py:161
 msgid "Please Set Priority"
-msgstr ""
+msgstr "Por favor, Defina a Prioridade"
 
 #: apps/erpnext/erpnext/accounts/doctype/opening_invoice_creation_tool/opening_invoice_creation_tool.py:155
 msgid "Please Set Supplier Group in Buying Settings."
 msgstr ""
+"Por favor, Defina o Grupo de Fornecedores nas Configurações de Compras."
 
 #: apps/erpnext/erpnext/accounts/doctype/payment_entry/payment_entry.js:1878
 msgid "Please Specify Account"
-msgstr ""
+msgstr "Por favor, Especifique a Conta"
 
 #: apps/erpnext/erpnext/buying/doctype/supplier/supplier.py:126
 msgid "Please add 'Supplier' role to user {0}."
-msgstr ""
+msgstr "Por favor, adicione a função 'Fornecedor' ao usuário {0}."
 
 #: apps/erpnext/erpnext/selling/page/point_of_sale/pos_controller.js:101
 msgid "Please add Mode of payments and opening balance details."
-msgstr ""
+msgstr "Por favor, adicione Modos de pagamento e detalhes do saldo inicial."
 
 #: apps/erpnext/erpnext/buying/doctype/request_for_quotation/request_for_quotation.py:185
 msgid "Please add Request for Quotation to the sidebar in Portal Settings."
 msgstr ""
+"Por favor, adicione Solicitação de Cotação à barra lateral nas Configurações"
+" do Portal."
 
 #: apps/erpnext/erpnext/accounts/doctype/chart_of_accounts_importer/chart_of_accounts_importer.py:416
 msgid "Please add Root Account for - {0}"
-msgstr ""
+msgstr "Por favor, adicione Conta Raiz para - {0}"
 
 #: apps/erpnext/erpnext/accounts/doctype/opening_invoice_creation_tool/opening_invoice_creation_tool.py:299
 msgid "Please add a Temporary Opening account in Chart of Accounts"
 msgstr ""
+"Por favor, adicione uma conta de Abertura Temporária no Plano de Contas"
 
 #: apps/erpnext/erpnext/public/dist/js/erpnext.bundle.E5FP2ILV.js:2719
 msgid "Please add atleast one Serial No / Batch No"
-msgstr ""
+msgstr "Por favor, adicione pelo menos um Nº de Série / Nº de Lote"
 
 #: apps/erpnext/erpnext/accounts/doctype/bank_statement_import/bank_statement_import.py:85
 msgid "Please add the Bank Account column"
-msgstr ""
+msgstr "Por favor, adicione a coluna Conta Bancária"
 
 #: apps/erpnext/erpnext/accounts/doctype/account/account_tree.js:243
 msgid "Please add the account to root level Company - {0}"
-msgstr ""
+msgstr "Por favor, adicione a conta ao nível raiz da Empresa - {0}"
 
 #: apps/erpnext/erpnext/accounts/doctype/account/account.py:231
 msgid "Please add the account to root level Company - {}"
-msgstr ""
+msgstr "Por favor, adicione a conta ao nível raiz da Empresa - {}"
 
 #: apps/erpnext/erpnext/controllers/website_list_for_contact.py:298
 msgid "Please add {1} role to user {0}."
-msgstr ""
+msgstr "Por favor, adicione a função {1} ao usuário {0}."
 
 #: apps/erpnext/erpnext/controllers/stock_controller.py:1665
 msgid "Please adjust the qty or edit {0} to proceed."
-msgstr ""
+msgstr "Por favor, ajuste a quantidade ou edite {0} para prosseguir."
 
 #: apps/erpnext/erpnext/stock/doctype/serial_and_batch_bundle/serial_and_batch_bundle.js:128
 msgid "Please attach CSV file"
-msgstr ""
+msgstr "Por favor, anexe o arquivo CSV"
 
 #: apps/erpnext/erpnext/accounts/doctype/sales_invoice/sales_invoice.py:3186
 msgid "Please cancel and amend the Payment Entry"
-msgstr ""
+msgstr "Por favor, cancele e altere a Entrada de Pagamento"
 
 #: apps/erpnext/erpnext/accounts/utils.py:1101
 msgid "Please cancel payment entry manually first"
-msgstr ""
+msgstr "Por favor, cancele a entrada de pagamento manualmente primeiro"
 
 #: apps/erpnext/erpnext/stock/doctype/stock_ledger_entry/stock_ledger_entry.py:344
 msgid "Please cancel related transaction."
-msgstr ""
+msgstr "Por favor, cancele a transação relacionada."
 
 #: apps/erpnext/erpnext/accounts/doctype/journal_entry/journal_entry.py:1026
 msgid ""
@@ -24043,7 +24049,7 @@ msgstr ""
 
 #: apps/erpnext/erpnext/stock/doctype/pick_list/pick_list.py:1588
 msgid "Please select a Company"
-msgstr "Por favor, selecione uma Empresa"
+msgstr "Por favor, Selecione uma Empresa"
 
 #: apps/erpnext/erpnext/accounts/doctype/payment_entry/payment_entry.js:267
 msgid "Please select a Company first."
@@ -25699,7 +25705,7 @@ msgstr ""
 
 #: DocType: Asset:0
 msgid "Purchase Receipt Item"
-msgstr ""
+msgstr "Item do Recebimento de Mercadorias"
 
 #: DocType: Purchase Receipt Item Supplied:0
 msgid "Purchase Receipt Item Supplied"
