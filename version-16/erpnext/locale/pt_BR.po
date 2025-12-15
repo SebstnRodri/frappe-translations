@@ -23000,31 +23000,35 @@ msgstr "Por Ano"
 
 #: DocType: Budget Distribution:0
 msgid "Percent"
-msgstr ""
+msgstr "Porcentagem"
 
 #: DocType: Payment Schedule:0
 msgid "Percentage"
-msgstr ""
+msgstr "Percentual"
 
 #: DocType: Cost Center Allocation Percentage:0
 msgid "Percentage (%)"
-msgstr ""
+msgstr "Percentual (%)"
 
 #: DocType: Monthly Distribution Percentage:0
 msgid "Percentage Allocation"
-msgstr ""
+msgstr "Alocação Percentual"
 
 #: apps/erpnext/erpnext/accounts/doctype/monthly_distribution/monthly_distribution.py:57
 msgid "Percentage Allocation should be equal to 100%"
-msgstr ""
+msgstr "A Alocação Percentual deve ser igual a 100%"
 
 #: DocType: Buying Settings:0
 msgid "Percentage you are allowed to order beyond the Blanket Order quantity."
 msgstr ""
+"Percentual que você tem permissão para solicitar além da quantidade da Ordem"
+" de Compra em Bloco."
 
 #: DocType: Selling Settings:0
 msgid "Percentage you are allowed to sell beyond the Blanket Order quantity."
 msgstr ""
+"Percentual que você tem permissão para vender além da quantidade da Ordem de"
+" Venda em Bloco."
 
 #: DocType: Buying Settings:0
 msgid ""
@@ -23032,34 +23036,37 @@ msgid ""
 "For example: If you have ordered 100 units. and your Allowance is 10% then "
 "you are allowed to transfer 110 units."
 msgstr ""
+"Percentual que você tem permissão para transferir além da quantidade "
+"encomendada. Por exemplo: se você encomendou 100 unidades e sua Tolerância é"
+" de 10%, você pode transferir 110 unidades."
 
 #: apps/erpnext/erpnext/setup/setup_wizard/operations/install_fixtures.py:437
 msgid "Perception Analysis"
-msgstr ""
+msgstr "Análise de Percepção"
 
 #: apps/erpnext/erpnext/accounts/report/budget_variance_report/budget_variance_report.js:59
 msgid "Period"
-msgstr ""
+msgstr "Período"
 
 #: apps/erpnext/erpnext/assets/report/fixed_asset_register/fixed_asset_register.js:60
 msgid "Period Based On"
-msgstr ""
+msgstr "Baseado no Período"
 
 #: apps/erpnext/erpnext/accounts/general_ledger.py:809
 msgid "Period Closed"
-msgstr ""
+msgstr "Período Fechado"
 
 #: apps/erpnext/erpnext/accounts/report/consolidated_trial_balance/consolidated_trial_balance.js:69
 msgid "Period Closing Entry For Current Period"
-msgstr ""
+msgstr "Entrada de Fechamento de Período para o Período Atual"
 
 #: DocType: Accounts Settings:0
 msgid "Period Closing Settings"
-msgstr ""
+msgstr "Configurações de Fechamento de Período"
 
 #: DocType: Account Closing Balance:0
 msgid "Period Closing Voucher"
-msgstr ""
+msgstr "Voucher de Fechamento de Período"
 
 #: apps/erpnext/erpnext/accounts/doctype/period_closing_voucher/period_closing_voucher.py:499
 msgid "Period Closing Voucher {0} GL Entry Cancellation Failed"
@@ -35381,6 +35388,8 @@ msgid ""
 "Total Applicable Charges in Purchase Receipt Items table must be same as "
 "Total Taxes and Charges"
 msgstr ""
+"O Total de Cobranças Aplicáveis na tabela de Itens do Recebimento de "
+"Mercadorias deve ser igual ao Total de Impostos e Cobranças"
 
 #: apps/erpnext/erpnext/accounts/report/balance_sheet/balance_sheet.py:216
 msgid "Total Asset"
