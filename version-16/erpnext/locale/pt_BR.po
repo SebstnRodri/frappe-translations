@@ -23618,62 +23618,74 @@ msgstr ""
 
 #: apps/erpnext/erpnext/accounts/doctype/accounting_dimension/accounting_dimension.py:74
 msgid "Please create a new Accounting Dimension if required."
-msgstr ""
+msgstr "Por favor, crie uma nova Dimensão Contábil se necessário."
 
 #: apps/erpnext/erpnext/controllers/accounts_controller.py:739
 msgid "Please create purchase from internal sale or delivery document itself"
 msgstr ""
+"Por favor, crie a compra a partir da própria venda interna ou do documento "
+"de entrega"
 
 #: apps/erpnext/erpnext/assets/doctype/asset/asset.py:395
 msgid "Please create purchase receipt or purchase invoice for the item {0}"
 msgstr ""
+"Por favor, crie recibo de compra ou nota fiscal de compra para o item {0}"
 
 #: apps/erpnext/erpnext/stock/doctype/item/item.py:632
 msgid "Please delete Product Bundle {0}, before merging {1} into {2}"
 msgstr ""
+"Por favor, exclua o Pacote de Produtos {0} antes de mesclar {1} em {2}"
 
 #: apps/erpnext/erpnext/assets/doctype/asset/depreciation.py:552
 msgid "Please disable workflow temporarily for Journal Entry {0}"
 msgstr ""
+"Por favor, desative o fluxo de trabalho temporariamente para Lançamento de "
+"Diário {0}"
 
 #: apps/erpnext/erpnext/assets/doctype/asset/asset.py:449
 msgid ""
 "Please do not book expense of multiple assets against one single Asset."
 msgstr ""
+"Por favor, não registre despesas de vários ativos contra um único Ativo."
 
 #: apps/erpnext/erpnext/controllers/item_variant.py:235
 msgid "Please do not create more than 500 items at a time"
-msgstr ""
+msgstr "Por favor, não crie mais de 500 itens de uma vez"
 
 #: apps/erpnext/erpnext/accounts/doctype/budget/budget.py:182
 msgid "Please enable Applicable on Booking Actual Expenses"
-msgstr ""
+msgstr "Por favor, habilite Aplicável na Reserva de Despesas Reais"
 
 #: apps/erpnext/erpnext/accounts/doctype/budget/budget.py:178
 msgid ""
 "Please enable Applicable on Purchase Order and Applicable on Booking Actual "
 "Expenses"
 msgstr ""
+"Por favor, habilite Aplicável no Pedido de Compra e Aplicável na Reserva de "
+"Despesas Reais"
 
 #: apps/erpnext/erpnext/stock/doctype/pick_list/pick_list.py:267
 msgid "Please enable Use Old Serial / Batch Fields to make_bundle"
 msgstr ""
+"Por favor, habilite Usar Campos Antigos de Série/Batch para criar pacote"
 
 #: apps/erpnext/erpnext/accounts/doctype/accounts_settings/accounts_settings.js:13
 msgid "Please enable only if the understand the effects of enabling this."
 msgstr ""
+"Por favor, habilite apenas se você entender os efeitos de habilitar isso."
 
 #: apps/erpnext/erpnext/buying/doctype/request_for_quotation/request_for_quotation.js:149
 msgid "Please enable pop-ups"
-msgstr ""
+msgstr "Por favor, habilite pop-ups"
 
 #: apps/erpnext/erpnext/stock/doctype/stock_reservation_entry/stock_reservation_entry.py:673
 msgid "Please enable {0} in the {1}."
-msgstr ""
+msgstr "Por favor, habilite {0} no {1}."
 
 #: apps/erpnext/erpnext/controllers/selling_controller.py:824
 msgid "Please enable {} in {} to allow same item in multiple rows"
 msgstr ""
+"Por favor, habilite {} em {} para permitir o mesmo item em várias linhas"
 
 #: apps/erpnext/erpnext/accounts/doctype/purchase_invoice/purchase_invoice.py:375
 msgid ""
@@ -23681,150 +23693,158 @@ msgid ""
 "change the parent account to a Balance Sheet account or select a different "
 "account."
 msgstr ""
+"Por favor, certifique-se de que a conta {0} seja uma conta do Balanço "
+"Patrimonial. Você pode alterar a conta pai para uma conta do Balanço "
+"Patrimonial ou selecionar uma conta diferente."
 
 #: apps/erpnext/erpnext/accounts/doctype/purchase_invoice/purchase_invoice.py:383
 msgid ""
 "Please ensure that the {0} account {1} is a Payable account. You can change "
 "the account type to Payable or select a different account."
 msgstr ""
+"Certifique-se de que a conta {0} {1} seja uma conta a pagar. Você pode "
+"alterar o tipo da conta para Pagar ou selecionar uma conta diferente."
 
 #: apps/erpnext/erpnext/accounts/doctype/sales_invoice/sales_invoice.py:1040
 msgid "Please ensure {} account is a Balance Sheet account."
 msgstr ""
+"Certifique-se de que a conta {} seja uma conta do Balanço Patrimonial."
 
 #: apps/erpnext/erpnext/accounts/doctype/sales_invoice/sales_invoice.py:1050
 msgid "Please ensure {} account {} is a Receivable account."
-msgstr ""
+msgstr "Certifique-se de que a conta {} {} seja uma conta a receber."
 
 #: apps/erpnext/erpnext/stock/doctype/stock_entry/stock_entry.py:595
 msgid ""
 "Please enter <b>Difference Account</b> or set default <b>Stock Adjustment "
 "Account</b> for company {0}"
 msgstr ""
+"Por favor, insira a <b>Conta de Diferença</b> ou defina a <b>Conta de Ajuste"
+" de Estoque</b> padrão para a empresa {0}"
 
 #: apps/erpnext/erpnext/accounts/doctype/sales_invoice/sales_invoice.py:1315
 msgid "Please enter Account for Change Amount"
-msgstr ""
+msgstr "Por favor, insira a Conta para o Valor de Troco"
 
 #: apps/erpnext/erpnext/setup/doctype/authorization_rule/authorization_rule.py:75
 msgid "Please enter Approving Role or Approving User"
-msgstr ""
+msgstr "Por favor, insira o Papel de Aprovação ou o Usuário de Aprovação"
 
 #: apps/erpnext/erpnext/stock/doctype/stock_reconciliation/stock_reconciliation.py:952
 msgid "Please enter Cost Center"
-msgstr ""
+msgstr "Por favor, insira o Centro de Custo"
 
 #: apps/erpnext/erpnext/selling/doctype/sales_order/sales_order.py:409
 msgid "Please enter Delivery Date"
-msgstr ""
+msgstr "Por favor, insira a Data de Entrega"
 
 #: apps/erpnext/erpnext/setup/doctype/sales_person/sales_person_tree.js:9
 msgid "Please enter Employee Id of this sales person"
-msgstr ""
+msgstr "Por favor, insira o Id do Funcionário desta pessoa de vendas"
 
 #: apps/erpnext/erpnext/stock/doctype/stock_reconciliation/stock_reconciliation.py:961
 msgid "Please enter Expense Account"
-msgstr ""
+msgstr "Por favor, insira a Conta de Despesa"
 
 #: apps/erpnext/erpnext/assets/doctype/asset_capitalization/asset_capitalization.js:86
 msgid "Please enter Item Code to get Batch Number"
-msgstr ""
+msgstr "Por favor, insira o Código do Item para obter o Número do Lote"
 
 #: apps/erpnext/erpnext/public/dist/js/erpnext.bundle.E5FP2ILV.js:6504
 msgid "Please enter Item Code to get batch no"
-msgstr ""
+msgstr "Por favor, insira o Código do Item para obter o número do lote"
 
 #: apps/erpnext/erpnext/manufacturing/doctype/production_plan/production_plan.js:85
 msgid "Please enter Item first"
-msgstr ""
+msgstr "Por favor, insira o Item primeiro"
 
 #: apps/erpnext/erpnext/maintenance/doctype/maintenance_schedule/maintenance_schedule.py:224
 msgid "Please enter Maintenance Details first"
-msgstr ""
+msgstr "Por favor, insira os Detalhes de Manutenção primeiro"
 
 #: apps/erpnext/erpnext/manufacturing/doctype/production_plan/production_plan.py:192
 msgid "Please enter Planned Qty for Item {0} at row {1}"
-msgstr ""
+msgstr "Por favor, insira a Quantidade Planejada para o Item {0} na linha {1}"
 
 #: apps/erpnext/erpnext/setup/doctype/employee/employee.js:77
 msgid "Please enter Preferred Contact Email"
-msgstr ""
+msgstr "Por favor, insira o e-mail de contato preferido"
 
 #: apps/erpnext/erpnext/manufacturing/doctype/work_order/work_order.js:73
 msgid "Please enter Production Item first"
-msgstr ""
+msgstr "Por favor, insira primeiro o item de produção"
 
 #: apps/erpnext/erpnext/stock/doctype/landed_cost_voucher/landed_cost_voucher.js:50
 msgid "Please enter Purchase Receipt first"
-msgstr ""
+msgstr "Por favor, insira primeiro a nota de recebimento"
 
 #: apps/erpnext/erpnext/stock/doctype/landed_cost_voucher/landed_cost_voucher.py:113
 msgid "Please enter Receipt Document"
-msgstr ""
+msgstr "Por favor, insira o documento de recebimento"
 
 #: apps/erpnext/erpnext/accounts/doctype/journal_entry/journal_entry.py:1090
 msgid "Please enter Reference date"
-msgstr ""
+msgstr "Por favor, insira a data de referência"
 
 #: apps/erpnext/erpnext/accounts/doctype/chart_of_accounts_importer/chart_of_accounts_importer.py:395
 msgid "Please enter Root Type for account- {0}"
-msgstr ""
+msgstr "Por favor, insira o tipo de raiz para a conta - {0}"
 
 #: apps/erpnext/erpnext/public/dist/js/erpnext.bundle.E5FP2ILV.js:2426
 msgid "Please enter Serial Nos"
-msgstr ""
+msgstr "Por favor, insira os números de série"
 
 #: apps/erpnext/erpnext/stock/doctype/shipment/shipment.py:85
 msgid "Please enter Shipment Parcel information"
-msgstr ""
+msgstr "Por favor, insira as informações da parcela de envio"
 
 #: apps/erpnext/erpnext/stock/doctype/quick_stock_balance/quick_stock_balance.js:30
 msgid "Please enter Warehouse and Date"
-msgstr ""
+msgstr "Por favor, insira o armazém e a data"
 
 #: apps/erpnext/erpnext/accounts/doctype/sales_invoice/sales_invoice.py:1311
 msgid "Please enter Write Off Account"
-msgstr ""
+msgstr "Por favor, insira a conta de baixa"
 
 #: apps/erpnext/erpnext/selling/doctype/sales_order/sales_order.js:717
 msgid "Please enter a valid number of deliveries"
-msgstr ""
+msgstr "Por favor, insira um número válido de entregas"
 
 #: apps/erpnext/erpnext/selling/doctype/sales_order/sales_order.js:658
 msgid "Please enter a valid quantity"
-msgstr ""
+msgstr "Por favor, insira uma quantidade válida"
 
 #: apps/erpnext/erpnext/selling/doctype/sales_order/sales_order.js:652
 msgid "Please enter at least one delivery date and quantity"
-msgstr ""
+msgstr "Por favor, insira pelo menos uma data de entrega e quantidade"
 
 #: apps/erpnext/erpnext/accounts/doctype/cost_center/cost_center.js:114
 msgid "Please enter company name first"
-msgstr ""
+msgstr "Por favor, insira primeiro o nome da empresa"
 
 #: apps/erpnext/erpnext/controllers/accounts_controller.py:2885
 msgid "Please enter default currency in Company Master"
-msgstr ""
+msgstr "Por favor, insira a moeda padrão no cadastro da empresa"
 
 #: apps/erpnext/erpnext/selling/doctype/sms_center/sms_center.py:129
 msgid "Please enter message before sending"
-msgstr ""
+msgstr "Por favor, insira a mensagem antes de enviar"
 
 #: apps/erpnext/erpnext/accounts/doctype/pos_invoice/pos_invoice.js:431
 msgid "Please enter mobile number first."
-msgstr ""
+msgstr "Por favor, insira o número do celular primeiro."
 
 #: apps/erpnext/erpnext/accounts/doctype/cost_center/cost_center.py:45
 msgid "Please enter parent cost center"
-msgstr ""
+msgstr "Por favor, insira o centro de custo pai"
 
 #: apps/erpnext/erpnext/public/dist/js/erpnext.bundle.E5FP2ILV.js:8548
 msgid "Please enter quantity for item {0}"
-msgstr ""
+msgstr "Por favor, insira a quantidade para o item {0}"
 
 #: apps/erpnext/erpnext/setup/doctype/employee/employee.py:184
 msgid "Please enter relieving date."
-msgstr ""
+msgstr "Por favor, insira a data de desligamento."
 
 #: apps/erpnext/erpnext/stock/doctype/serial_and_batch_bundle/serial_and_batch_bundle.js:132
 msgid "Please enter serial nos"
@@ -23832,43 +23852,44 @@ msgstr "Por favor, insira os números de série"
 
 #: apps/erpnext/erpnext/setup/doctype/company/company.js:214
 msgid "Please enter the company name to confirm"
-msgstr ""
+msgstr "Por favor, insira o nome da empresa para confirmar"
 
 #: apps/erpnext/erpnext/selling/doctype/sales_order/sales_order.js:713
 msgid "Please enter the first delivery date"
-msgstr ""
+msgstr "Por favor, insira a primeira data de entrega"
 
 #: apps/erpnext/erpnext/accounts/doctype/pos_invoice/pos_invoice.py:764
 msgid "Please enter the phone number first"
-msgstr ""
+msgstr "Por favor, insira o número do telefone primeiro"
 
 #: apps/erpnext/erpnext/controllers/buying_controller.py:1164
 msgid "Please enter the {schedule_date}."
-msgstr ""
+msgstr "Por favor, insira a {schedule_date}."
 
 #: apps/erpnext/erpnext/public/js/setup_wizard.js:97
 msgid "Please enter valid Financial Year Start and End Dates"
-msgstr ""
+msgstr "Por favor, insira datas de início e fim válidas para o Ano Fiscal"
 
 #: apps/erpnext/erpnext/setup/doctype/employee/employee.py:222
 msgid "Please enter {0}"
-msgstr ""
+msgstr "Por favor, insira {0}"
 
 #: apps/erpnext/erpnext/public/dist/js/erpnext.bundle.E5FP2ILV.js:2029
 msgid "Please enter {0} first"
-msgstr ""
+msgstr "Por favor, insira {0} primeiro"
 
 #: apps/erpnext/erpnext/manufacturing/doctype/production_plan/production_plan.py:430
 msgid "Please fill the Material Requests table"
-msgstr ""
+msgstr "Por favor, preencha a tabela de Solicitações de Material"
 
 #: apps/erpnext/erpnext/manufacturing/doctype/production_plan/production_plan.py:341
 msgid "Please fill the Sales Orders table"
-msgstr ""
+msgstr "Por favor, preencha a tabela de Pedidos de Venda"
 
 #: apps/erpnext/erpnext/stock/doctype/shipment/shipment.js:277
 msgid "Please first set Last Name, Email and Phone for the user"
 msgstr ""
+"Por favor, primeiro defina o Sobrenome, E-mail e Telefone para o usuário"
 
 #: apps/erpnext/erpnext/telephony/doctype/incoming_call_settings/incoming_call_settings.js:94
 msgid "Please fix overlapping time slots for {0}"
