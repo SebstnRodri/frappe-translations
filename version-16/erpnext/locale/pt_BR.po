@@ -22933,22 +22933,22 @@ msgstr "Atividades Pendentes"
 
 #: apps/erpnext/erpnext/accounts/report/delivered_items_to_be_billed/delivered_items_to_be_billed.py:65
 msgid "Pending Amount"
-msgstr ""
+msgstr "Valor Pendente"
 
 #: DocType: Production Plan Item:0
 msgid "Pending Qty"
-msgstr ""
+msgstr "Quantidade Pendente"
 
 #: apps/erpnext/erpnext/buying/report/subcontracted_item_to_be_received/subcontracted_item_to_be_received.py:55
 msgid "Pending Quantity"
-msgstr ""
+msgstr "Quantidade Pendente"
 
 #: DocType: Task:0
 msgid "Pending Review"
-msgstr ""
+msgstr "Análise Pendente"
 
 msgid "Pending SO Items For Purchase Request"
-msgstr ""
+msgstr "Itens de SO Pendentes para Solicitação de Compra"
 
 #: apps/erpnext/erpnext/manufacturing/dashboard_fixtures.py:123
 msgid "Pending Work Order"
@@ -22956,45 +22956,47 @@ msgstr "Ordens de Trabalho Pendentes"
 
 #: apps/erpnext/erpnext/setup/doctype/email_digest/email_digest.py:182
 msgid "Pending activities for today"
-msgstr ""
+msgstr "Atividades pendentes para hoje"
 
 #: apps/erpnext/erpnext/stock/doctype/repost_item_valuation/repost_item_valuation.py:245
 msgid "Pending processing"
-msgstr ""
+msgstr "Processamento pendente"
 
 #: DocType: Item Lead Time:0
 msgid "Per Day"
-msgstr ""
+msgstr "Por Dia"
 
 #: DocType: Item Lead Time:0
 msgid ""
 "Per Day\n"
 "Shift Time (In Hours) * No of Workstations * No of Shift"
 msgstr ""
+"Por Dia\n"
+"Tempo de Turno (Em Horas) * Nº de Postos de Trabalho * Nº de Turnos"
 
 #: DocType: Supplier Scorecard:0
 msgid "Per Month"
-msgstr ""
+msgstr "Por Mês"
 
 #: DocType: Purchase Invoice:0
 msgid "Per Received"
-msgstr ""
+msgstr "Por Recebimento"
 
 #: DocType: Stock Entry:0
 msgid "Per Transferred"
-msgstr ""
+msgstr "Por Transferência"
 
 #: DocType: Item Lead Time:0
 msgid "Per Unit Time in Mins"
-msgstr ""
+msgstr "Tempo por Unidade em Minutos"
 
 #: DocType: Supplier Scorecard:0
 msgid "Per Week"
-msgstr ""
+msgstr "Por Semana"
 
 #: DocType: Supplier Scorecard:0
 msgid "Per Year"
-msgstr ""
+msgstr "Por Ano"
 
 #: DocType: Budget Distribution:0
 msgid "Percent"
@@ -36513,7 +36515,7 @@ msgstr ""
 
 #: DocType: Purchase Invoice:0
 msgid "Update Billed Amount in Purchase Receipt"
-msgstr ""
+msgstr "Atualizar Valor Faturado no Recebimento de Mercadorias"
 
 #: DocType: POS Invoice:0
 msgid "Update Billed Amount in Sales Order"
