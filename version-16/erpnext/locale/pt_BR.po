@@ -23970,128 +23970,141 @@ msgstr "Por favor, salve primeiro"
 
 #: apps/erpnext/erpnext/selling/doctype/sales_order/sales_order.js:859
 msgid "Please save the Sales Order before adding a delivery schedule."
-msgstr ""
+msgstr "Salve o Pedido de Venda antes de adicionar um agendamento de entrega."
 
 #: apps/erpnext/erpnext/accounts/doctype/chart_of_accounts_importer/chart_of_accounts_importer.js:79
 msgid "Please select <b>Template Type</b> to download template"
-msgstr ""
+msgstr "Selecione o <b>Tipo de Modelo</b> para baixar o modelo"
 
 #: apps/erpnext/erpnext/public/dist/js/erpnext.bundle.E5FP2ILV.js:3782
 msgid "Please select Apply Discount On"
-msgstr ""
+msgstr "Selecione Aplicar Desconto Em"
 
 #: apps/erpnext/erpnext/selling/doctype/sales_order/sales_order.py:1871
 msgid "Please select BOM against item {0}"
-msgstr ""
+msgstr "Selecione a BOM para o item {0}"
 
 #: apps/erpnext/erpnext/manufacturing/doctype/production_plan/production_plan.py:187
 msgid "Please select BOM for Item in Row {0}"
-msgstr ""
+msgstr "Selecione a BOM para o Item na Linha {0}"
 
 #: apps/erpnext/erpnext/controllers/buying_controller.py:623
 msgid "Please select BOM in BOM field for Item {item_code}."
-msgstr ""
+msgstr "Selecione a BOM no campo BOM para o Item {item_code}."
 
 #: apps/erpnext/erpnext/accounts/doctype/bank_reconciliation_tool/bank_reconciliation_tool.js:68
 msgid "Please select Bank Account"
-msgstr ""
+msgstr "Selecione a Conta Bancária"
 
 #: apps/erpnext/erpnext/accounts/doctype/purchase_taxes_and_charges_template/purchase_taxes_and_charges_template.js:13
 msgid "Please select Category first"
-msgstr ""
+msgstr "Selecione a Categoria primeiro"
 
 #: apps/erpnext/erpnext/accounts/doctype/payment_entry/payment_entry.js:1485
 msgid "Please select Charge Type first"
-msgstr ""
+msgstr "Selecione o Tipo de Cobrança primeiro"
 
 #: apps/erpnext/erpnext/accounts/doctype/journal_entry/journal_entry.js:459
 msgid "Please select Company"
-msgstr ""
+msgstr "Selecione a Empresa"
 
 #: apps/erpnext/erpnext/accounts/doctype/exchange_rate_revaluation/exchange_rate_revaluation.js:139
 msgid "Please select Company and Posting Date to getting entries"
-msgstr ""
+msgstr "Selecione a Empresa e a Data de Postagem para obter as entradas"
 
 #: apps/erpnext/erpnext/accounts/doctype/journal_entry/journal_entry.js:701
 msgid "Please select Company first"
-msgstr ""
+msgstr "Selecione a Empresa primeiro"
 
 #: apps/erpnext/erpnext/assets/doctype/asset_maintenance_log/asset_maintenance_log.py:52
 msgid "Please select Completion Date for Completed Asset Maintenance Log"
 msgstr ""
+"Selecione a Data de Conclusão para o Log de Manutenção de Ativo Concluído"
 
 #: apps/erpnext/erpnext/maintenance/doctype/maintenance_visit/maintenance_visit.js:84
 msgid "Please select Customer first"
-msgstr ""
+msgstr "Selecione o Cliente primeiro"
 
 #: apps/erpnext/erpnext/setup/doctype/company/company.py:521
 msgid "Please select Existing Company for creating Chart of Accounts"
-msgstr ""
+msgstr "Selecione a Empresa Existente para criar o Plano de Contas"
 
 #: apps/erpnext/erpnext/subcontracting/doctype/subcontracting_inward_order/subcontracting_inward_order.py:206
 msgid "Please select Finished Good Item for Service Item {0}"
 msgstr ""
+"Por favor, selecione o item de produto acabado para o item de serviço {0}"
 
 #: apps/erpnext/erpnext/assets/doctype/asset/asset.js:619
 msgid "Please select Item Code first"
-msgstr ""
+msgstr "Por favor, selecione o código do item primeiro"
 
 #: apps/erpnext/erpnext/assets/doctype/asset_maintenance_log/asset_maintenance_log.py:55
 msgid ""
 "Please select Maintenance Status as Completed or remove Completion Date"
 msgstr ""
+"Por favor, selecione o status de manutenção como Concluído ou remova a data "
+"de conclusão"
 
 #: apps/erpnext/erpnext/accounts/report/payment_period_based_on_invoice_date/payment_period_based_on_invoice_date.js:52
 msgid "Please select Party Type first"
-msgstr ""
+msgstr "Por favor, selecione o tipo de parte primeiro"
 
 #: apps/erpnext/erpnext/accounts/doctype/journal_entry/journal_entry.py:250
 msgid "Please select Periodic Accounting Entry Difference Account"
 msgstr ""
+"Por favor, selecione a conta de diferença de lançamento contábil periódico"
 
 #: apps/erpnext/erpnext/accounts/doctype/payment_entry/payment_entry.js:498
 msgid "Please select Posting Date before selecting Party"
-msgstr ""
+msgstr "Por favor, selecione a data de lançamento antes de selecionar a parte"
 
 #: apps/erpnext/erpnext/accounts/doctype/journal_entry/journal_entry.js:702
 msgid "Please select Posting Date first"
-msgstr ""
+msgstr "Por favor, selecione a data de lançamento primeiro"
 
 #: apps/erpnext/erpnext/manufacturing/doctype/bom/bom.py:1165
 msgid "Please select Price List"
-msgstr ""
+msgstr "Por favor, selecione a lista de preços"
 
 #: apps/erpnext/erpnext/selling/doctype/sales_order/sales_order.py:1873
 msgid "Please select Qty against item {0}"
-msgstr ""
+msgstr "Por favor, selecione a quantidade para o item {0}"
 
 #: apps/erpnext/erpnext/stock/doctype/item/item.py:319
 msgid "Please select Sample Retention Warehouse in Stock Settings first"
 msgstr ""
+"Por favor, selecione o armazém de retenção de amostra nas configurações de "
+"estoque primeiro"
 
 #: apps/erpnext/erpnext/stock/doctype/stock_reservation_entry/stock_reservation_entry.py:451
 msgid ""
 "Please select Serial/Batch Nos to reserve or change Reservation Based On to "
 "Qty."
 msgstr ""
+"Por favor, selecione números de série/lote para reservar ou altere a reserva"
+" baseada em para quantidade."
 
 #: apps/erpnext/erpnext/maintenance/doctype/maintenance_schedule/maintenance_schedule.py:230
 msgid "Please select Start Date and End Date for Item {0}"
 msgstr ""
+"Por favor, selecione a data de início e a data de término para o item {0}"
 
 #: apps/erpnext/erpnext/accounts/doctype/journal_entry/journal_entry.py:269
 msgid "Please select Stock Asset Account"
-msgstr ""
+msgstr "Por favor, selecione a conta de ativo de estoque"
 
 #: apps/erpnext/erpnext/stock/doctype/stock_entry/stock_entry.py:1459
 msgid "Please select Subcontracting Order instead of Purchase Order {0}"
 msgstr ""
+"Por favor, selecione a ordem de subcontratação em vez da ordem de compra {0}"
 
 #: apps/erpnext/erpnext/controllers/accounts_controller.py:2734
 msgid ""
 "Please select Unrealized Profit / Loss account or add default Unrealized "
 "Profit / Loss account account for company {0}"
 msgstr ""
+"Por favor, selecione a conta de lucro/prejuízo não realizado ou adicione uma"
+" conta padrão de lucro/prejuízo não realizado para a empresa {0}"
 
 #: apps/erpnext/erpnext/manufacturing/doctype/bom/bom.py:1413
 msgid "Please select a BOM"
@@ -27963,7 +27976,7 @@ msgstr ""
 
 #: DocType: Purchase Receipt:0
 msgid "Return Against Purchase Receipt"
-msgstr ""
+msgstr "Devolução para Recebimento de Mercadorias"
 
 #: DocType: Subcontracting Receipt:0
 msgid "Return Against Subcontracting Receipt"
