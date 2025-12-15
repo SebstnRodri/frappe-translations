@@ -24466,500 +24466,532 @@ msgstr "Por favor, defina um id de e-mail para a Lead {0}"
 #: apps/erpnext/erpnext/regional/italy/utils.py:276
 msgid "Please set at least one row in the Taxes and Charges Table"
 msgstr ""
+"Por favor, defina pelo menos uma linha na Tabela de Impostos e Encargos"
 
 #: apps/erpnext/erpnext/regional/italy/utils.py:240
 msgid "Please set both the Tax ID and Fiscal Code on Company {0}"
 msgstr ""
+"Por favor, defina tanto o ID do Imposto e o Código Fiscal na Empresa {0}"
 
 #: apps/erpnext/erpnext/accounts/doctype/sales_invoice/sales_invoice.py:2390
 msgid "Please set default Cash or Bank account in Mode of Payment {0}"
 msgstr ""
+"Por favor, defina a conta Caixa ou Banco padrão no Modo de Pagamento {0}"
 
 #: apps/erpnext/erpnext/accounts/doctype/sales_invoice/sales_invoice.py:3046
 msgid "Please set default Cash or Bank account in Mode of Payment {}"
 msgstr ""
+"Por favor, defina a conta Caixa ou Banco padrão no Modo de Pagamento {}"
 
 #: apps/erpnext/erpnext/accounts/doctype/sales_invoice/sales_invoice.py:3048
 msgid "Please set default Cash or Bank account in Mode of Payments {}"
 msgstr ""
+"Por favor, defina a conta Caixa ou Banco padrão nos Modos de Pagamento {}"
 
 #: apps/erpnext/erpnext/accounts/utils.py:2385
 msgid "Please set default Exchange Gain/Loss Account in Company {}"
 msgstr ""
+"Por favor, defina a Conta de Ganho/Perda de Câmbio padrão na Empresa {}"
 
 #: apps/erpnext/erpnext/assets/doctype/asset_repair/asset_repair.py:386
 msgid "Please set default Expense Account in Company {0}"
-msgstr ""
+msgstr "Por favor, defina a Conta de Despesa padrão na Empresa {0}"
 
 #: apps/erpnext/erpnext/regional/doctype/import_supplier_invoice/import_supplier_invoice.py:40
 msgid "Please set default UOM in Stock Settings"
-msgstr ""
+msgstr "Por favor, defina a UOM padrão nas Configurações de Estoque"
 
 #: apps/erpnext/erpnext/controllers/stock_controller.py:730
 msgid ""
 "Please set default cost of goods sold account in company {0} for booking "
 "rounding gain and loss during stock transfer"
 msgstr ""
+"Por favor, defina a conta de custo de mercadorias vendidas padrão na empresa"
+" {0} para registrar ganho e perda de arredondamento durante a transferência "
+"de estoque"
 
 #: apps/erpnext/erpnext/controllers/stock_controller.py:189
 msgid ""
 "Please set default inventory account for item {0}, or their item group or "
 "brand."
 msgstr ""
+"Por favor, defina a conta de estoque padrão para o item {0}, ou seu grupo de"
+" itens ou marca."
 
 #: apps/erpnext/erpnext/accounts/utils.py:1123
 msgid "Please set default {0} in Company {1}"
-msgstr ""
+msgstr "Por favor, defina {0} padrão na Empresa {1}"
 
 #: apps/erpnext/erpnext/stock/report/warehouse_wise_item_balance_age_and_value/warehouse_wise_item_balance_age_and_value.py:114
 msgid "Please set filter based on Item or Warehouse"
-msgstr ""
+msgstr "Por favor, defina o filtro com base no Item ou Armazém"
 
 #: apps/erpnext/erpnext/stock/report/reserved_stock/reserved_stock.py:22
 msgid "Please set filters"
-msgstr ""
+msgstr "Por favor, defina os filtros"
 
 #: apps/erpnext/erpnext/controllers/accounts_controller.py:2300
 msgid "Please set one of the following:"
-msgstr ""
+msgstr "Por favor, defina uma das seguintes opções:"
 
 #: apps/erpnext/erpnext/assets/doctype/asset/asset.py:527
 msgid "Please set opening number of booked depreciations"
-msgstr ""
+msgstr "Por favor, defina o número de depreciações lançadas em aberto"
 
 #: apps/erpnext/erpnext/public/dist/js/erpnext.bundle.E5FP2ILV.js:6231
 msgid "Please set recurring after saving"
-msgstr ""
+msgstr "Por favor, defina a recorrência após salvar"
 
 #: apps/erpnext/erpnext/regional/italy/utils.py:270
 msgid "Please set the Customer Address"
-msgstr ""
+msgstr "Por favor, defina o Endereço do Cliente"
 
 #: apps/erpnext/erpnext/accounts/doctype/opening_invoice_creation_tool/opening_invoice_creation_tool.py:170
 msgid "Please set the Default Cost Center in {0} company."
-msgstr ""
+msgstr "Por favor, defina o Centro de Custo Padrão na empresa {0}."
 
 #: apps/erpnext/erpnext/manufacturing/doctype/work_order/work_order.js:624
 msgid "Please set the Item Code first"
-msgstr ""
+msgstr "Por favor, defina primeiro o Código do Item"
 
 #: apps/erpnext/erpnext/manufacturing/doctype/job_card/job_card.py:1480
 msgid "Please set the Target Warehouse in the Job Card"
-msgstr ""
+msgstr "Por favor, defina o Armazém de Destino no Cartão de Trabalho"
 
 #: apps/erpnext/erpnext/manufacturing/doctype/job_card/job_card.py:1484
 msgid "Please set the WIP Warehouse in the Job Card"
-msgstr ""
+msgstr "Por favor, defina o Armazém de WIP no Cartão de Trabalho"
 
 #: apps/erpnext/erpnext/accounts/doctype/gl_entry/gl_entry.py:182
 msgid ""
 "Please set the cost center field in {0} or setup a default Cost Center for "
 "the Company."
 msgstr ""
+"Por favor, defina o campo de centro de custo em {0} ou configure um Centro "
+"de Custo padrão para a Empresa."
 
 #: apps/erpnext/erpnext/crm/doctype/email_campaign/email_campaign.py:50
 msgid "Please set up the Campaign Schedule in the Campaign {0}"
-msgstr ""
+msgstr "Por favor, configure o Cronograma da Campanha na Campanha {0}"
 
 #: apps/erpnext/erpnext/stock/report/reserved_stock/reserved_stock.py:26
 msgid "Please set {0}"
-msgstr ""
+msgstr "Por favor, defina {0}"
 
 #: apps/erpnext/erpnext/public/dist/js/erpnext.bundle.E5FP2ILV.js:1485
 msgid "Please set {0} first."
-msgstr ""
+msgstr "Por favor, defina {0} primeiro."
 
 #: apps/erpnext/erpnext/stock/doctype/batch/batch.py:207
 msgid ""
 "Please set {0} for Batched Item {1}, which is used to set {2} on Submit."
 msgstr ""
+"Por favor, defina {0} para o Item por Lote {1}, que é usado para definir {2}"
+" ao Submeter."
 
 #: apps/erpnext/erpnext/regional/italy/utils.py:422
 msgid "Please set {0} for address {1}"
-msgstr ""
+msgstr "Por favor, defina {0} para o endereço {1}"
 
 #: apps/erpnext/erpnext/manufacturing/doctype/bom_creator/bom_creator.py:211
 msgid "Please set {0} in BOM Creator {1}"
-msgstr ""
+msgstr "Por favor, defina {0} no Criador de BOM {1}"
 
 #: apps/erpnext/erpnext/accounts/doctype/payment_entry/payment_entry.py:1210
 msgid "Please set {0} in Company {1} to account for Exchange Gain / Loss"
 msgstr ""
+"Por favor, defina {0} na Empresa {1} para contabilizar o Ganho/Perda de "
+"Câmbio"
 
 #: apps/erpnext/erpnext/controllers/accounts_controller.py:528
 msgid ""
 "Please set {0} to {1}, the same account that was used in the original "
 "invoice {2}."
 msgstr ""
+"Por favor, defina {0} para {1}, a mesma conta que foi usada na fatura "
+"original {2}."
 
 #: apps/erpnext/erpnext/erpnext_integrations/doctype/plaid_settings/plaid_settings.py:97
 msgid ""
 "Please setup and enable a group account with the Account Type - {0} for the "
 "company {1}"
 msgstr ""
+"Por favor, configure e habilite uma conta de grupo com o Tipo de Conta - {0}"
+" para a empresa {1}"
 
 #: apps/erpnext/erpnext/assets/doctype/asset/depreciation.py:350
 msgid ""
 "Please share this email with your support team so that they can find and fix"
 " the issue."
 msgstr ""
+"Por favor, compartilhe este e-mail com sua equipe de suporte para que eles "
+"possam encontrar e corrigir o problema."
 
 #: apps/erpnext/erpnext/public/dist/js/erpnext.bundle.E5FP2ILV.js:6104
 msgid "Please specify"
-msgstr ""
+msgstr "Por favor, especifique"
 
 #: apps/erpnext/erpnext/stock/get_item_details.py:329
 msgid "Please specify Company"
-msgstr ""
+msgstr "Por favor, especifique a Empresa"
 
 #: apps/erpnext/erpnext/accounts/doctype/pos_invoice/pos_invoice.js:120
 msgid "Please specify Company to proceed"
-msgstr ""
+msgstr "Por favor, especifique a Empresa para prosseguir"
 
 #: apps/erpnext/erpnext/accounts/doctype/payment_entry/payment_entry.js:1508
 msgid "Please specify a valid Row ID for row {0} in table {1}"
 msgstr ""
+"Por favor, especifique um ID de Linha válido para a linha {0} na tabela {1}"
 
 #: apps/erpnext/erpnext/public/dist/js/erpnext.bundle.E5FP2ILV.js:1583
 msgid "Please specify a {0} first."
-msgstr ""
+msgstr "Por favor, especifique um {0} primeiro."
 
 #: apps/erpnext/erpnext/controllers/item_variant.py:46
 msgid "Please specify at least one attribute in the Attributes table"
-msgstr ""
+msgstr "Por favor, especifique pelo menos um atributo na tabela de Atributos"
 
 #: apps/erpnext/erpnext/stock/doctype/stock_reconciliation/stock_reconciliation.py:615
 msgid "Please specify either Quantity or Valuation Rate or both"
-msgstr ""
+msgstr "Por favor, especifique Quantidade ou Taxa de Avaliação ou ambos"
 
 #: apps/erpnext/erpnext/stock/doctype/item_attribute/item_attribute.py:93
 msgid "Please specify from/to range"
-msgstr ""
+msgstr "Por favor, especifique o intervalo de/início e fim"
 
 #: apps/erpnext/erpnext/buying/doctype/request_for_quotation/request_for_quotation.js:41
 msgid "Please supply the specified items at the best possible rates"
-msgstr ""
+msgstr "Por favor, forneça os itens especificados às melhores taxas possíveis"
 
 #: apps/erpnext/erpnext/stock/doctype/repost_item_valuation/repost_item_valuation.py:244
 msgid "Please try again in an hour."
-msgstr ""
+msgstr "Por favor, tente novamente em uma hora."
 
 #: apps/erpnext/erpnext/manufacturing/report/material_requirements_planning_report/material_requirements_planning_report.js:139
 msgid "Please uncheck 'Show in Bucket View' to create Orders"
 msgstr ""
+"Por favor, desmarque 'Mostrar na Visualização do Bucket' para criar Pedidos"
 
 #: apps/erpnext/erpnext/assets/doctype/asset_repair/asset_repair.py:237
 msgid "Please update Repair Status."
-msgstr ""
+msgstr "Por favor, atualize o Status de Reparo."
 
 msgid "Point Of Sale"
-msgstr ""
+msgstr "Ponto de Venda"
 
 #: apps/erpnext/erpnext/selling/page/point_of_sale/point_of_sale.js:6
 msgid "Point of Sale"
-msgstr ""
+msgstr "Ponto de Venda"
 
 #: DocType: Vehicle:0
 msgid "Policy No"
-msgstr ""
+msgstr "Nº da Apólice"
 
 #: DocType: Asset:0
 msgid "Policy number"
-msgstr ""
+msgstr "Número da Apólice"
 
 #: DocType: Website Attribute:0
 msgid "Portal"
-msgstr ""
+msgstr "Portal"
 
 #: DocType: Portal User:0
 msgid "Portal User"
-msgstr ""
+msgstr "Usuário do Portal"
 
 #: DocType: Supplier:0
 msgid "Portal Users"
-msgstr ""
+msgstr "Usuários do Portal"
 
 #: DocType: Process Statement Of Accounts:0
 msgid "Portrait"
-msgstr ""
+msgstr "Retrato"
 
 #: apps/erpnext/erpnext/buying/doctype/request_for_quotation/request_for_quotation.js:393
 msgid "Possible Supplier"
-msgstr ""
+msgstr "Fornecedor Possível"
 
 #: DocType: Support Search Source:0
 msgid "Post Description Key"
-msgstr ""
+msgstr "Chave de Descrição da Postagem"
 
 #: DocType: Employee Education:0
 msgid "Post Graduate"
-msgstr ""
+msgstr "Pós-Graduação"
 
 #: DocType: Support Settings:0
 msgid "Post Route Key"
-msgstr ""
+msgstr "Chave de Rota da Postagem"
 
 #: DocType: Support Search Source:0
 msgid "Post Route Key List"
-msgstr ""
+msgstr "Lista de Chaves de Rota da Postagem"
 
 #: DocType: Support Search Source:0
 msgid "Post Route String"
-msgstr ""
+msgstr "String de Rota da Postagem"
 
 #: DocType: Support Search Source:0
 msgid "Post Title Key"
-msgstr ""
+msgstr "Chave de Título da Postagem"
 
 #: apps/erpnext/erpnext/crm/report/lead_details/lead_details.py:59
 msgid "Postal Code"
-msgstr ""
+msgstr "Código Postal"
 
 #: apps/erpnext/erpnext/accounts/doctype/account/chart_of_accounts/verified/standard_chart_of_accounts.py:122
 msgid "Postal Expenses"
-msgstr ""
+msgstr "Despesas Postais"
 
 #: DocType: Bank Clearance Detail:0
 msgid "Posting Date"
-msgstr ""
+msgstr "Data de Postagem"
 
 #: DocType: Accounts Settings:0
 msgid "Posting Date Inheritance for Exchange Gain / Loss"
-msgstr ""
+msgstr "Herança da Data de Postagem para Ganho/Perda de Câmbio"
 
 #: apps/erpnext/erpnext/subcontracting/doctype/subcontracting_receipt/subcontracting_receipt.py:136
 msgid "Posting Date cannot be future date"
-msgstr ""
+msgstr "Data de Postagem não pode ser uma data futura"
 
 #: apps/erpnext/erpnext/public/dist/js/erpnext.bundle.E5FP2ILV.js:4873
 msgid ""
 "Posting Date will change to today's date as Edit Posting Date and Time is "
 "unchecked. Are you sure want to proceed?"
 msgstr ""
+"A Data de Postagem será alterada para a data de hoje, pois a opção Editar "
+"Data e Hora de Postagem está desmarcada. Tem certeza de que deseja "
+"prosseguir?"
 
 #: DocType: Serial and Batch Bundle:0
 msgid "Posting Datetime"
-msgstr ""
+msgstr "Data e Hora de Postagem"
 
 #: DocType: Dunning:0
 msgid "Posting Time"
-msgstr ""
+msgstr "Hora de Postagem"
 
 #: apps/erpnext/erpnext/stock/doctype/stock_entry/stock_entry.py:2156
 msgid "Posting date and posting time is mandatory"
-msgstr ""
+msgstr "Data e hora de postagem são obrigatórios"
 
 #: apps/erpnext/erpnext/controllers/sales_and_purchase_return.py:66
 msgid "Posting timestamp must be after {0}"
-msgstr ""
+msgstr "O timestamp de postagem deve ser posterior a {0}"
 
 #: DocType: Opportunity:0
 msgid "Potential Sales Deal"
-msgstr ""
+msgstr "Oportunidade de Venda Potencial"
 
 #: apps/erpnext/erpnext/templates/includes/footer/footer_powered.html:1
 msgid "Powered by {0}"
-msgstr ""
+msgstr "Desenvolvido por {0}"
 
 #: apps/erpnext/erpnext/setup/doctype/company/company_dashboard.py:22
 msgid "Pre Sales"
-msgstr ""
+msgstr "Pré-Vendas"
 
 #: apps/erpnext/erpnext/setup/setup_wizard/operations/install_fixtures.py:307
 msgid "Preference"
-msgstr ""
+msgstr "Preferência"
 
 #: DocType: Employee:0
 msgid "Preferred Contact Email"
-msgstr ""
+msgstr "E-mail de Contato Preferencial"
 
 #: DocType: Employee:0
 msgid "Preferred Email"
-msgstr ""
+msgstr "E-mail Preferencial"
 
 #: apps/erpnext/erpnext/accounts/doctype/account/chart_of_accounts/verified/standard_chart_of_accounts.py:34
 msgid "Prepaid Expenses"
-msgstr ""
+msgstr "Despesas Antecipadas"
 
 #: DocType: Packed Item:0
 msgid "Prevdoc DocType"
-msgstr ""
+msgstr "Tipo de Documento do Documento Anterior"
 
 #: DocType: Supplier:0
 msgid "Prevent POs"
-msgstr ""
+msgstr "Impedir Ordens de Compra"
 
 #: DocType: Supplier Scorecard Scoring Standing:0
 msgid "Prevent Purchase Orders"
-msgstr ""
+msgstr "Impedir Ordens de Compra"
 
 #: DocType: Supplier:0
 msgid "Prevent RFQs"
-msgstr ""
+msgstr "Impedir Solicitações de Cotação"
 
 #: DocType: Quality Action:0
 msgid "Preventive"
-msgstr ""
+msgstr "Preventiva"
 
 #: DocType: Non Conformance:0
 msgid "Preventive Action"
-msgstr ""
+msgstr "Ação Preventiva"
 
 #: DocType: Asset Maintenance Task:0
 msgid "Preventive Maintenance"
-msgstr ""
+msgstr "Manutenção Preventiva"
 
 #: DocType: Bank Statement Import:0
 msgid "Preview"
-msgstr ""
+msgstr "Visualizar"
 
 #: DocType: Request for Quotation:0
 msgid "Preview Email"
-msgstr ""
+msgstr "Visualizar Email"
 
 #: DocType: Production Plan:0
 msgid "Preview Required Materials"
-msgstr ""
+msgstr "Visualizar Materiais Necessários"
 
 #: apps/erpnext/erpnext/accounts/report/balance_sheet/balance_sheet.py:181
 msgid "Previous Financial Year is not closed"
-msgstr ""
+msgstr "O exercício financeiro anterior não está fechado"
 
 #: DocType: Employee:0
 msgid "Previous Work Experience"
-msgstr ""
+msgstr "Experiência Profissional Anterior"
 
 #: apps/erpnext/erpnext/accounts/doctype/period_closing_voucher/period_closing_voucher.py:100
 msgid "Previous Year is not closed, please close it first"
-msgstr ""
+msgstr "O ano anterior não está fechado, por favor, feche-o primeiro"
 
 #: DocType: Pricing Rule:0
 msgid "Price"
-msgstr ""
+msgstr "Preço"
 
 #: apps/erpnext/erpnext/buying/report/supplier_quotation_comparison/supplier_quotation_comparison.py:244
 msgid "Price ({0})"
-msgstr ""
+msgstr "Preço ({0})"
 
 #: DocType: Pricing Rule:0
 msgid "Price Discount Scheme"
-msgstr ""
+msgstr "Esquema de Desconto de Preço"
 
 #: DocType: Promotional Scheme:0
 msgid "Price Discount Slabs"
-msgstr ""
+msgstr "Faixas de Desconto de Preço"
 
 #: DocType: POS Invoice:0
 msgid "Price List"
-msgstr ""
+msgstr "Lista de Preços"
 
 #: DocType: Price List Country:0
 msgid "Price List Country"
-msgstr ""
+msgstr "País da Lista de Preços"
 
 #: DocType: POS Invoice:0
 msgid "Price List Currency"
-msgstr ""
+msgstr "Moeda da Lista de Preços"
 
 #: apps/erpnext/erpnext/stock/get_item_details.py:1274
 msgid "Price List Currency not selected"
-msgstr ""
+msgstr "Moeda da Lista de Preços não selecionada"
 
 #: DocType: Stock Settings:0
 msgid "Price List Defaults"
-msgstr ""
+msgstr "Padrões da Lista de Preços"
 
 #: DocType: POS Invoice:0
 msgid "Price List Exchange Rate"
-msgstr ""
+msgstr "Taxa de Câmbio da Lista de Preços"
 
 #: DocType: Price List:0
 msgid "Price List Name"
-msgstr ""
+msgstr "Nome da Lista de Preços"
 
 #: DocType: POS Invoice Item:0
 msgid "Price List Rate"
-msgstr ""
+msgstr "Taxa da Lista de Preços"
 
 #: DocType: POS Invoice Item:0
 msgid "Price List Rate (Company Currency)"
-msgstr ""
+msgstr "Taxa da Lista de Preços (Moeda da Empresa)"
 
 #: apps/erpnext/erpnext/stock/doctype/price_list/price_list.py:33
 msgid "Price List must be applicable for Buying or Selling"
-msgstr ""
+msgstr "A Lista de Preços deve ser aplicável para Compras ou Vendas"
 
 #: apps/erpnext/erpnext/stock/doctype/price_list/price_list.py:84
 msgid "Price List {0} is disabled or does not exist"
-msgstr ""
+msgstr "Lista de Preços {0} está desabilitada ou não existe"
 
 #: DocType: Price List:0
 msgid "Price Not UOM Dependent"
-msgstr ""
+msgstr "Preço Não Dependente da UOM"
 
 #: apps/erpnext/erpnext/buying/report/supplier_quotation_comparison/supplier_quotation_comparison.py:251
 msgid "Price Per Unit ({0})"
-msgstr ""
+msgstr "Preço por Unidade ({0})"
 
 #: apps/erpnext/erpnext/selling/page/point_of_sale/pos_controller.js:720
 msgid "Price is not set for the item."
-msgstr ""
+msgstr "O preço não está definido para o item."
 
 #: apps/erpnext/erpnext/manufacturing/doctype/bom/bom.py:503
 msgid "Price not found for item {0} in price list {1}"
-msgstr ""
+msgstr "Preço não encontrado para o item {0} na lista de preços {1}"
 
 #: DocType: Pricing Rule:0
 msgid "Price or Product Discount"
-msgstr ""
+msgstr "Desconto de Preço ou Produto"
 
 #: apps/erpnext/erpnext/accounts/doctype/promotional_scheme/promotional_scheme.py:149
 msgid "Price or product discount slabs are required"
-msgstr ""
+msgstr "São necessários níveis de desconto de preço ou produto"
 
 #: apps/erpnext/erpnext/buying/report/supplier_quotation_comparison/supplier_quotation_comparison.py:237
 msgid "Price per Unit (Stock UOM)"
-msgstr ""
+msgstr "Preço por Unidade (UOM de estoque)"
 
 #: apps/erpnext/erpnext/selling/doctype/customer/customer_dashboard.py:27
 msgid "Pricing"
-msgstr ""
+msgstr "Precificação"
 
 #: DocType: Coupon Code:0
 msgid "Pricing Rule"
-msgstr ""
+msgstr "Regra de Precificação"
 
 #: DocType: Pricing Rule Brand:0
 msgid "Pricing Rule Brand"
-msgstr ""
+msgstr "Marca da Regra de Precificação"
 
 #: DocType: POS Invoice:0
 msgid "Pricing Rule Detail"
-msgstr ""
+msgstr "Detalhe da Regra de Precificação"
 
 #: DocType: Pricing Rule:0
 msgid "Pricing Rule Help"
-msgstr ""
+msgstr "Ajuda da Regra de Precificação"
 
 #: DocType: Pricing Rule Item Code:0
 msgid "Pricing Rule Item Code"
-msgstr ""
+msgstr "Código do Item da Regra de Precificação"
 
 #: DocType: Pricing Rule Item Group:0
 msgid "Pricing Rule Item Group"
-msgstr ""
+msgstr "Grupo de Itens da Regra de Precificação"
 
 #: apps/erpnext/erpnext/accounts/doctype/pricing_rule/pricing_rule.js:71
 msgid ""
 "Pricing Rule is first selected based on 'Apply On' field, which can be Item,"
 " Item Group or Brand."
 msgstr ""
+"A Regra de Precificação é selecionada primeiro com base no campo 'Aplicar "
+"Em', que pode ser Item, Grupo de Itens ou Marca."
 
 #: apps/erpnext/erpnext/accounts/doctype/pricing_rule/pricing_rule.js:48
 msgid ""
 "Pricing Rule is made to overwrite Price List / define discount percentage, "
 "based on some criteria."
 msgstr ""
+"A Regra de Precificação é criada para substituir a Lista de Preços / definir"
+" o percentual de desconto, com base em alguns critérios."
 
 #: apps/erpnext/erpnext/accounts/doctype/promotional_scheme/promotional_scheme.py:251
 msgid "Pricing Rule {0} is updated"
@@ -25798,6 +25830,8 @@ msgid ""
 "Purchase Receipt (Draft) will be auto-created on submission of "
 "Subcontracting Receipt."
 msgstr ""
+"O Recebimento de Mercadorias (Rascunho) será criado automaticamente na "
+"submissão do Recebimento de Subcontratação."
 
 #: DocType: Purchase Invoice Item:0
 msgid "Purchase Receipt Detail"
