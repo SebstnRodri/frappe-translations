@@ -6891,7 +6891,8 @@ msgstr "Cobranças Incorridas"
 
 #: apps/erpnext/erpnext/stock/doctype/landed_cost_voucher/landed_cost_voucher.js:24
 msgid "Charges are updated in Purchase Receipt against each item"
-msgstr "Cobranças são atualizadas no Recibo de Compra contra cada item"
+msgstr ""
+"As cobranças são atualizadas no Recebimento de Mercadorias para cada item"
 
 #: apps/erpnext/erpnext/stock/doctype/landed_cost_voucher/landed_cost_voucher.js:18
 msgid ""
@@ -23442,11 +23443,11 @@ msgstr "Por favor, Selecione uma Empresa."
 
 #: apps/erpnext/erpnext/stock/doctype/delivery_note/delivery_note.js:165
 msgid "Please Select a Customer"
-msgstr "Por favor, Selecione um Cliente"
+msgstr "Por favor, selecione um Cliente"
 
 #: apps/erpnext/erpnext/stock/doctype/purchase_receipt/purchase_receipt.js:139
 msgid "Please Select a Supplier"
-msgstr "Por favor, Selecione um Fornecedor"
+msgstr "Por favor, selecione um Fornecedor"
 
 #: apps/erpnext/erpnext/accounts/doctype/pricing_rule/pricing_rule.py:161
 msgid "Please Set Priority"
@@ -24108,7 +24109,7 @@ msgstr ""
 
 #: apps/erpnext/erpnext/manufacturing/doctype/bom/bom.py:1413
 msgid "Please select a BOM"
-msgstr ""
+msgstr "Por favor, selecione uma BOM"
 
 #: apps/erpnext/erpnext/stock/doctype/pick_list/pick_list.py:1588
 msgid "Please select a Company"
@@ -24116,59 +24117,60 @@ msgstr "Por favor, Selecione uma Empresa"
 
 #: apps/erpnext/erpnext/accounts/doctype/payment_entry/payment_entry.js:267
 msgid "Please select a Company first."
-msgstr ""
+msgstr "Por favor, selecione uma Empresa primeiro."
 
 #: apps/erpnext/erpnext/selling/report/customer_wise_item_price/customer_wise_item_price.py:18
 msgid "Please select a Customer"
-msgstr ""
+msgstr "Por favor, selecione um Cliente"
 
 #: apps/erpnext/erpnext/stock/doctype/packing_slip/packing_slip.js:16
 msgid "Please select a Delivery Note"
-msgstr ""
+msgstr "Por favor, selecione uma Nota de Entrega"
 
 #: apps/erpnext/erpnext/subcontracting/doctype/subcontracting_order/subcontracting_order.py:163
 msgid "Please select a Subcontracting Purchase Order."
-msgstr ""
+msgstr "Por favor, selecione um Pedido de Compra de Subcontratação."
 
 #: apps/erpnext/erpnext/buying/doctype/supplier_quotation/supplier_quotation.js:76
 msgid "Please select a Supplier"
-msgstr ""
+msgstr "Por favor, selecione um Fornecedor"
 
 #: apps/erpnext/erpnext/public/dist/js/erpnext.bundle.E5FP2ILV.js:2722
 msgid "Please select a Warehouse"
-msgstr ""
+msgstr "Por favor, selecione um Armazém"
 
 #: apps/erpnext/erpnext/manufacturing/doctype/job_card/job_card.py:1417
 msgid "Please select a Work Order first."
-msgstr ""
+msgstr "Por favor, selecione uma Ordem de Produção primeiro."
 
 #: apps/erpnext/erpnext/setup/doctype/holiday_list/holiday_list.py:89
 msgid "Please select a country"
-msgstr ""
+msgstr "Por favor, selecione um país"
 
 #: apps/erpnext/erpnext/accounts/report/sales_register/sales_register.py:36
 msgid "Please select a customer for fetching payments."
-msgstr ""
+msgstr "Por favor, selecione um cliente para buscar pagamentos."
 
 #: apps/erpnext/erpnext/www/book_appointment/index.js:67
 msgid "Please select a date"
-msgstr ""
+msgstr "Por favor, selecione uma data"
 
 #: apps/erpnext/erpnext/www/book_appointment/index.js:52
 msgid "Please select a date and time"
-msgstr ""
+msgstr "Por favor, selecione uma data e hora"
 
 #: apps/erpnext/erpnext/accounts/doctype/pos_profile/pos_profile.py:179
 msgid "Please select a default mode of payment"
-msgstr ""
+msgstr "Por favor, selecione um modo de pagamento padrão"
 
 #: apps/erpnext/erpnext/selling/page/point_of_sale/pos_item_cart.js:816
 msgid "Please select a field to edit from numpad"
 msgstr ""
+"Por favor, selecione um campo para editar a partir do teclado numérico"
 
 #: apps/erpnext/erpnext/selling/doctype/sales_order/sales_order.js:709
 msgid "Please select a frequency for delivery schedule"
-msgstr ""
+msgstr "Por favor, selecione uma frequência para o cronograma de entrega"
 
 #: apps/erpnext/erpnext/manufacturing/report/material_requirements_planning_report/material_requirements_planning_report.js:135
 msgid "Please select a row to create a Reposting Entry"
