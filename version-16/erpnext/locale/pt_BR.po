@@ -9463,7 +9463,7 @@ msgstr "Datas para Processar"
 
 #: DocType: Subscription Plan:0
 msgid "Day"
-msgstr "Dia"
+msgstr "dia"
 
 #: DocType: Appointment Booking Slots:0
 msgid "Day Of Week"
@@ -10970,7 +10970,7 @@ msgstr "Campo do Documento"
 
 #: DocType: Transaction Deletion Record Details:0
 msgid "DocType"
-msgstr "DocType"
+msgstr "Doctype"
 
 #: apps/erpnext/erpnext/setup/doctype/transaction_deletion_record/transaction_deletion_record.py:78
 msgid ""
@@ -10994,7 +10994,7 @@ msgstr "Nome do Documento"
 
 #: DocType: Bank Statement Import:0
 msgid "Document Type"
-msgstr "Tipo de Documento "
+msgstr "Tipo de documento "
 
 #: DocType: Subscription Invoice:0
 msgid "Document Type "
@@ -25512,7 +25512,7 @@ msgstr "Projetado"
 
 #: DocType: Material Request Plan Item:0
 msgid "Projected Qty"
-msgstr "Qtde. Projetada"
+msgstr "Quantidade projetada"
 
 #: apps/erpnext/erpnext/stock/report/item_shortage_report/item_shortage_report.py:130
 msgid "Projected Quantity"
@@ -25960,7 +25960,7 @@ msgstr "A regra de armazenamento já existe para o item {0} no armazém {1}."
 
 #: DocType: Pricing Rule:0
 msgid "Qty"
-msgstr "Qtde"
+msgstr "Quantidade "
 
 #: apps/erpnext/erpnext/templates/pages/order.html:178
 msgid "Qty "
@@ -26000,7 +26000,7 @@ msgstr "Qtde por unidade"
 
 #: apps/erpnext/erpnext/manufacturing/doctype/bom/bom.js:330
 msgid "Qty To Manufacture"
-msgstr "Qtde a fabricar"
+msgstr "Qtde para Fabricar"
 
 #: apps/erpnext/erpnext/manufacturing/doctype/work_order/work_order.py:1391
 msgid ""
@@ -26012,7 +26012,7 @@ msgstr ""
 
 #: DocType: Batch:0
 msgid "Qty To Produce"
-msgstr "Qtde a produzir"
+msgstr "Qtde para Produzir"
 
 #: apps/erpnext/erpnext/manufacturing/report/quality_inspection_summary/quality_inspection_summary.py:56
 msgid "Qty Wise Chart"
@@ -26024,7 +26024,7 @@ msgstr "Qtde e Taxa"
 
 #: DocType: Purchase Receipt Item:0
 msgid "Qty as Per Stock UOM"
-msgstr "Qtde de acordo com a unidade de estoque"
+msgstr "Qtde por UOM de Estoque"
 
 #: DocType: POS Invoice Item:0
 msgid "Qty as per Stock UOM"
@@ -27066,7 +27066,7 @@ msgstr "Número de Detalhe de Referência"
 
 #: apps/erpnext/erpnext/accounts/doctype/payment_entry/payment_entry.js:1707
 msgid "Reference DocType"
-msgstr "Tipo de Documento de Referência"
+msgstr "Doctype de Referência"
 
 #: DocType: Payment Request:0
 msgid "Reference Doctype"
@@ -28151,7 +28151,7 @@ msgstr "Valor Devolvido"
 
 #: DocType: Purchase Order Item:0
 msgid "Returned Qty"
-msgstr "Qtde. Devolvida"
+msgstr "Qtde Devolvida "
 
 #: DocType: Work Order Item:0
 msgid "Returned Qty "
@@ -28219,7 +28219,7 @@ msgstr "Revisão cancelada"
 
 #: DocType: Account:0
 msgid "Rgt"
-msgstr "Rgt"
+msgstr "rgt"
 
 #: DocType: Bisect Nodes:0
 msgid "Right Child"
@@ -31901,7 +31901,7 @@ msgstr "Acionista"
 
 #: DocType: Item:0
 msgid "Shelf Life In Days"
-msgstr "Vida útil em dias"
+msgstr "Vida Útil em Dias"
 
 #: apps/erpnext/erpnext/stock/doctype/batch/batch.py:208
 msgid "Shelf Life in Days"
@@ -33072,7 +33072,7 @@ msgstr "Entradas de Reserva de Estoque Canceladas"
 
 #: apps/erpnext/erpnext/stock/doctype/stock_reservation_entry/stock_reservation_entry.py:1773
 msgid "Stock Reservation Entries Created"
-msgstr "Entradas de Reserva de Estoque Criadas"
+msgstr "Entradas de Reserva de Estoque criadas"
 
 #: apps/erpnext/erpnext/subcontracting/doctype/subcontracting_order/subcontracting_order.py:445
 msgid "Stock Reservation Entries created"
@@ -35800,7 +35800,7 @@ msgstr "Tempo Entre Operações (Minutos)"
 
 #: DocType: Job Card Time Log:0
 msgid "Time In Mins"
-msgstr "Tempo Em Minutos"
+msgstr "Tempo em minutos"
 
 #: DocType: Job Card:0
 msgid "Time Logs"
@@ -37421,7 +37421,7 @@ msgstr "Para cima"
 
 #: DocType: Email Digest:0
 msgid "Upcoming Calendar Events"
-msgstr "Eventos de Calendário próximos"
+msgstr "Próximos Eventos de Calendário "
 
 #: apps/erpnext/erpnext/setup/doctype/email_digest/templates/default.html:97
 msgid "Upcoming Calendar Events "
