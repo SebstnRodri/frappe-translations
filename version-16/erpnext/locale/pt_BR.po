@@ -25318,7 +25318,7 @@ msgstr "ID de Preço de Produto"
 
 #: DocType: Workstation:0
 msgid "Production"
-msgstr "Produção"
+msgstr "produção"
 
 msgid "Production Analytics"
 msgstr "Análise de Produção"
@@ -26845,7 +26845,7 @@ msgstr "O Valor Recebido não pode ser maior que o Valor Pago"
 
 #: apps/erpnext/erpnext/accounts/print_format/payment_receipt_voucher/payment_receipt_voucher.html:9
 msgid "Received From"
-msgstr "Recebido De"
+msgstr "recebido de"
 
 msgid "Received Items To Be Billed"
 msgstr "Itens Recebidos Para Faturamento"
@@ -27857,7 +27857,7 @@ msgstr "Reservado para Plano de Produção"
 
 #: apps/erpnext/erpnext/stock/report/stock_projected_qty/stock_projected_qty.py:190
 msgid "Reserved for Sub Contracting"
-msgstr "Reservado para Subcontratação"
+msgstr "Reservado para subcontratação"
 
 #: apps/erpnext/erpnext/stock/page/stock_balance/stock_balance.js:53
 msgid "Reserved for manufacturing"
@@ -28139,7 +28139,7 @@ msgstr "Retorno sobre o Patrimônio Líquido"
 
 #: DocType: Shipment:0
 msgid "Returned"
-msgstr "Devolvido"
+msgstr "devolvido"
 
 #: DocType: Serial and Batch Bundle:0
 msgid "Returned Against"
@@ -30263,7 +30263,7 @@ msgstr "Pedidos de Venda para Entregar"
 
 #: DocType: POS Invoice:0
 msgid "Sales Partner"
-msgstr "Parceiro de Vendas"
+msgstr "Parceiro de Vendas "
 
 #: DocType: Sales Partner Item:0
 msgid "Sales Partner "
@@ -30897,7 +30897,7 @@ msgstr ""
 
 #: apps/erpnext/erpnext/public/js/communication.js:80
 msgid "Select a Company"
-msgstr "Selecione uma Empresa"
+msgstr "Selecione uma empresa"
 
 #: apps/erpnext/erpnext/setup/doctype/employee/employee.js:109
 msgid "Select a Company this Employee belongs to."
@@ -32437,7 +32437,7 @@ msgstr "Software"
 
 #: DocType: Asset:0
 msgid "Sold"
-msgstr "Vendido"
+msgstr "vendido"
 
 #: apps/erpnext/erpnext/selling/page/point_of_sale/pos_past_order_summary.js:89
 msgid "Sold by"
@@ -35907,7 +35907,7 @@ msgstr "Título"
 
 #: DocType: Payment Request:0
 msgid "To"
-msgstr "Para"
+msgstr "para"
 
 #: DocType: Purchase Order:0
 msgid "To Bill"
@@ -38147,7 +38147,7 @@ msgstr "Variáveis"
 
 #: apps/erpnext/erpnext/accounts/report/budget_variance_report/budget_variance_report.py:101
 msgid "Variance"
-msgstr "Variação"
+msgstr "variação"
 
 #: apps/erpnext/erpnext/selling/report/sales_partner_target_variance_based_on_item_group/item_group_wise_sales_target_variance.py:118
 msgid "Variance ({})"
@@ -38876,7 +38876,7 @@ msgstr "Trabalho Realizado"
 
 #: DocType: Asset:0
 msgid "Work In Progress"
-msgstr "Em Andamento"
+msgstr "Trabalho em Andamento"
 
 #: DocType: BOM:0
 msgid "Work Order"
