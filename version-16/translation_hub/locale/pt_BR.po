@@ -104,7 +104,7 @@ msgstr "Teste de Conexão"
 
 #: DocType: Translator Settings:0
 msgid "Daily"
-msgstr "Diariamente"
+msgstr "Diário"
 
 #: DocType: Translator Settings:0
 msgid "Default Languages"
@@ -699,7 +699,7 @@ msgstr "Detalhes"
 
 #: DocType: Context Rule:0
 msgid "Document Type"
-msgstr "Tipo de documento "
+msgstr "Tipo de Documento "
 
 #: DocType: Translation Domain:0
 msgid "Domain Name"
