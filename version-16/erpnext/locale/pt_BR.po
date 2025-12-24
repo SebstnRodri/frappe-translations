@@ -24326,7 +24326,7 @@ msgstr ""
 
 #: apps/erpnext/erpnext/templates/pages/order.html:178
 msgid "Qty "
-msgstr "Qtde."
+msgstr "Qtd"
 
 #: DocType: Sales Invoice Item:0
 msgid "Qty (Company)"
