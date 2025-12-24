@@ -30472,7 +30472,7 @@ msgstr "Constante de Suavização"
 
 #: apps/erpnext/erpnext/accounts/doctype/account/chart_of_accounts/verified/standard_chart_of_accounts.py:62
 msgid "Software"
-msgstr ""
+msgstr "Software"
 
 #: DocType: Asset:0
 msgid "Sold"
