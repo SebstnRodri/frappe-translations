@@ -36198,6 +36198,8 @@ msgid ""
 "Warehouse Capacity for Item '{0}' must be greater than the existing stock "
 "level of {1} {2}."
 msgstr ""
+"A capacidade do armazém para o item '{0}' deve ser maior que o nível de "
+"estoque existente de {1} {2}."
 
 #: DocType: Warehouse:0
 msgid "Warehouse Contact Info"
