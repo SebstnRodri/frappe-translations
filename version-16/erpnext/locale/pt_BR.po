@@ -34595,7 +34595,7 @@ msgstr ""
 
 #: apps/erpnext/erpnext/accounts/report/consolidated_financial_statement/consolidated_financial_statement.py:746
 msgid "Total {0} ({1})"
-msgstr ""
+msgstr "Total {0} ({1})"
 
 #: apps/erpnext/erpnext/stock/doctype/landed_cost_voucher/landed_cost_voucher.py:199
 msgid ""
