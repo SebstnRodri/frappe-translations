@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-12-21 09:37+0000\n"
-"PO-Revision-Date: 2025-12-24 08:58\n"
+"PO-Revision-Date: 2025-12-24 09:24\n"
 "Last-Translator: Translation Hub <ai@translationhub.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -36130,7 +36130,7 @@ msgstr "Configurações de Chamada de Voz"
 
 #: apps/erpnext/erpnext/accounts/report/purchase_register/purchase_register.py:163
 msgid "Voucher"
-msgstr ""
+msgstr "Comprovante"
 
 #: apps/erpnext/erpnext/stock/report/available_serial_no/available_serial_no.py:196
 msgid "Voucher #"
@@ -39440,47 +39440,47 @@ msgstr "MAT-MVS-.AAAA.-"
 
 #: DocType: Packing Slip:0
 msgid "MAT-PAC-.YYYY.-"
-msgstr ""
+msgstr "MAT-PAC-.AAAA.-"
 
 #: DocType: Purchase Receipt:0
 msgid "MAT-PR-RET-.YYYY.-"
-msgstr ""
+msgstr "MAT-PR-RET-.AAAA.-"
 
 #: DocType: Purchase Receipt:0
 msgid "MAT-PRE-.YYYY.-"
-msgstr ""
+msgstr "MAT-PRE-.AAAA.-"
 
 #: DocType: Quality Inspection:0
 msgid "MAT-QA-.YYYY.-"
-msgstr ""
+msgstr "MAT-CA-.AAAA.-"
 
 #: DocType: Stock Reconciliation:0
 msgid "MAT-RECO-.YYYY.-"
-msgstr ""
+msgstr "MAT-RECO-.AAAA.-"
 
 #: DocType: Subcontracting Receipt:0
 msgid "MAT-SCR-.YYYY.-"
-msgstr ""
+msgstr "MAT-SCR-.AAAA.-"
 
 #: DocType: Subcontracting Receipt:0
 msgid "MAT-SCR-RET-.YYYY.-"
-msgstr ""
+msgstr "MAT-SCR-RET-.AAAA.-"
 
 #: DocType: Stock Entry:0
 msgid "MAT-STE-.YYYY.-"
-msgstr ""
+msgstr "MAT-STE-.AAAA.-"
 
 #: DocType: Blanket Order:0
 msgid "MFG-BLR-.YYYY.-"
-msgstr ""
+msgstr "MFG-BLR-.AAAA.-"
 
 #: DocType: Production Plan:0
 msgid "MFG-PP-.YYYY.-"
-msgstr ""
+msgstr "MFG-PP-.AAAA.-"
 
 #: DocType: Work Order:0
 msgid "MFG-WO-.YYYY.-"
-msgstr ""
+msgstr "MFG-OP-.AAAA.-"
 
 #: DocType: Master Production Schedule:0
 msgid "MPS.YY.-.######"
@@ -39756,15 +39756,15 @@ msgstr ""
 
 #: DocType: Purchase Order:0
 msgid "PUR-ORD-.YYYY.-"
-msgstr ""
+msgstr "PEDIDO DE COMPRA-.YYYY.-"
 
 #: DocType: Request for Quotation:0
 msgid "PUR-RFQ-.YYYY.-"
-msgstr ""
+msgstr "COTACAO DE COMPRA-.YYYY.-"
 
 #: DocType: Supplier Quotation:0
 msgid "PUR-SQTN-.YYYY.-"
-msgstr ""
+msgstr "ORÇAMENTO DE COMPRA-.YYYY.-"
 
 #: DocType: POS Invoice Item:0
 msgid "Page Break"
@@ -40164,15 +40164,15 @@ msgstr ""
 
 #: DocType: Campaign:0
 msgid "SAL-CAM-.YYYY.-"
-msgstr ""
+msgstr "CAMINHO DE VENDA-.YYYY.-"
 
 #: DocType: Sales Order:0
 msgid "SAL-ORD-.YYYY.-"
-msgstr ""
+msgstr "PEDIDO DE VENDA-.YYYY.-"
 
 #: DocType: Quotation:0
 msgid "SAL-QTN-.YYYY.-"
-msgstr ""
+msgstr "ORÇAMENTO DE VENDA-.YYYY.-"
 
 #: DocType: Subcontracting Order:0
 msgid "SC-ORD-.YYYY.-"
