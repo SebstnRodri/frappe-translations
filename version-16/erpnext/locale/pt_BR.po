@@ -11247,7 +11247,7 @@ msgstr "Insira o Fornecedor"
 
 #: env/lib/python3.14/site-packages/erpnext/manufacturing/doctype/job_card/job_card.js:402
 msgid "Enter Value"
-msgstr "Insira o Valor"
+msgstr "Digite o Valor"
 
 #: env/lib/python3.14/site-packages/erpnext/maintenance/doctype/maintenance_schedule/maintenance_schedule.js:96
 msgid "Enter Visit Details"
@@ -13630,7 +13630,7 @@ msgstr "Taxa por Hora"
 
 #: DocType: Workstation Working Hour:0
 msgid "Hours"
-msgstr "horas"
+msgstr "Horas"
 
 #: env/lib/python3.14/site-packages/erpnext/templates/pages/projects.html:26
 msgid "Hours Spent"
@@ -37242,7 +37242,7 @@ msgstr "horas"
 
 #: DocType: Batch:0
 msgid "image"
-msgstr "imagem"
+msgstr "Imagem"
 
 #: DocType: Cost Center:0
 msgid "lft"
@@ -38294,11 +38294,11 @@ msgstr "Administrador"
 
 #: DocType: Pricing Rule:0
 msgid "Advanced Settings"
-msgstr "Configurações Avançadas"
+msgstr "Configurações avançadas"
 
 #: DocType: Payment Terms Template:0
 msgid "All"
-msgstr "Todos"
+msgstr "Tudo"
 
 #: env/lib/python3.14/site-packages/erpnext/setup/doctype/email_digest/templates/default.html:113
 msgid "All Day"
@@ -38394,7 +38394,7 @@ msgstr "Quantidade do Lote atualizada com sucesso"
 
 #: DocType: Supplier Scorecard Scoring Standing:0
 msgid "Blue"
-msgstr "Azul"
+msgstr "azul"
 
 #: DocType: Purchase Order:0
 msgid "Boleto"
@@ -38418,7 +38418,7 @@ msgstr "CBAL-.#####"
 
 #: DocType: Process Statement Of Accounts CC:0
 msgid "CC"
-msgstr "CC"
+msgstr "Cc"
 
 #: DocType: Lead:0
 msgid "CRM-LEAD-.YYYY.-"
@@ -38514,7 +38514,7 @@ msgstr "Cor"
 
 #: DocType: Financial Report Row:0
 msgid "Column Break"
-msgstr "Quebra de Coluna"
+msgstr "Quebra de coluna"
 
 #: env/lib/python3.14/site-packages/erpnext/accounts/doctype/bank_statement_import/bank_statement_import.js:453
 msgid "Column {0}"
@@ -38678,7 +38678,7 @@ msgstr "Cabeçalho de Carta Padrão"
 
 #: DocType: POS Field:0
 msgid "Default Value"
-msgstr "Valor Padrão"
+msgstr "Valor padrão"
 
 #: DocType: Supplier:0
 msgid "Defaults"
@@ -38794,7 +38794,7 @@ msgstr "Data de Vencimento"
 
 #: DocType: Payment Schedule:0
 msgid "Due Date Based On"
-msgstr "Data de Vencimento Com Base Em"
+msgstr "Data de vencimento baseada em"
 
 #: DocType: Tax Withholding Entry:0
 msgid "Duplicate"
@@ -38995,7 +38995,7 @@ msgstr "Filtros"
 
 #: env/lib/python3.14/site-packages/erpnext/utilities/doctype/rename_tool/rename_tool.js:74
 msgid "Finished"
-msgstr "Concluído"
+msgstr "Acabado"
 
 #: DocType: Lead:0
 msgid "First Name"
@@ -39063,7 +39063,7 @@ msgstr "Meta"
 
 #: DocType: Supplier Scorecard Scoring Standing:0
 msgid "Green"
-msgstr "Verde"
+msgstr "verde"
 
 #: DocType: Tax Withholding Category:0
 msgid "Gross Total"
@@ -39099,7 +39099,7 @@ msgstr "Semestral"
 
 #: DocType: Bisect Accounting Statements:0
 msgid "Heatmap"
-msgstr "Mapa de Calor"
+msgstr "Mapa de calor"
 
 #: env/lib/python3.14/site-packages/erpnext/assets/doctype/asset/depreciation.py:340
 msgid "Hello,"
@@ -39123,7 +39123,7 @@ msgstr "Alto"
 
 #: DocType: Project:0
 msgid "Hourly"
-msgstr "Por Hora"
+msgstr "De hora em hora"
 
 #: DocType: Call Log:0
 msgid "ID"
@@ -39131,7 +39131,7 @@ msgstr "Id"
 
 #: DocType: Contract:0
 msgid "IP Address"
-msgstr "Endereço IP"
+msgstr "Endereço de IP"
 
 #: DocType: Issue:0
 msgid "ISS-.YYYY.-"
@@ -39168,11 +39168,11 @@ msgstr "Importar"
 
 #: DocType: Bank Statement Import:0
 msgid "Import File"
-msgstr "Importar Arquivo"
+msgstr "Importar arquivo"
 
 #: DocType: Bank Statement Import:0
 msgid "Import File Errors and Warnings"
-msgstr "Erros e Avisos de Importação de Arquivo"
+msgstr "Erros e avisos de importação de arquivos"
 
 #: DocType: Bank Statement Import:0
 msgid "Import Log"
@@ -39180,11 +39180,11 @@ msgstr "Registro de Importação"
 
 #: DocType: Bank Statement Import:0
 msgid "Import Log Preview"
-msgstr "Pré-visualização do Registro de Importação"
+msgstr "Visualização do registro de importação"
 
 #: DocType: Bank Statement Import:0
 msgid "Import Preview"
-msgstr "Pré-visualização de Importação"
+msgstr "Visualização de importação"
 
 #: env/lib/python3.14/site-packages/erpnext/accounts/doctype/bank_statement_import/bank_statement_import.js:51
 msgid "Import Progress"
@@ -39196,11 +39196,11 @@ msgstr "Tipo de Importação"
 
 #: DocType: Bank Statement Import:0
 msgid "Import Warnings"
-msgstr "Avisos de Importação"
+msgstr "Avisos de importação"
 
 #: DocType: Bank Statement Import:0
 msgid "Import from Google Sheets"
-msgstr "Importar do Google Planilhas"
+msgstr "Importar do Planilhas Google"
 
 #: env/lib/python3.14/site-packages/erpnext/accounts/doctype/bank_statement_import/bank_statement_import.js:45
 msgid "Importing {0} of {1}, {2}"
@@ -39208,7 +39208,7 @@ msgstr "Importando {0} de {1}, {2}"
 
 #: DocType: Item Lead Time:0
 msgid "In Days"
-msgstr "Em Dias"
+msgstr "Em dias"
 
 #: DocType: Work Order Operation:0
 msgid "In Minutes"
@@ -39248,7 +39248,7 @@ msgstr "Cor do Indicador"
 
 #: DocType: Bank Statement Import:0
 msgid "Insert New Records"
-msgstr "Inserir Novos Registros"
+msgstr "Inserir novos registros"
 
 #: DocType: Delivery Note:0
 msgid "Instructions"
@@ -39256,7 +39256,7 @@ msgstr "Instruções"
 
 #: DocType: Financial Report Row:0
 msgid "Int"
-msgstr "Int"
+msgstr "Inteiro"
 
 #: DocType: Sales Partner:0
 msgid "Introduction"
@@ -39489,7 +39489,7 @@ msgstr "Obrigatório"
 
 #: DocType: Inventory Dimension:0
 msgid "Mandatory Depends On"
-msgstr "Depende de Obrigatório"
+msgstr "Obrigatório Depende"
 
 #: DocType: Bank Account:0
 msgid "Mask"
@@ -39517,7 +39517,7 @@ msgstr "Mensagem"
 
 #: DocType: Payment Gateway Account:0
 msgid "Message Examples"
-msgstr "Exemplos de Mensagem"
+msgstr "Exemplos de Mensagens"
 
 #: env/lib/python3.14/site-packages/erpnext/accounts/doctype/payment_request/payment_request.js:55
 msgid "Message Sent"
@@ -39537,7 +39537,7 @@ msgstr "Celular"
 
 #: DocType: Dunning:0
 msgid "Mobile No"
-msgstr "Número de Celular"
+msgstr "Telefone Celular"
 
 #: env/lib/python3.14/site-packages/erpnext/public/dist/js/erpnext.bundle.T5NFLMQQ.js:7833
 msgid "Mobile Number"
@@ -39689,7 +39689,7 @@ msgstr "Opções"
 
 #: DocType: Supplier Scorecard Scoring Standing:0
 msgid "Orange"
-msgstr "Laranja"
+msgstr "laranja"
 
 #: DocType: Process Statement Of Accounts:0
 msgid "Orientation"
@@ -39781,7 +39781,7 @@ msgstr "Por cento"
 
 #: DocType: Payment Schedule:0
 msgid "Percentage"
-msgstr "Porcentagem"
+msgstr "Percentagem"
 
 #: env/lib/python3.14/site-packages/erpnext/accounts/report/budget_variance_report/budget_variance_report.js:59
 msgid "Period"
@@ -39848,7 +39848,7 @@ msgstr "Contato Principal"
 
 #: env/lib/python3.14/site-packages/erpnext/selling/page/point_of_sale/pos_past_order_summary.js:68
 msgid "Print"
-msgstr "Imprimir"
+msgstr "imprimir"
 
 #: DocType: Payment Request:0
 msgid "Print Format"
@@ -39910,7 +39910,7 @@ msgstr "Usuário de Compras"
 
 #: DocType: Supplier Scorecard Scoring Standing:0
 msgid "Purple"
-msgstr "Roxo"
+msgstr "roxo"
 
 msgid "Qty to Transfer"
 msgstr "Quantidade a Transferir"
@@ -39973,7 +39973,7 @@ msgstr "Destinatários"
 
 #: DocType: Supplier Scorecard Scoring Standing:0
 msgid "Red"
-msgstr "Vermelho"
+msgstr "vermelho"
 
 #: DocType: Journal Entry:0
 msgid "Reference"
@@ -40005,7 +40005,7 @@ msgstr "Tipo de Documento de Referência"
 
 #: DocType: Journal Entry Account:0
 msgid "Reference Name"
-msgstr "Nome da Referência"
+msgstr "Nome de Referência"
 
 #: DocType: Journal Entry Account:0
 msgid "Reference Type"
@@ -40017,7 +40017,7 @@ msgstr "Atualizar"
 
 #: DocType: Bank Statement Import:0
 msgid "Refresh Google Sheet"
-msgstr "Atualizar Planilha Google"
+msgstr "Atualizar planilha do Google"
 
 #: DocType: Quality Inspection:0
 msgid "Rejected"
@@ -40046,7 +40046,7 @@ msgstr "Relatório"
 
 #: DocType: Process Statement Of Accounts:0
 msgid "Report Filters"
-msgstr "Filtros do Relatório"
+msgstr "Filtros de relatório"
 
 #: DocType: Account:0
 msgid "Report Type"
@@ -40237,7 +40237,7 @@ msgstr "Seção"
 
 #: DocType: Financial Report Row:0
 msgid "Section Break"
-msgstr "Intervalo de Seção"
+msgstr "Quebra de seção"
 
 #: env/lib/python3.14/site-packages/erpnext/buying/doctype/purchase_order/purchase_order.js:208
 msgid "Select"
@@ -40365,7 +40365,7 @@ msgstr "Hora de Início"
 
 #: env/lib/python3.14/site-packages/erpnext/utilities/doctype/rename_tool/rename_tool.js:73
 msgid "Started"
-msgstr "Iniciado"
+msgstr "Começado"
 
 #: env/lib/python3.14/site-packages/erpnext/public/js/print.js:90
 msgid "State"
@@ -40373,7 +40373,7 @@ msgstr "Estado"
 
 #: DocType: Lead:0
 msgid "State/Province"
-msgstr "Estado/Província"
+msgstr "Estado / Província"
 
 #: DocType: Bank Statement Import:0
 msgid "Status"
@@ -40400,7 +40400,7 @@ msgstr "Enviar"
 
 #: DocType: Bank Statement Import:0
 msgid "Submit After Import"
-msgstr "Enviar Após Importação"
+msgstr "Enviar após importação"
 
 #: DocType: Payment Entry:0
 msgid "Submitted"
@@ -40505,11 +40505,11 @@ msgstr "Modelo"
 
 #: DocType: Bank Statement Import:0
 msgid "Template Options"
-msgstr "Opções de Modelo"
+msgstr "Opções de modelo"
 
 #: DocType: Bank Statement Import:0
 msgid "Template Warnings"
-msgstr "Alertas de Modelo"
+msgstr "Avisos do modelo"
 
 #: env/lib/python3.14/site-packages/erpnext/support/doctype/service_level_agreement/service_level_agreement.py:217
 msgid "The Condition '{0}' is invalid"
@@ -40622,7 +40622,7 @@ msgstr "Atualizar Quantidade do Lote"
 
 #: DocType: Bank Statement Import:0
 msgid "Update Existing Records"
-msgstr "Atualizar Registros Existentes"
+msgstr "Atualizar registros existentes"
 
 #: env/lib/python3.14/site-packages/erpnext/manufacturing/doctype/bom_creator/bom_creator.py:551
 msgid "Updated successfully"
@@ -40642,7 +40642,7 @@ msgstr "Detalhes do Usuário"
 
 #: DocType: Employee:0
 msgid "User ID"
-msgstr "ID do Usuário"
+msgstr "ID de Usuário"
 
 #: Navbar::0
 msgctxt "Label of a Navbar Item"
@@ -40687,7 +40687,7 @@ msgstr "Visualizar"
 
 #: env/lib/python3.14/site-packages/erpnext/accounts/doctype/financial_report_template/financial_report_template.js:16
 msgid "View Report"
-msgstr "Visualizar Relatório"
+msgstr "Ver relatório"
 
 #: env/lib/python3.14/site-packages/erpnext/stock/report/stock_ledger/stock_ledger.js:139
 msgid "View Stock Balance"
@@ -40796,7 +40796,7 @@ msgstr "Anual"
 
 #: DocType: Supplier Scorecard Scoring Standing:0
 msgid "Yellow"
-msgstr "Amarelo"
+msgstr "amarelo"
 
 #: DocType: Account:0
 msgid "Yes"
@@ -40896,7 +40896,7 @@ msgstr "Total de Contas a Receber"
 #: ../../env/lib/python3.14/site-packages/erpnext/accounts/number_card/total_outgoing_bills/total_outgoing_bills.json:0
 msgctxt "Number Card"
 msgid "Total Outgoing Bills"
-msgstr "Total de Contas a Pagar"
+msgstr "Total de Faturas de Venda"
 
 #: ../../env/lib/python3.14/site-packages/erpnext/stock/number_card/total_warehouses/total_warehouses.json:0
 msgctxt "Number Card"
@@ -42668,7 +42668,7 @@ msgstr "É Chave PIX?"
 #~ msgstr "Total de Pagamentos Recebidos"
 
 #~ msgid "Total Outgoing Bills"
-#~ msgstr "Total de Contas a Pagar"
+#~ msgstr "Total de Faturas de Venda"
 
 #~ msgid "Total Outgoing Payment"
 #~ msgstr "Total de Pagamentos Efetuados"
