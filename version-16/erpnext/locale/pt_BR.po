@@ -38607,7 +38607,7 @@ msgstr "Diário"
 
 #: DocType: Supplier:0
 msgid "Dashboard"
-msgstr "painel"
+msgstr "Painel de Controle"
 
 #: DocType: Bank Transaction:0
 msgid "Date"
