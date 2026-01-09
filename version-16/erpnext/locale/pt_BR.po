@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-12-21 09:37+0000\n"
-"PO-Revision-Date: 2026-01-08 20:38\n"
+"PO-Revision-Date: 2026-01-09 00:06\n"
 "Last-Translator: Translation Hub <ai@translationhub.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -38607,7 +38607,7 @@ msgstr "Diário"
 
 #: DocType: Supplier:0
 msgid "Dashboard"
-msgstr "Painel de Controle"
+msgstr "painel"
 
 #: DocType: Bank Transaction:0
 msgid "Date"
@@ -39950,7 +39950,7 @@ msgstr "Data de Referência"
 
 #: apps/erpnext/erpnext/accounts/doctype/payment_entry/payment_entry.js:1713
 msgid "Reference DocType"
-msgstr "Tipo de documento de referência"
+msgstr "Tipo de Documento de Referência"
 
 #: DocType: Payment Request:0
 msgid "Reference Doctype"
@@ -41284,7 +41284,7 @@ msgstr ""
 
 #: DocType: Item Barcode:0
 msgid "GTIN-14"
-msgstr ""
+msgstr "GTIN-14"
 
 #: DocType: BOM Operation:0
 msgid ""
