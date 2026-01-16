@@ -1,0 +1,435 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-24 12:16+0000\n"
+"PO-Revision-Date: 2026-01-15 21:16\n"
+"Last-Translator: Translation Hub <ai@translationhub.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Frappe Translation Hub\n"
+
+#: Navbar::0
+msgctxt "Label of a Navbar Item"
+msgid "About"
+msgstr "Sobre"
+
+#: DocType: Mint Bank Transaction Rule:0
+msgid "Account"
+msgstr "Conta"
+
+#: apps/mint/mint/mint/doctype/mint_bank_transaction_rule/mint_bank_transaction_rule.py:91
+msgid "Account company does not match with the rule company."
+msgstr "A empresa da conta não corresponde à empresa da regra."
+
+#: DocType: Mint Bank Transaction Rule:0
+msgid "Accounts"
+msgstr "Contas"
+
+#: DocType: Mint Bank Transaction Rule:0
+msgid "Action"
+msgstr "Ação"
+
+#: apps/mint/mint/mint/doctype/mint_bank_statement_import/mint_bank_statement_import.py:80
+msgid "All rows must have an amount and a type. Missing in row {0}"
+msgstr "Todas as linhas devem ter um valor e um tipo. Faltando na linha {0}"
+
+#: DocType: Mint Bank Statement Import:0
+msgid "Amended From"
+msgstr "Alterado De"
+
+#: DocType: Mint Bank Statement Import Transactions:0
+msgid "Amount"
+msgstr "Valor"
+
+#: DocType: Mint Bank Transaction Rule:0
+msgid "Any"
+msgstr "Qualquer"
+
+#: DocType: Mint Settings:0
+msgid "Automatically run rules on unreconciled transactions"
+msgstr "Executar regras automaticamente em transações não conciliadas"
+
+#: DocType: Mint Bank Statement Import:0
+msgid "Bank Account"
+msgstr "Conta bancária"
+
+#: DocType: Mint Bank Transaction Rule:0
+msgid "Bank Entry"
+msgstr "Lançamento bancário"
+
+#: DocType: Mint Bank Transaction Rule:0
+msgid "Bank Entry Type"
+msgstr "Tipo de lançamento bancário"
+
+msgid "Bank Reconciliation"
+msgstr "Conciliação bancária"
+
+#: apps/mint/mint/mint/page/bank_reconciliation/bank_reconciliation.js:7
+msgid "Bank Reconciliation - Mint"
+msgstr "Conciliação bancária - Mint"
+
+#: apps/mint/mint/apis/google_ai.py:132
+msgid "Bank Statement Processor is not set in Mint Settings"
+msgstr ""
+"O processador de extrato bancário não está definido nas configurações do "
+"Mint"
+
+#: apps/mint/mint/apis/bank_reconciliation.py:31
+msgid "Bank Transaction {0} is already fully reconciled"
+msgstr "A transação bancária {0} já está totalmente conciliada"
+
+#: DocType: Mint Bank Statement Import Transactions:0
+msgid "Can be \"1200 Dr\" and will be translated to 1200 in amount and \"Withdrawal\""
+msgstr "Pode ser \"1200 Dr\" e será traduzido para 1200 em valor e \"Saída\""
+
+#: DocType: Mint Bank Transaction Description Rules:0
+msgid "Check"
+msgstr "Cheque"
+
+#: DocType: Mint Bank Transaction Rule:0
+msgid "Classify As"
+msgstr "Classificar Como"
+
+#: DocType: Mint Bank Transaction Rule:0
+msgid "Company"
+msgstr "Empresa"
+
+#: DocType: Mint Bank Statement Import:0
+msgid "Completed"
+msgstr "Concluído"
+
+#: DocType: Mint Bank Transaction Description Rules:0
+msgid "Contains"
+msgstr "Contém"
+
+#: DocType: Mint Transaction Rule Accounts:0
+msgid "Credit"
+msgstr "Crédito"
+
+#: DocType: Mint Bank Statement Import Transactions:0
+msgid "Date"
+msgstr "Data"
+
+#: DocType: Mint Transaction Rule Accounts:0
+msgid "Debit"
+msgstr "Débito"
+
+#: DocType: Mint Bank Statement Import Transactions:0
+msgid "Deposit"
+msgstr "Depósito"
+
+#: DocType: Mint Bank Statement Import Transactions:0
+msgid "Description"
+msgstr "Descrição"
+
+#: DocType: Mint Bank Transaction Rule:0
+msgid "Description Rules"
+msgstr "Regras de Descrição"
+
+#: DocType: Mint Bank Transaction Description Rules:0
+msgid "Ends With"
+msgstr "Termina Com"
+
+#: DocType: Mint Bank Statement Import:0
+msgid "Error"
+msgstr "Erro"
+
+#: apps/mint/mint/apis/google_ai.py:116
+msgid "Failed to create document processor"
+msgstr "Falha ao criar processador de documento"
+
+#: apps/mint/mint/apis/google_ai.py:104
+msgid "Failed to create processor"
+msgstr "Falha ao criar processador"
+
+#: DocType: Mint Bank Statement Import:0
+msgid "File"
+msgstr "arquivo"
+
+#: DocType: Mint Bank Statement Import:0
+msgid "File Type"
+msgstr "Tipo de Arquivo"
+
+#: Navbar::0
+msgctxt "Label of a Navbar Item"
+msgid "Frappe Support"
+msgstr "Suporte Frappe"
+
+#: DocType: Mint Settings:0
+msgid "General"
+msgstr "Geral"
+
+#: apps/mint/mint/apis/google_ai.py:78
+msgid "Google APIs are not enabled. Please enable them in Mint Settings."
+msgstr ""
+"As APIs do Google não estão habilitadas. Por favor, habilite-as nas "
+"Configurações do Mint."
+
+#: DocType: Mint Settings:0
+msgid "Google Document AI"
+msgstr "Inteligência Artificial de Documentos do Google"
+
+#: DocType: Mint Settings:0
+msgid "Google Document Processor - Bank Statement"
+msgstr "Processador de Documentos do Google - Extrato Bancário"
+
+#: DocType: Mint Settings:0
+msgid "Google Processor Location"
+msgstr "Localização do Processador do Google"
+
+#: DocType: Mint Settings:0
+msgid "Google Project ID"
+msgstr "ID do Projeto do Google"
+
+#: apps/mint/mint/apis/google_ai.py:126
+msgid "Google Project ID is not set in Mint Settings"
+msgstr "O ID do Projeto do Google não está definido nas Configurações do Mint"
+
+#: apps/mint/mint/apis/google_ai.py:17
+msgid "Google Project ID is not set. Please set it in the Mint Settings."
+msgstr ""
+"O ID do Projeto do Google não está definido. Por favor, defina-o nas "
+"Configurações do Mint."
+
+#: DocType: Mint Settings:0
+msgid "Google Service Account JSON Key"
+msgstr "Chave JSON da Conta de Serviço do Google"
+
+#: apps/mint/mint/apis/google_ai.py:129
+msgid "Google Service Account JSON Key is not set in Mint Settings"
+msgstr ""
+"A Chave JSON da Conta de Serviço do Google não está definida nas "
+"Configurações do Mint"
+
+#: DocType: Mint Settings:0
+msgid "If checked, this job will run every 30 minutes"
+msgstr "Se marcado, este trabalho será executado a cada 30 minutos"
+
+#: DocType: Mint Bank Statement Import Transactions:0
+msgid "Imported"
+msgstr "Importado"
+
+#: apps/mint/mint/mint/doctype/mint_bank_statement_import/mint_bank_statement_import.py:56
+msgid "Invalid file type"
+msgstr "Tipo de arquivo inválido"
+
+#: apps/mint/mint/mint/doctype/mint_bank_transaction_rule/mint_bank_transaction_rule.py:87
+msgid "Invalid regex pattern."
+msgstr "Padrão de regex inválido."
+
+#: Navbar::0
+msgctxt "Label of a Navbar Item"
+msgid "Keyboard Shortcuts"
+msgstr "Atalhos de Teclado"
+
+#: Navbar::0
+msgctxt "Label of a Navbar Item"
+msgid "Log out"
+msgstr "Sair"
+
+#: DocType: Mint Settings:0
+msgid "Match Transfers across (days)"
+msgstr "Corresponder Transferências em (dias)"
+
+#: DocType: Mint Bank Transaction Rule:0
+msgid "Max Amount"
+msgstr "Valor Máximo"
+
+#: DocType: Mint Bank Transaction Rule:0
+msgid "Min Amount"
+msgstr "Valor Mínimo"
+
+#: apps/mint/mint/mint/doctype/mint_bank_transaction_rule/mint_bank_transaction_rule.py:55
+msgid "Min amount cannot be greater than max amount."
+msgstr "O valor mínimo não pode ser maior que o valor máximo."
+
+#: DocType: Mint Bank Statement Import:0
+msgid "Mint"
+msgstr "Hortelã"
+
+#: DocType: Mint Bank Statement Import:0
+msgid "Mint Bank Statement Import"
+msgstr "Importação de Extrato Bancário do Mint"
+
+#: DocType: Mint Bank Statement Import Transactions:0
+msgid "Mint Bank Statement Import Transactions"
+msgstr "Transações de Importação de Extrato Bancário do Mint"
+
+#: DocType: Mint Bank Transaction Description Rules:0
+msgid "Mint Bank Transaction Description Rules"
+msgstr "Regras de Descrição de Transações Bancárias do Mint"
+
+#: DocType: Mint Bank Transaction Rule:0
+msgid "Mint Bank Transaction Rule"
+msgstr "Regra de Transação Bancária do Mint"
+
+#: DocType: Mint Settings:0
+msgid "Mint Settings"
+msgstr "Configurações do Mint"
+
+#: DocType: Mint Transaction Rule Accounts:0
+msgid "Mint Transaction Rule Accounts"
+msgstr "Contas da Regra de Transação do Mint"
+
+#: DocType: Mint Bank Transaction Rule:0
+msgid "Multiple Accounts"
+msgstr "Múltiplas Contas"
+
+#: apps/mint/mint/mint/doctype/mint_bank_statement_import/mint_bank_statement_import.py:84
+msgid "No transactions found"
+msgstr "Nenhuma transação encontrada"
+
+#: DocType: Mint Bank Statement Import:0
+msgid "Not Started"
+msgstr "Não Iniciado"
+
+#: DocType: Mint Settings:0
+msgid "Number of days to consider for transfer matching across bank accounts."
+msgstr ""
+"Número de dias para considerar na correspondência de transferências entre "
+"contas bancárias."
+
+#: DocType: Mint Bank Statement Import:0
+msgid "PDF"
+msgstr "PDF"
+
+#: DocType: Mint Bank Transaction Rule:0
+msgid "Party"
+msgstr "Parte"
+
+#: DocType: Mint Bank Transaction Rule:0
+msgid "Party Type"
+msgstr "Tipo de Parte"
+
+#: apps/mint/mint/mint/doctype/mint_bank_transaction_rule/mint_bank_transaction_rule.py:65
+msgid "Party account is required to create a payment entry."
+msgstr "A conta da parte é necessária para criar uma entrada de pagamento."
+
+#: apps/mint/mint/mint/doctype/mint_bank_transaction_rule/mint_bank_transaction_rule.py:62
+msgid "Party is required create a payment entry."
+msgstr "É necessário ter uma parte para criar uma entrada de pagamento."
+
+#: apps/mint/mint/mint/doctype/mint_bank_transaction_rule/mint_bank_transaction_rule.py:59
+msgid "Party type is required to create a payment entry."
+msgstr "O tipo de parte é necessário para criar uma entrada de pagamento."
+
+#: DocType: Mint Bank Transaction Rule:0
+msgid "Payment Entry"
+msgstr "Entrada de Pagamento"
+
+#: apps/mint/mint/mint/doctype/mint_bank_transaction_rule/mint_bank_transaction_rule.py:70
+msgid "Please add an account for the Bank Entry rule."
+msgstr "Por favor, adicione uma conta para a regra de entrada bancária."
+
+#: apps/mint/mint/mint/doctype/mint_bank_transaction_rule/mint_bank_transaction_rule.py:73
+msgid "Please configure accounts for the Bank Entry rule."
+msgstr "Por favor, configure as contas para a regra de entrada bancária."
+
+#: apps/mint/mint/mint/doctype/mint_bank_statement_import/mint_bank_statement_import.py:51
+msgid "Please upload a file"
+msgstr "Por favor, faça o upload de um arquivo"
+
+#: DocType: Mint Bank Transaction Rule:0
+msgid "Priority"
+msgstr "Prioridade"
+
+#: DocType: Mint Bank Statement Import Transactions:0
+msgid "Reference"
+msgstr "Referência"
+
+#: DocType: Mint Bank Transaction Description Rules:0
+msgid "Regex"
+msgstr "Expressão Regular"
+
+#: DocType: Mint Bank Transaction Rule:0
+msgid "Rule Description"
+msgstr "Descrição da Regra"
+
+#: DocType: Mint Bank Transaction Rule:0
+msgid "Rule Name"
+msgstr "Nome da Regra"
+
+#: DocType: Mint Bank Transaction Rule:0
+msgid "Single Account"
+msgstr "Conta Única"
+
+#: DocType: Mint Bank Transaction Description Rules:0
+msgid "Starts With"
+msgstr "Começa Com"
+
+#: DocType: Mint Bank Statement Import:0
+msgid "Status"
+msgstr "Status"
+
+#: DocType: Mint Bank Statement Import Transactions:0
+msgid "String Amount"
+msgstr "Quantidade de Caracteres"
+
+#: Navbar::0
+msgctxt "Label of a Navbar Item"
+msgid "System Health"
+msgstr "Saúde do Sistema"
+
+#: DocType: Mint Bank Statement Import:0
+msgid "System Manager"
+msgstr "Administrador do Sistema"
+
+#: apps/mint/mint/mint/doctype/mint_bank_transaction_rule/mint_bank_transaction_rule.py:79
+msgid "The last account row must not have any debit or credit amounts set."
+msgstr ""
+"A última linha da conta não deve ter nenhum valor de débito ou crédito "
+"definido."
+
+#: DocType: Mint Bank Transaction Rule:0
+msgid "Transaction Type"
+msgstr "Tipo de Transação"
+
+#: DocType: Mint Bank Statement Import:0
+msgid "Transactions"
+msgstr "Transações"
+
+#: DocType: Mint Bank Transaction Rule:0
+msgid "Transfer"
+msgstr "Transferência"
+
+#: DocType: Mint Bank Statement Import Transactions:0
+msgid "Type"
+msgstr "Tipo"
+
+#: DocType: Mint Transaction Rule Accounts:0
+msgid "User Remark"
+msgstr "Observação do Usuário"
+
+#: Navbar::0
+msgctxt "Label of a Navbar Item"
+msgid "User Settings"
+msgstr "Configurações do Usuário"
+
+#: DocType: Mint Bank Transaction Description Rules:0
+msgid "Value"
+msgstr "Valor"
+
+#: DocType: Mint Bank Statement Import Transactions:0
+msgid "Withdrawal"
+msgstr "Saída"
+
+#: DocType: Mint Settings:0
+msgid "eu"
+msgstr "eu"
+
+#: DocType: Mint Settings:0
+msgid "us"
+msgstr "nós"
+
+#: apps/mint/mint/apis/bank_reconciliation.py:412
+msgid "{0} {1} does not exist"
+msgstr "{0} {1} não existe"
+
+#: ../mint/mint/mint/workspace/mint/mint.json:0
+msgctxt "Workspace"
+msgid "Mint"
+msgstr "Hortelã"
