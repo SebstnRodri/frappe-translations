@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-12-21 09:35+0000\n"
-"PO-Revision-Date: 2026-01-16 10:31\n"
+"PO-Revision-Date: 2026-01-16 11:01\n"
 "Last-Translator: Translation Hub <ai@translationhub.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -1410,11 +1410,11 @@ msgstr "Busca Avançada"
 
 #: DocType: OAuth Client:0
 msgid "Advanced Settings"
-msgstr "Configurações avançadas"
+msgstr "Configurações Avançadas"
 
 #: apps/frappe/frappe/public/js/frappe/ui/filters/filter.js:64
 msgid "After"
-msgstr "Depois"
+msgstr "após"
 
 #: DocType: Server Script:0
 msgid "After Cancel"
@@ -4115,7 +4115,7 @@ msgstr "A coluna <b>{0}</b> já existe."
 
 #: DocType: DocField:0
 msgid "Column Break"
-msgstr "Quebra de coluna"
+msgstr "Quebra de Coluna"
 
 #: apps/frappe/frappe/core/doctype/data_export/exporter.py:140
 msgid "Column Labels:"
@@ -4475,7 +4475,7 @@ msgstr ""
 
 #: DocType: Contact:0
 msgid "Contact Details"
-msgstr "Detalhes do Contato"
+msgstr "Detalhes de Contato"
 
 #: DocType: Contact Email:0
 msgid "Contact Email"
@@ -5435,7 +5435,7 @@ msgstr "Tipo de Usuário Padrão"
 
 #: DocType: Custom Field:0
 msgid "Default Value"
-msgstr "Valor padrão"
+msgstr "Valor Padrão"
 
 #: DocType: DocType:0
 msgid "Default View"
@@ -5679,7 +5679,7 @@ msgstr "Descendentes de (inclusivo)"
 
 #: DocType: Assignment Rule:0
 msgid "Description"
-msgstr "Descrição"
+msgstr "descrição"
 
 #: DocType: Onboarding Step:0
 msgid ""
@@ -6429,7 +6429,7 @@ msgstr "Data de Vencimento"
 
 #: DocType: Assignment Rule:0
 msgid "Due Date Based On"
-msgstr "Data de vencimento baseada em"
+msgstr "Data de Vencimento Baseada Em"
 
 #: apps/frappe/frappe/public/js/frappe/form/grid_row_form.js:56
 msgid "Duplicate"
@@ -6721,7 +6721,7 @@ msgstr "Cabeçalho de E-mail"
 
 #: DocType: Contact Email:0
 msgid "Email ID"
-msgstr "Id de E-mail"
+msgstr "ID de E-mail"
 
 #: DocType: Contact:0
 msgid "Email IDs"
@@ -7824,7 +7824,7 @@ msgstr ""
 
 #: DocType: Report Column:0
 msgid "Fieldname"
-msgstr "Nome do Campo"
+msgstr "nome do campo"
 
 #: apps/frappe/frappe/core/doctype/doctype/doctype.py:272
 msgid "Fieldname '{0}' conflicting with a {1} of the name {2} in {3}"
@@ -9105,7 +9105,7 @@ msgstr "Título"
 
 #: DocType: Dashboard Chart:0
 msgid "Heatmap"
-msgstr "Mapa de calor"
+msgstr "Mapa de Calor"
 
 #: apps/frappe/frappe/templates/emails/new_user.html:2
 msgid "Hello"
@@ -9161,7 +9161,7 @@ msgstr "Olá {0}"
 
 #: DocType: DocField:0
 msgid "Hidden"
-msgstr "Oculto"
+msgstr "oculto"
 
 #: DocType: Form Tour Step:0
 msgid "Hidden Fields"
@@ -9305,7 +9305,7 @@ msgstr "Início/Pasta de teste 2"
 
 #: DocType: Scheduled Job Type:0
 msgid "Hourly"
-msgstr "De hora em hora"
+msgstr "Por Hora"
 
 #: DocType: Scheduled Job Type:0
 msgid "Hourly Long"
@@ -9337,7 +9337,7 @@ msgstr "Nome legível para exibição ao usuário final."
 
 #: DocType: User Session Display:0
 msgid "ID"
-msgstr "ID"
+msgstr "Id"
 
 #: apps/frappe/frappe/public/js/print_format_builder/PrintFormatControls.vue:169
 msgid "ID (name)"
@@ -9365,7 +9365,7 @@ msgstr "Pasta IMAP"
 
 #: DocType: Activity Log:0
 msgid "IP Address"
-msgstr "Endereço de IP"
+msgstr "Endereço IP"
 
 #: DocType: DocField:0
 msgid "Icon"
@@ -9780,11 +9780,11 @@ msgstr "Importar E-mail De"
 
 #: DocType: Data Import:0
 msgid "Import File"
-msgstr "Importar arquivo"
+msgstr "Importar Arquivo"
 
 #: DocType: Data Import:0
 msgid "Import File Errors and Warnings"
-msgstr "Erros e avisos de importação de arquivos"
+msgstr "Erros e Avisos de Importação de Arquivo"
 
 #: DocType: Data Import:0
 msgid "Import Log"
@@ -9792,11 +9792,11 @@ msgstr "Registro de Importação"
 
 #: DocType: Data Import:0
 msgid "Import Log Preview"
-msgstr "Visualização do registro de importação"
+msgstr "Pré-visualização do Log de Importação"
 
 #: DocType: Data Import:0
 msgid "Import Preview"
-msgstr "Visualização de importação"
+msgstr "Pré-visualização da Importação"
 
 #: apps/frappe/frappe/core/doctype/data_import/data_import.js:41
 msgid "Import Progress"
@@ -9812,7 +9812,7 @@ msgstr "Tipo de Importação"
 
 #: DocType: Data Import:0
 msgid "Import Warnings"
-msgstr "Avisos de importação"
+msgstr "Avisos de Importação"
 
 #: apps/frappe/frappe/public/js/frappe/views/file/file_view.js:117
 msgid "Import Zip"
@@ -9820,7 +9820,7 @@ msgstr "Importar Zip"
 
 #: DocType: Data Import:0
 msgid "Import from Google Sheets"
-msgstr "Importar do Planilhas Google"
+msgstr "Importar do Google Planilhas"
 
 #: apps/frappe/frappe/core/doctype/data_import/importer.py:612
 msgid "Import template should be of type .csv, .xlsx or .xls"
@@ -9853,7 +9853,7 @@ msgstr "Em"
 
 #: DocType: System Settings:0
 msgid "In Days"
-msgstr "Em dias"
+msgstr "Em Dias"
 
 #: DocType: DocField:0
 msgid "In Filter"
@@ -10113,7 +10113,7 @@ msgstr "Inserir Imagem em Markdown"
 
 #: DocType: Data Import:0
 msgid "Insert New Records"
-msgstr "Inserir novos registros"
+msgstr "Inserir Novos Registros"
 
 #: DocType: Web Page:0
 msgid "Insert Style"
@@ -10169,7 +10169,7 @@ msgstr "Limite de anexo insuficiente"
 
 #: DocType: DocField:0
 msgid "Int"
-msgstr "Inteiro"
+msgstr "Int"
 
 #: DocType: Integration Request:0
 msgid "Integration Request"
@@ -10830,7 +10830,7 @@ msgstr "É Virtual"
 
 #: DocType: Web Form:0
 msgid "Is standard"
-msgstr "É padrão"
+msgstr "É Padrão"
 
 #: apps/frappe/frappe/core/doctype/file/utils.py:157
 msgid ""
@@ -18149,7 +18149,7 @@ msgstr "Separador"
 
 #: DocType: Workspace:0
 msgid "Sequence Id"
-msgstr "ID da Sequência"
+msgstr "ID de Sequência"
 
 #: DocType: Document Naming Settings:0
 msgid "Series List for this Transaction"
@@ -20917,7 +20917,7 @@ msgstr "Dica: Experimente o novo console suspenso usando"
 
 #: DocType: DocType State:0
 msgid "Title"
-msgstr "Título"
+msgstr "título"
 
 #: DocType: DocType:0
 msgid "Title Field"
@@ -24014,7 +24014,7 @@ msgstr "fairlogin"
 
 #: DocType: RQ Job:0
 msgid "finished"
-msgstr "concluído"
+msgstr "Concluído"
 
 #: DocType: Workspace:0
 msgid "gray"
@@ -27688,7 +27688,7 @@ msgstr "Atividade de Login"
 
 #~ msgctxt "Label of name column in report"
 #~ msgid "ID"
-#~ msgstr "ID"
+#~ msgstr "Id"
 
 #~ msgctxt "Button in list view menu"
 #~ msgid "Import"
