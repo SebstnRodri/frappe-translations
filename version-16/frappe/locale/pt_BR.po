@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-12-21 09:35+0000\n"
-"PO-Revision-Date: 2026-01-16 11:01\n"
+"PO-Revision-Date: 2026-01-18 19:28\n"
 "Last-Translator: Translation Hub <ai@translationhub.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -12651,6 +12651,9 @@ msgid ""
 "<ol><li><b>field:[fieldname]</b> - By Field</li><li><b>naming_series:</b> - By Naming Series (field called naming_series must be present)</li><li><b>Prompt</b> - Prompt user for a name</li><li><b>[series]</b> - Series by prefix (separated by a dot); for example PRE.#####</li>\n"
 "<li><b>format:EXAMPLE-{MM}morewords{fieldname1}-{fieldname2}-{#####}</b> - Replace all braced words (fieldnames, date words (DD, MM, YY), series) with their value. Outside braces, any characters can be used.</li></ol>"
 msgstr ""
+"Opções de Nomenclatura:\n"
+"<ol><li><b>campo:[nome_do_campo]</b> - Por Campo</li><li><b>série_de_nomenclatura:</b> - Por Série de Nomenclatura (campo chamado série_de_nomenclatura deve estar presente)</li><li><b>Prompt</b> - Solicitar um nome ao usuário</li><li><b>[série]</b> - Série por prefixo (separada por um ponto); por exemplo PRE.#####</li>\n"
+"<li><b>formato:EXEMPLO-{MM}mais_palavras{nome_do_campo1}-{nome_do_campo2}-{#####}</b> - Substituir todas as palavras entre chaves (nomes de campos, palavras de data (DD, MM, YY), série) pelo seu valor. Fora das chaves, qualquer caractere pode ser usado.</li></ol>"
 
 #: DocType: DocType:0
 msgid "Naming Rule"
@@ -25941,7 +25944,7 @@ msgstr "início"
 
 #: DocType: Workflow State:0
 msgid "inbox"
-msgstr ""
+msgstr "caixa de entrada"
 
 #: DocType: Workflow State:0
 msgid "indent-left"
