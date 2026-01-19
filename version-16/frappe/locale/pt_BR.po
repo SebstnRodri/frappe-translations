@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-12-21 09:35+0000\n"
-"PO-Revision-Date: 2026-01-18 19:31\n"
+"PO-Revision-Date: 2026-01-19 00:00\n"
 "Last-Translator: Translation Hub <ai@translationhub.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -1414,7 +1414,7 @@ msgstr "Configurações Avançadas"
 
 #: apps/frappe/frappe/public/js/frappe/ui/filters/filter.js:64
 msgid "After"
-msgstr "após"
+msgstr "depois"
 
 #: DocType: Server Script:0
 msgid "After Cancel"
@@ -9337,7 +9337,7 @@ msgstr "Nome legível para exibição ao usuário final."
 
 #: DocType: User Session Display:0
 msgid "ID"
-msgstr "Id"
+msgstr "ID"
 
 #: apps/frappe/frappe/public/js/print_format_builder/PrintFormatControls.vue:169
 msgid "ID (name)"
@@ -11960,7 +11960,7 @@ msgstr "Obrigatório"
 
 #: DocType: Custom Field:0
 msgid "Mandatory Depends On"
-msgstr "Obrigatório Depende"
+msgstr "Depende obrigatoriamente de"
 
 #: DocType: DocField:0
 msgid "Mandatory Depends On (JS)"
@@ -12195,7 +12195,7 @@ msgstr "Mensagem"
 
 #: DocType: Notification:0
 msgid "Message Examples"
-msgstr "Exemplos de Mensagens"
+msgstr "Exemplos de mensagens"
 
 #: DocType: Communication:0
 msgid "Message ID"
@@ -12295,7 +12295,7 @@ msgstr "Centro Médio"
 
 #: DocType: Contact:0
 msgid "Middle Name"
-msgstr "Nome do Meio"
+msgstr "Nome do meio"
 
 #: DocType: Milestone:0
 msgid "Milestone"
@@ -12376,7 +12376,7 @@ msgstr "Celular"
 
 #: DocType: Contact:0
 msgid "Mobile No"
-msgstr "Telefone Celular"
+msgstr "Número de celular"
 
 #: DocType: Form Tour Step:0
 msgid "Modal Trigger"
@@ -14761,7 +14761,7 @@ msgstr "Porcento"
 
 #: DocType: Dashboard Chart:0
 msgid "Percentage"
-msgstr "Percentagem"
+msgstr "Porcentagem"
 
 #: DocType: Auto Email Report:0
 msgid "Period"
@@ -16372,7 +16372,7 @@ msgstr "Atualizar Tudo"
 
 #: DocType: Data Import:0
 msgid "Refresh Google Sheet"
-msgstr "Atualizar planilha do Google"
+msgstr "Atualizar Planilha do Google"
 
 #: apps/frappe/frappe/printing/page/print/print.js:398
 msgid "Refresh Print Preview"
@@ -16641,7 +16641,7 @@ msgstr "Filtro do Relatório"
 
 #: DocType: Auto Email Report:0
 msgid "Report Filters"
-msgstr "Filtros de relatório"
+msgstr "Filtros de Relatório"
 
 #: DocType: DocField:0
 msgid "Report Hide"
@@ -17647,7 +17647,7 @@ msgstr "Seção"
 
 #: DocType: DocField:0
 msgid "Section Break"
-msgstr "Quebra de seção"
+msgstr "Quebra de Seção"
 
 #: apps/frappe/frappe/printing/page/print_format_builder/print_format_builder.js:421
 msgid "Section Heading"
@@ -19335,7 +19335,7 @@ msgstr "Propriedades do Estado"
 
 #: DocType: Address:0
 msgid "State/Province"
-msgstr "Estado / Província"
+msgstr "Estado"
 
 #: DocType: DocType:0
 msgid "States"
@@ -19498,7 +19498,7 @@ msgstr "enviar"
 
 #: DocType: Data Import:0
 msgid "Submit After Import"
-msgstr "Enviar após importação"
+msgstr "Enviar após importar"
 
 #: apps/frappe/frappe/core/page/permission_manager/permission_manager_help.html:106
 msgid "Submit an Issue"
@@ -19935,11 +19935,11 @@ msgstr "Arquivo de Modelo"
 
 #: DocType: Data Import:0
 msgid "Template Options"
-msgstr "Opções de modelo"
+msgstr "Opções de Modelo"
 
 #: DocType: Data Import:0
 msgid "Template Warnings"
-msgstr "Avisos do modelo"
+msgstr "Avisos de Modelo"
 
 #: apps/frappe/frappe/public/js/frappe/views/workspace/blocks/paragraph.js:78
 msgid "Templates"
@@ -21724,7 +21724,7 @@ msgstr "Atualizar Regras de Nomeação de Alterações"
 
 #: DocType: Data Import:0
 msgid "Update Existing Records"
-msgstr "Atualizar registros existentes"
+msgstr "Atualizar Registros Existentes"
 
 #: DocType: Workflow Document State:0
 msgid "Update Field"
@@ -22441,7 +22441,7 @@ msgstr "Exibir Propriedades (via Personalizar Formulário)"
 
 #: DocType: Onboarding Step:0
 msgid "View Report"
-msgstr "Ver relatório"
+msgstr "Visualizar Relatório"
 
 #: DocType: DocType:0
 msgid "View Settings"
@@ -24261,7 +24261,7 @@ msgstr "desde ontem"
 
 #: DocType: RQ Job:0
 msgid "started"
-msgstr "iniciado"
+msgstr "Iniciado"
 
 #: apps/frappe/frappe/desk/page/setup_wizard/setup_wizard.js:201
 msgid "starting the setup..."
@@ -26008,11 +26008,11 @@ msgstr "música"
 
 #: apps/frappe/frappe/public/js/lib/fingerprintjs.js:8
 msgid "none"
-msgstr "nenhum"
+msgstr "Nenhum"
 
 #: DocType: Workflow State:0
 msgid "off"
-msgstr "desligado"
+msgstr "Desligado"
 
 #: DocType: Workflow State:0
 msgid "ok"
@@ -26179,7 +26179,7 @@ msgstr "marcas"
 
 #: DocType: Workflow State:0
 msgid "tasks"
-msgstr "tarefas"
+msgstr "Tarefas"
 
 #: DocType: Workflow State:0
 msgid "text-height"
@@ -27691,7 +27691,7 @@ msgstr "Atividade de Login"
 
 #~ msgctxt "Label of name column in report"
 #~ msgid "ID"
-#~ msgstr "Id"
+#~ msgstr "ID"
 
 #~ msgctxt "Button in list view menu"
 #~ msgid "Import"
