@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-11-24 12:16+0000\n"
-"PO-Revision-Date: 2026-01-15 21:16\n"
+"PO-Revision-Date: 2026-01-31 16:35\n"
 "Last-Translator: Translation Hub <ai@translationhub.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -21,7 +21,7 @@ msgstr "Sobre"
 msgid "Account"
 msgstr "Conta"
 
-#: apps/mint/mint/mint/doctype/mint_bank_transaction_rule/mint_bank_transaction_rule.py:91
+#: apps/mint/mint/mint/doctype/mint_bank_transaction_rule/mint_bank_transaction_rule.py:92
 msgid "Account company does not match with the rule company."
 msgstr "A empresa da conta não corresponde à empresa da regra."
 
@@ -53,7 +53,7 @@ msgstr "Qualquer"
 msgid "Automatically run rules on unreconciled transactions"
 msgstr "Executar regras automaticamente em transações não conciliadas"
 
-#: DocType: Mint Bank Statement Import:0
+#: DocType: Mint Bank Statement Balance:0
 msgid "Bank Account"
 msgstr "Conta bancária"
 
@@ -110,9 +110,9 @@ msgstr "Contém"
 msgid "Credit"
 msgstr "Crédito"
 
-#: DocType: Mint Bank Statement Import Transactions:0
+#: DocType: Mint Bank Statement Balance:0
 msgid "Date"
-msgstr "Data"
+msgstr "Data "
 
 #: DocType: Mint Transaction Rule Accounts:0
 msgid "Debit"
@@ -124,7 +124,7 @@ msgstr "Depósito"
 
 #: DocType: Mint Bank Statement Import Transactions:0
 msgid "Description"
-msgstr "Descrição"
+msgstr "descrição"
 
 #: DocType: Mint Bank Transaction Rule:0
 msgid "Description Rules"
@@ -217,7 +217,7 @@ msgstr "Importado"
 msgid "Invalid file type"
 msgstr "Tipo de arquivo inválido"
 
-#: apps/mint/mint/mint/doctype/mint_bank_transaction_rule/mint_bank_transaction_rule.py:87
+#: apps/mint/mint/mint/doctype/mint_bank_transaction_rule/mint_bank_transaction_rule.py:88
 msgid "Invalid regex pattern."
 msgstr "Padrão de regex inválido."
 
@@ -243,11 +243,11 @@ msgstr "Valor Máximo"
 msgid "Min Amount"
 msgstr "Valor Mínimo"
 
-#: apps/mint/mint/mint/doctype/mint_bank_transaction_rule/mint_bank_transaction_rule.py:55
+#: apps/mint/mint/mint/doctype/mint_bank_transaction_rule/mint_bank_transaction_rule.py:56
 msgid "Min amount cannot be greater than max amount."
 msgstr "O valor mínimo não pode ser maior que o valor máximo."
 
-#: DocType: Mint Bank Statement Import:0
+#: DocType: Mint Bank Statement Balance:0
 msgid "Mint"
 msgstr "Hortelã"
 
@@ -305,15 +305,15 @@ msgstr "Parte"
 msgid "Party Type"
 msgstr "Tipo de Parte"
 
-#: apps/mint/mint/mint/doctype/mint_bank_transaction_rule/mint_bank_transaction_rule.py:65
+#: apps/mint/mint/mint/doctype/mint_bank_transaction_rule/mint_bank_transaction_rule.py:66
 msgid "Party account is required to create a payment entry."
 msgstr "A conta da parte é necessária para criar uma entrada de pagamento."
 
-#: apps/mint/mint/mint/doctype/mint_bank_transaction_rule/mint_bank_transaction_rule.py:62
+#: apps/mint/mint/mint/doctype/mint_bank_transaction_rule/mint_bank_transaction_rule.py:63
 msgid "Party is required create a payment entry."
 msgstr "É necessário ter uma parte para criar uma entrada de pagamento."
 
-#: apps/mint/mint/mint/doctype/mint_bank_transaction_rule/mint_bank_transaction_rule.py:59
+#: apps/mint/mint/mint/doctype/mint_bank_transaction_rule/mint_bank_transaction_rule.py:60
 msgid "Party type is required to create a payment entry."
 msgstr "O tipo de parte é necessário para criar uma entrada de pagamento."
 
@@ -321,11 +321,11 @@ msgstr "O tipo de parte é necessário para criar uma entrada de pagamento."
 msgid "Payment Entry"
 msgstr "Entrada de Pagamento"
 
-#: apps/mint/mint/mint/doctype/mint_bank_transaction_rule/mint_bank_transaction_rule.py:70
+#: apps/mint/mint/mint/doctype/mint_bank_transaction_rule/mint_bank_transaction_rule.py:71
 msgid "Please add an account for the Bank Entry rule."
 msgstr "Por favor, adicione uma conta para a regra de entrada bancária."
 
-#: apps/mint/mint/mint/doctype/mint_bank_transaction_rule/mint_bank_transaction_rule.py:73
+#: apps/mint/mint/mint/doctype/mint_bank_transaction_rule/mint_bank_transaction_rule.py:74
 msgid "Please configure accounts for the Bank Entry rule."
 msgstr "Por favor, configure as contas para a regra de entrada bancária."
 
@@ -374,11 +374,11 @@ msgctxt "Label of a Navbar Item"
 msgid "System Health"
 msgstr "Saúde do Sistema"
 
-#: DocType: Mint Bank Statement Import:0
+#: DocType: Mint Bank Statement Balance:0
 msgid "System Manager"
 msgstr "Administrador do Sistema"
 
-#: apps/mint/mint/mint/doctype/mint_bank_transaction_rule/mint_bank_transaction_rule.py:79
+#: apps/mint/mint/mint/doctype/mint_bank_transaction_rule/mint_bank_transaction_rule.py:80
 msgid "The last account row must not have any debit or credit amounts set."
 msgstr ""
 "A última linha da conta não deve ter nenhum valor de débito ou crédito "
@@ -433,3 +433,19 @@ msgstr "{0} {1} não existe"
 msgctxt "Workspace"
 msgid "Mint"
 msgstr "Hortelã"
+
+#: DocType: Mint Bank Statement Balance:0
+msgid "Accounts Manager"
+msgstr "Gerenciador de Contas"
+
+#: DocType: Mint Bank Statement Balance:0
+msgid "Accounts User"
+msgstr "Usuário de Contas"
+
+#: DocType: Mint Bank Statement Balance:0
+msgid "Balance"
+msgstr "Saldo"
+
+#: DocType: Mint Bank Statement Balance:0
+msgid "Mint Bank Statement Balance"
+msgstr "Saldo do Extrato Bancário do Mint"
