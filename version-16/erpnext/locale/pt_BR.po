@@ -24218,7 +24218,7 @@ msgstr "Preço de Compra Lista"
 
 #: apps/erpnext/erpnext/accounts/doctype/purchase_invoice/purchase_invoice.js:170
 msgid "Purchase Receipt"
-msgstr "Recibo de Compra"
+msgstr "Recebimento de Compra"
 
 #: DocType: Buying Settings:0
 msgid ""
@@ -38437,7 +38437,7 @@ msgstr "Campanha"
 
 #: apps/erpnext/erpnext/templates/pages/task_info.html:24
 msgid "Cancel"
-msgstr "cancelar"
+msgstr "Cancelar"
 
 #: DocType: Bank Transaction:0
 msgid "Cancelled"
@@ -38616,7 +38616,7 @@ msgstr "País"
 
 #: apps/erpnext/erpnext/accounts/doctype/dunning/dunning.js:55
 msgid "Create"
-msgstr "criar"
+msgstr "Criar"
 
 #: DocType: Tax Withholding Entry:0
 msgid "Created By Migration"
@@ -40463,7 +40463,7 @@ msgstr "Assunto"
 
 #: apps/erpnext/erpnext/accounts/doctype/payment_order/payment_order.js:139
 msgid "Submit"
-msgstr "enviar"
+msgstr "Submeter"
 
 #: DocType: Bank Statement Import:0
 msgid "Submit After Import"
