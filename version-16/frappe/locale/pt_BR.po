@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-02-01 09:41+0000\n"
-"PO-Revision-Date: 2026-02-04 00:00\n"
+"PO-Revision-Date: 2026-02-05 00:00\n"
 "Last-Translator: Translation Hub <ai@translationhub.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -99,7 +99,7 @@ msgstr "+ Adicionar / Remover Campos"
 
 #: DocType: Workflow Document State:0
 msgid "0 - Draft; 1 - Submitted; 2 - Cancelled"
-msgstr "0 - Rascunho; 1 - Enviado; 2 - Cancelado"
+msgstr "0 - Rascunho; 1 - Submetido; 2 - Cancelado"
 
 #: DocType: Web Page:0
 msgid "0 is highest"
@@ -3364,7 +3364,7 @@ msgstr "Não é possível remover"
 
 #: apps/frappe/frappe/model/base_document.py:1280
 msgid "Cannot Update After Submit"
-msgstr "Não é possível atualizar após o envio"
+msgstr "Não é possível atualizar depois de submetido "
 
 #: apps/frappe/frappe/core/doctype/file/file.py:653
 msgid "Cannot access file path {0}"
@@ -19486,7 +19486,7 @@ msgstr "Fila de Submissão"
 
 #: DocType: Custom DocPerm:0
 msgid "Submit"
-msgstr "enviar"
+msgstr "Submeter"
 
 #: DocType: Data Import:0
 msgid "Submit After Import"
@@ -27895,23 +27895,23 @@ msgstr "{0}."
 
 #~ msgctxt "Button in list view actions menu"
 #~ msgid "Submit"
-#~ msgstr "enviar"
+#~ msgstr "Submeter"
 
 #~ msgctxt "Button in web form"
 #~ msgid "Submit"
-#~ msgstr "enviar"
+#~ msgstr "Submeter"
 
 #~ msgctxt "Primary action in dialog"
 #~ msgid "Submit"
-#~ msgstr "enviar"
+#~ msgstr "Submeter"
 
 #~ msgctxt "Primary action of prompt dialog"
 #~ msgid "Submit"
-#~ msgstr "enviar"
+#~ msgstr "Submeter"
 
 #~ msgctxt "Submit password for Email Account"
 #~ msgid "Submit"
-#~ msgstr "enviar"
+#~ msgstr "Submeter"
 
 #~ msgid "System Health"
 #~ msgstr "Saúde do Sistema"
