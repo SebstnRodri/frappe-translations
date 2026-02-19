@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-24 12:16+0000\n"
-"PO-Revision-Date: 2026-01-31 16:35\n"
+"POT-Creation-Date: 2026-02-18 15:30+0553\n"
+"PO-Revision-Date: 2026-02-19 20:41\n"
 "Last-Translator: Translation Hub <ai@translationhub.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -425,7 +425,7 @@ msgstr "eu"
 msgid "us"
 msgstr "nós"
 
-#: apps/mint/mint/apis/bank_reconciliation.py:412
+#: apps/mint/mint/apis/bank_reconciliation.py:458
 msgid "{0} {1} does not exist"
 msgstr "{0} {1} não existe"
 
@@ -449,3 +449,7 @@ msgstr "Saldo"
 #: DocType: Mint Bank Statement Balance:0
 msgid "Mint Bank Statement Balance"
 msgstr "Saldo do Extrato Bancário do Mint"
+
+#: apps/mint/mint/www/mint.py:27
+msgid "This method is only meant for developer mode"
+msgstr "Este método destina-se apenas ao modo de desenvolvedor"
