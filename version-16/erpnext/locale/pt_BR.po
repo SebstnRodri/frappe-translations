@@ -3105,7 +3105,7 @@ msgstr "Gráfico de Análise"
 
 #: apps/erpnext/erpnext/public/js/utils.js:93
 msgid "Annual Billing: {0}"
-msgstr "Faturação Anual: {0}"
+msgstr "Faturamento Anual: {0}"
 
 #: apps/erpnext/erpnext/controllers/budget_controller.py:449
 msgid ""
@@ -4638,7 +4638,7 @@ msgstr "Devolver materiais crus de subcontratação com base em"
 
 #: apps/erpnext/erpnext/accounts/report/account_balance/account_balance.py:36
 msgid "Balance"
-msgstr "Balanço"
+msgstr "Saldo"
 
 #: apps/erpnext/erpnext/accounts/doctype/process_statement_of_accounts/process_statement_of_accounts.html:40
 msgid "Balance (Dr - Cr)"
@@ -30214,7 +30214,7 @@ msgstr "Exibir Contas de Grupo"
 
 #: DocType: Sales Partner:0
 msgid "Show In Website"
-msgstr "Exibir no Site"
+msgstr "Mostrar no Site"
 
 #: DocType: Accounts Settings:0
 msgid "Show Inclusive Tax in Print"
@@ -32022,7 +32022,7 @@ msgstr "O Ativo Alvo {0} não pode ser cancelado"
 
 #: apps/erpnext/erpnext/assets/doctype/asset_capitalization/asset_capitalization.py:224
 msgid "Target Asset {0} cannot be submitted"
-msgstr "O Ativo Alvo {0} não pode ser enviado"
+msgstr "O Ativo Alvo {0} não pode ser submetido"
 
 #: apps/erpnext/erpnext/assets/doctype/asset_capitalization/asset_capitalization.py:220
 msgid "Target Asset {0} cannot be {1}"
@@ -34972,7 +34972,7 @@ msgstr "UOM {0} não encontrada no item {1}"
 
 #: DocType: Item:0
 msgid "UOMs"
-msgstr ""
+msgstr "Unidades de Medida"
 
 #: DocType: Item Barcode:0
 msgid "UPC"
@@ -36174,7 +36174,7 @@ msgstr "Ativo Composto em Andamento"
 
 #: DocType: Work Order Operation:0
 msgid "WIP WH"
-msgstr ""
+msgstr "WIP WH"
 
 #: DocType: BOM Operation:0
 msgid "WIP Warehouse"
@@ -38437,7 +38437,7 @@ msgstr "Campanha"
 
 #: apps/erpnext/erpnext/templates/pages/task_info.html:24
 msgid "Cancel"
-msgstr "Cancelar"
+msgstr "cancelar"
 
 #: DocType: Bank Transaction:0
 msgid "Cancelled"
@@ -38572,7 +38572,7 @@ msgstr "Conexões"
 
 #: DocType: Payment Entry:0
 msgid "Consider for Tax Withholding"
-msgstr "Considerar para Retenção de Imposto "
+msgstr "Considerar para Retenção de Imposto"
 
 #: DocType: Journal Entry:0
 msgid "Consider for Tax Withholding "
@@ -38616,7 +38616,7 @@ msgstr "País"
 
 #: apps/erpnext/erpnext/accounts/doctype/dunning/dunning.js:55
 msgid "Create"
-msgstr "Criar"
+msgstr "criar"
 
 #: DocType: Tax Withholding Entry:0
 msgid "Created By Migration"
@@ -41364,52 +41364,52 @@ msgstr "Tendências de Pedidos de Venda"
 #: ../erpnext/erpnext/selling/dashboard_chart/top_customers/top_customers.json:0
 msgctxt "Dashboard Chart"
 msgid "Top Customers"
-msgstr ""
+msgstr "Principais Clientes"
 
 #: ../erpnext/erpnext/crm/dashboard_chart/lead_source/lead_source.json:0
 msgctxt "Dashboard Chart"
 msgid "Lead Source"
-msgstr ""
+msgstr "Fonte de Lead"
 
 #: ../erpnext/erpnext/crm/dashboard_chart/opportunity_trends/opportunity_trends.json:0
 msgctxt "Dashboard Chart"
 msgid "Opportunity Trends"
-msgstr ""
+msgstr "Tendências de Oportunidades"
 
 #: ../erpnext/erpnext/crm/dashboard_chart/territory_wise_opportunity_count/territory_wise_opportunity_count.json:0
 msgctxt "Dashboard Chart"
 msgid "Territory Wise Opportunity Count"
-msgstr ""
+msgstr "Contagem de Oportunidades por Território"
 
 #: ../erpnext/erpnext/crm/dashboard_chart/won_opportunities/won_opportunities.json:0
 msgctxt "Dashboard Chart"
 msgid "Won Opportunities"
-msgstr ""
+msgstr "Oportunidades Vencidas"
 
 #: ../erpnext/erpnext/crm/dashboard_chart/opportunities_via_campaigns/opportunities_via_campaigns.json:0
 msgctxt "Dashboard Chart"
 msgid "Opportunities via Campaigns"
-msgstr ""
+msgstr "Oportunidades via Campanhas"
 
 #: ../erpnext/erpnext/crm/dashboard_chart/incoming_leads/incoming_leads.json:0
 msgctxt "Dashboard Chart"
 msgid "Incoming Leads"
-msgstr ""
+msgstr "Leads de Entrada"
 
 #: ../erpnext/erpnext/crm/dashboard_chart/territory_wise_sales/territory_wise_sales.json:0
 msgctxt "Dashboard Chart"
 msgid "Territory Wise Sales"
-msgstr ""
+msgstr "Vendas por Território"
 
 #: ../erpnext/erpnext/projects/dashboard_chart/completed_projects/completed_projects.json:0
 msgctxt "Dashboard Chart"
 msgid "Completed Projects"
-msgstr ""
+msgstr "Projetos Concluídos"
 
 #: ../erpnext/erpnext/projects/dashboard_chart/project_summary/project_summary.json:0
 msgctxt "Dashboard Chart"
 msgid "Project Summary"
-msgstr ""
+msgstr "Resumo do Projeto"
 
 #~ msgid "  "
 #~ msgstr ""
@@ -41704,7 +41704,7 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "Completed Projects"
-#~ msgstr ""
+#~ msgstr "Projetos Concluídos"
 
 #~ msgid "Consider Entire Party Ledger Amount"
 #~ msgstr ""
@@ -42164,7 +42164,7 @@ msgstr ""
 #~ msgstr "Tempo de Conversão de Lead"
 
 #~ msgid "Lead Source"
-#~ msgstr ""
+#~ msgstr "Fonte de Lead"
 
 #~ msgid "Learn Inventory Management"
 #~ msgstr ""
@@ -42701,7 +42701,7 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "Territory Wise Sales"
-#~ msgstr ""
+#~ msgstr "Vendas por Território"
 
 #~ msgid "Tesla"
 #~ msgstr ""
