@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-02-15 09:42+0000\n"
-"PO-Revision-Date: 2026-02-19 20:39\n"
+"PO-Revision-Date: 2026-02-19 20:44\n"
 "Last-Translator: Translation Hub <ai@translationhub.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -10277,7 +10277,7 @@ msgstr "Nome de Campo Inválido"
 
 #: apps/frappe/frappe/core/doctype/file/file.py:231
 msgid "Invalid File URL"
-msgstr "URL de arquivo inválida"
+msgstr "URL de arquivo inválido"
 
 #: apps/frappe/frappe/database/query.py:810
 msgid "Invalid Filter"
@@ -13325,7 +13325,7 @@ msgstr "Nenhum {0}"
 
 #: apps/frappe/frappe/public/js/frappe/web_form/web_form_list.js:240
 msgid "No {0} found"
-msgstr "Nenhum {0} Encontrado"
+msgstr "Nenhum {0} encontrado"
 
 #: apps/frappe/frappe/public/js/frappe/list/list_view.js:512
 msgid "No {0} found with matching filters. Clear filters to see all {0}."
