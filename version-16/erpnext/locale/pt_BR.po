@@ -9652,7 +9652,7 @@ msgstr "Tendência de Remessas"
 
 #: apps/erpnext/erpnext/accounts/doctype/sales_invoice/sales_invoice.py:1406
 msgid "Delivery Note {0} is not submitted"
-msgstr "A Guia de Remessa {0} não foi enviada"
+msgstr "Nota de Entrega {0} não foi submetida"
 
 #: apps/erpnext/erpnext/stock/doctype/delivery_trip/delivery_trip.js:73
 msgid "Delivery Notes"
