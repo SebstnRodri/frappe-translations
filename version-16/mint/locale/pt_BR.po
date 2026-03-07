@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-18 15:30+0553\n"
-"PO-Revision-Date: 2026-02-19 20:41\n"
+"POT-Creation-Date: 2026-02-24 16:10+0553\n"
+"PO-Revision-Date: 2026-03-07 15:51\n"
 "Last-Translator: Translation Hub <ai@translationhub.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -41,7 +41,7 @@ msgstr "Todas as linhas devem ter um valor e um tipo. Faltando na linha {0}"
 msgid "Amended From"
 msgstr "Alterado De"
 
-#: DocType: Mint Bank Statement Import Transactions:0
+#: DocType: Mint Bank Statement Import Template Columns:0
 msgid "Amount"
 msgstr "Valor"
 
@@ -118,11 +118,11 @@ msgstr "Data "
 msgid "Debit"
 msgstr "Débito"
 
-#: DocType: Mint Bank Statement Import Transactions:0
+#: DocType: Mint Bank Statement Import Template Columns:0
 msgid "Deposit"
 msgstr "Depósito"
 
-#: DocType: Mint Bank Statement Import Transactions:0
+#: DocType: Mint Bank Statement Import Template Columns:0
 msgid "Description"
 msgstr "descrição"
 
@@ -337,7 +337,7 @@ msgstr "Por favor, faça o upload de um arquivo"
 msgid "Priority"
 msgstr "Prioridade"
 
-#: DocType: Mint Bank Statement Import Transactions:0
+#: DocType: Mint Bank Statement Import Template Columns:0
 msgid "Reference"
 msgstr "Referência"
 
@@ -384,7 +384,7 @@ msgstr ""
 "A última linha da conta não deve ter nenhum valor de débito ou crédito "
 "definido."
 
-#: DocType: Mint Bank Transaction Rule:0
+#: DocType: Mint Bank Statement Import Template Columns:0
 msgid "Transaction Type"
 msgstr "Tipo de Transação"
 
@@ -413,7 +413,7 @@ msgstr "Configurações do Usuário"
 msgid "Value"
 msgstr "Valor"
 
-#: DocType: Mint Bank Statement Import Transactions:0
+#: DocType: Mint Bank Statement Import Template Columns:0
 msgid "Withdrawal"
 msgstr "Saída"
 
@@ -453,3 +453,122 @@ msgstr "Saldo do Extrato Bancário do Mint"
 #: apps/mint/mint/www/mint.py:27
 msgid "This method is only meant for developer mode"
 msgstr "Este método destina-se apenas ao modo de desenvolvedor"
+
+#: DocType: Mint Bank Statement Import Template:0
+msgid "Amount is expressed as"
+msgstr "O valor é expresso como"
+
+#: apps/mint/mint/apis/statement_import.py:148
+msgid "Bank statement imported successfully."
+msgstr "Extrato bancário importado com sucesso."
+
+#: DocType: Mint Bank Statement Import Log:0
+msgid "Closing Balance"
+msgstr "Saldo Final"
+
+#: DocType: Mint Bank Statement Import Template:0
+msgid "Column Mapping"
+msgstr "Mapeamento de Colunas"
+
+#: DocType: Mint Bank Statement Import Template:0
+msgid "Consider amount as deposit if"
+msgstr "Considerar o valor como depósito se"
+
+#: DocType: Mint Bank Statement Import Template:0
+msgid "Contains Cr/Dr"
+msgstr "Contém Cr/Débito"
+
+#: DocType: Mint Bank Statement Import Template Columns:0
+msgid "Do not import"
+msgstr "Não importar"
+
+#: DocType: Mint Bank Statement Import Log:0
+msgid "End Date"
+msgstr "Data de Fim"
+
+#: DocType: Mint Bank Statement Import Template:0
+msgid "Excel/CSV"
+msgstr "Excel/CSV"
+
+#: DocType: Mint Bank Statement Import Template:0
+msgid "Header Index"
+msgstr "Índice do Cabeçalho"
+
+#: DocType: Mint Bank Statement Import Template Columns:0
+msgid "Header Text"
+msgstr "Texto do Cabeçalho"
+
+#: apps/mint/mint/apis/statement_import.py:162
+msgid "Import template should be of type .csv, .xlsx or .xls"
+msgstr "O modelo de importação deve ser do tipo .csv, .xlsx ou .xls"
+
+#: DocType: Mint Bank Statement Import Template:0
+msgid "Index count starts from 0"
+msgstr "A contagem de índice começa em 0"
+
+#: DocType: Mint Bank Statement Import Template Columns:0
+msgid "Maps To"
+msgstr "Mapeia para"
+
+#: DocType: Mint Bank Statement Import Log:0
+msgid "Mint Bank Statement Import Log"
+msgstr "Registro de Importação de Extrato Bancário Mint"
+
+#: DocType: Mint Bank Statement Import Template:0
+msgid "Mint Bank Statement Import Template"
+msgstr "Modelo de Importação de Extrato Bancário Mint"
+
+#: DocType: Mint Bank Statement Import Template Columns:0
+msgid "Mint Bank Statement Import Template Columns"
+msgstr "Colunas do Modelo de Importação de Extrato Bancário Mint"
+
+#: DocType: Mint Bank Statement Import Log:0
+msgid "Number of Transactions"
+msgstr "Número de Transações"
+
+#: DocType: Mint Bank Statement Import Template:0
+msgid "Positive/Negative Value"
+msgstr "Valor Positivo/Negativo"
+
+#: DocType: Mint Bank Statement Import Template:0
+msgid "Settings"
+msgstr "Configurações"
+
+#: DocType: Mint Bank Statement Import Log:0
+msgid "Start Date"
+msgstr "Data de Início"
+
+#: DocType: Mint Bank Statement Import Template:0
+msgid "Statement Type"
+msgstr "Tipo de Extrato"
+
+#: apps/mint/mint/apis/statement_import.py:95
+msgid "The bank account is disabled. Please enable it"
+msgstr "A conta bancária está desabilitada. Por favor, habilite-a"
+
+#: apps/mint/mint/apis/statement_import.py:92
+msgid ""
+"The bank account is not a company account. Please select a company account"
+msgstr ""
+"A conta bancária não é uma conta da empresa. Por favor, selecione uma conta "
+"da empresa"
+
+#: DocType: Mint Bank Statement Import Template:0
+msgid "Transaction Type containing Cr/Dr"
+msgstr "Tipo de Transação contendo Cr/Déb"
+
+#: DocType: Mint Bank Statement Import Template:0
+msgid "Transaction Type containing Deposit/Withdrawal"
+msgstr "Tipo de Transação contendo Depósito/Saque"
+
+#: DocType: Mint Bank Statement Import Template Columns:0
+msgid "Variable"
+msgstr "Variável"
+
+#: apps/mint/mint/apis/statement_import.py:86
+msgid "You do not have permission to import and submit bank transactions"
+msgstr "Você não tem permissão para importar e submeter transações bancárias"
+
+#: apps/mint/mint/apis/statement_import.py:80
+msgid "You do not have permission to import bank transactions"
+msgstr "Você não tem permissão para importar transações bancárias"
