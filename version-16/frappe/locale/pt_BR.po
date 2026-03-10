@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-02-22 09:42+0000\n"
-"PO-Revision-Date: 2026-03-07 15:50\n"
+"PO-Revision-Date: 2026-03-10 08:17\n"
 "Last-Translator: Translation Hub <ai@translationhub.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -9327,7 +9327,7 @@ msgstr "Nome legível para exibição ao usuário final."
 
 #: DocType: User Session Display:0
 msgid "ID"
-msgstr "ID"
+msgstr "Id"
 
 #: apps/frappe/frappe/public/js/print_format_builder/PrintFormatControls.vue:169
 msgid "ID (name)"
@@ -27973,7 +27973,7 @@ msgstr "Ativar Acesso ao Assistente"
 
 #~ msgctxt "Label of name column in report"
 #~ msgid "ID"
-#~ msgstr "ID"
+#~ msgstr "Id"
 
 #~ msgctxt "Button in list view menu"
 #~ msgid "Import"
