@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-02-24 16:10+0553\n"
-"PO-Revision-Date: 2026-03-07 15:51\n"
+"PO-Revision-Date: 2026-03-11 07:53\n"
 "Last-Translator: Translation Hub <ai@translationhub.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -33,7 +33,7 @@ msgstr "Contas"
 msgid "Action"
 msgstr "Ação"
 
-#: apps/mint/mint/mint/doctype/mint_bank_statement_import/mint_bank_statement_import.py:80
+#: apps/mint/mint/mint/doctype/mint_bank_statement_import/mint_bank_statement_import.py:84
 msgid "All rows must have an amount and a type. Missing in row {0}"
 msgstr "Todas as linhas devem ter um valor e um tipo. Faltando na linha {0}"
 
@@ -213,7 +213,7 @@ msgstr "Se marcado, este trabalho será executado a cada 30 minutos"
 msgid "Imported"
 msgstr "Importado"
 
-#: apps/mint/mint/mint/doctype/mint_bank_statement_import/mint_bank_statement_import.py:56
+#: apps/mint/mint/mint/doctype/mint_bank_statement_import/mint_bank_statement_import.py:60
 msgid "Invalid file type"
 msgstr "Tipo de arquivo inválido"
 
@@ -225,11 +225,6 @@ msgstr "Padrão de regex inválido."
 msgctxt "Label of a Navbar Item"
 msgid "Keyboard Shortcuts"
 msgstr "Atalhos de Teclado"
-
-#: Navbar::0
-msgctxt "Label of a Navbar Item"
-msgid "Log out"
-msgstr "Sair"
 
 #: DocType: Mint Settings:0
 msgid "Match Transfers across (days)"
@@ -279,7 +274,7 @@ msgstr "Contas da Regra de Transação do Mint"
 msgid "Multiple Accounts"
 msgstr "Múltiplas Contas"
 
-#: apps/mint/mint/mint/doctype/mint_bank_statement_import/mint_bank_statement_import.py:84
+#: apps/mint/mint/mint/doctype/mint_bank_statement_import/mint_bank_statement_import.py:88
 msgid "No transactions found"
 msgstr "Nenhuma transação encontrada"
 
@@ -329,7 +324,7 @@ msgstr "Por favor, adicione uma conta para a regra de entrada bancária."
 msgid "Please configure accounts for the Bank Entry rule."
 msgstr "Por favor, configure as contas para a regra de entrada bancária."
 
-#: apps/mint/mint/mint/doctype/mint_bank_statement_import/mint_bank_statement_import.py:51
+#: apps/mint/mint/mint/doctype/mint_bank_statement_import/mint_bank_statement_import.py:55
 msgid "Please upload a file"
 msgstr "Por favor, faça o upload de um arquivo"
 
@@ -404,11 +399,6 @@ msgstr "Tipo"
 msgid "User Remark"
 msgstr "Observação do Usuário"
 
-#: Navbar::0
-msgctxt "Label of a Navbar Item"
-msgid "User Settings"
-msgstr "Configurações do Usuário"
-
 #: DocType: Mint Bank Transaction Description Rules:0
 msgid "Value"
 msgstr "Valor"
@@ -458,7 +448,7 @@ msgstr "Este método destina-se apenas ao modo de desenvolvedor"
 msgid "Amount is expressed as"
 msgstr "O valor é expresso como"
 
-#: apps/mint/mint/apis/statement_import.py:148
+#: apps/mint/mint/apis/statement_import.py:146
 msgid "Bank statement imported successfully."
 msgstr "Extrato bancário importado com sucesso."
 
@@ -498,7 +488,7 @@ msgstr "Índice do Cabeçalho"
 msgid "Header Text"
 msgstr "Texto do Cabeçalho"
 
-#: apps/mint/mint/apis/statement_import.py:162
+#: apps/mint/mint/apis/statement_import.py:160
 msgid "Import template should be of type .csv, .xlsx or .xls"
 msgstr "O modelo de importação deve ser do tipo .csv, .xlsx ou .xls"
 
@@ -542,11 +532,11 @@ msgstr "Data de Início"
 msgid "Statement Type"
 msgstr "Tipo de Extrato"
 
-#: apps/mint/mint/apis/statement_import.py:95
+#: apps/mint/mint/apis/statement_import.py:93
 msgid "The bank account is disabled. Please enable it"
 msgstr "A conta bancária está desabilitada. Por favor, habilite-a"
 
-#: apps/mint/mint/apis/statement_import.py:92
+#: apps/mint/mint/apis/statement_import.py:90
 msgid ""
 "The bank account is not a company account. Please select a company account"
 msgstr ""
@@ -565,10 +555,27 @@ msgstr "Tipo de Transação contendo Depósito/Saque"
 msgid "Variable"
 msgstr "Variável"
 
-#: apps/mint/mint/apis/statement_import.py:86
+#: apps/mint/mint/apis/statement_import.py:84
 msgid "You do not have permission to import and submit bank transactions"
 msgstr "Você não tem permissão para importar e submeter transações bancárias"
 
-#: apps/mint/mint/apis/statement_import.py:80
+#: apps/mint/mint/apis/statement_import.py:78
 msgid "You do not have permission to import bank transactions"
 msgstr "Você não tem permissão para importar transações bancárias"
+
+#: Navbar::0
+msgctxt "Label of a Navbar Item"
+msgid "Clear Demo Data"
+msgstr "Limpar Dados de Demonstração"
+
+#: DocType: Mint Bank Statement Import:0
+msgid "Currency"
+msgstr "Moeda"
+
+#~ msgctxt "Label of a Navbar Item"
+#~ msgid "Log out"
+#~ msgstr "Sair"
+
+#~ msgctxt "Label of a Navbar Item"
+#~ msgid "User Settings"
+#~ msgstr "Configurações do Usuário"
