@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-03-08 09:42+0000\n"
-"PO-Revision-Date: 2026-03-11 07:53\n"
+"PO-Revision-Date: 2026-03-12 07:34\n"
 "Last-Translator: Translation Hub <ai@translationhub.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -42199,6 +42199,10 @@ msgstr "{0} itens devolvidos"
 #: apps/erpnext/erpnext/manufacturing/doctype/work_order/work_order.js:491
 msgid "{0} items to return"
 msgstr "{0} itens a devolver"
+
+#: DocType: Purchase Invoice:0
+msgid "Cartão Corporativo"
+msgstr "Cartão Corporativo"
 
 #~ msgid "Adjust Asset Value"
 #~ msgstr "Ajustar Valor do Ativo"
