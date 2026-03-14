@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-03-08 09:42+0000\n"
-"PO-Revision-Date: 2026-03-13 08:45\n"
+"PO-Revision-Date: 2026-03-14 07:58\n"
 "Last-Translator: Translation Hub <ai@translationhub.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -19835,7 +19835,7 @@ msgid "Opportunity Source"
 msgstr "Fonte da Oportunidade"
 
 msgid "Opportunity Summary by Sales Stage"
-msgstr "Resumo de Oportunidades por Estágio de Vendas "
+msgstr "Resumo de Oportunidades por Estágio de Venda"
 
 #: DocType: Opportunity:0
 msgid "Opportunity Type"
@@ -38846,7 +38846,7 @@ msgstr "Por Hora"
 
 #: DocType: Call Log:0
 msgid "ID"
-msgstr "Id"
+msgstr "ID"
 
 #: DocType: Contract:0
 msgid "IP Address"
@@ -38859,7 +38859,7 @@ msgstr "ISS-.YYYY.-"
 #: apps/erpnext/erpnext/stock/report/incorrect_balance_qty_after_transaction/incorrect_balance_qty_after_transaction.py:83
 msgctxt "d"
 msgid "Id"
-msgstr "Id"
+msgstr "ID"
 
 #: DocType: BOM Operation:0
 msgid ""
@@ -42606,7 +42606,7 @@ msgstr "Cartão Corporativo"
 #~ msgstr "Aplicar TDS"
 
 #~ msgid "Apply Tax Withholding Amount"
-#~ msgstr "Aplicar Valor de Retenção Fiscal "
+#~ msgstr "Aplicar Valor de Retenção de Imposto"
 
 #~ msgid "Apply Tax Withholding Amount "
 #~ msgstr ""
