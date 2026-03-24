@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-03-15 09:43+0000\n"
-"PO-Revision-Date: 2026-03-23 20:39\n"
+"PO-Revision-Date: 2026-03-24 14:53\n"
 "Last-Translator: Translation Hub <ai@translationhub.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -9323,7 +9323,7 @@ msgstr "Nome legível para exibição ao usuário final."
 
 #: DocType: User Session Display:0
 msgid "ID"
-msgstr "Id"
+msgstr "ID"
 
 #: apps/frappe/frappe/public/js/print_format_builder/PrintFormatControls.vue:169
 msgid "ID (name)"
@@ -26526,31 +26526,31 @@ msgstr "Mostrar Mais Atividades"
 msgid "User does not exist"
 msgstr "Usuário não existe"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:39164
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:39152
 msgid "00ee"
 msgstr "00ee"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:38762
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:38750
 msgid "057f"
 msgstr "057f"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37419
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37407
 msgid "06cf"
 msgstr "06cf"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37247
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37235
 msgid "0cfb"
 msgstr "0cfb"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:40077
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:40065
 msgid "13d5"
 msgstr "13d5"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37771
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37759
 msgid "14c3"
 msgstr "14c3"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:39936
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:39924
 msgid "159b"
 msgstr "159b"
 
@@ -26559,7 +26559,7 @@ msgctxt "Image Cropper"
 msgid "16:9"
 msgstr "16:9"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37308
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37296
 msgid "17c2"
 msgstr "17c2"
 
@@ -26568,87 +26568,87 @@ msgctxt "Image Cropper"
 msgid "1:1"
 msgstr "1:1"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:38152
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:38140
 msgid "1be4"
 msgstr "1be4"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37196
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37184
 msgid "1c0b"
 msgstr "1c0b"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:39026
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:39014
 msgid "1c7e"
 msgstr "1c7e"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37495
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37483
 msgid "1d80"
 msgstr "1d80"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37690
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37678
 msgid "1dde"
 msgstr "1dde"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37660
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37648
 msgid "23cb"
 msgstr "23cb"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37275
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37263
 msgid "23e7"
 msgstr "23e7"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37226
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37214
 msgid "241c"
 msgstr "241c"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:40023
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:40011
 msgid "25f0"
 msgstr "25f0"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:40113
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:40101
 msgid "2ca0"
 msgstr "2ca0"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37395
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37383
 msgid "2d00"
 msgstr "2d00"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37517
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37505
 msgid "342f"
 msgstr "342f"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37708
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37696
 msgid "35a1"
 msgstr "35a1"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:38149
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:38137
 msgid "37e8"
 msgstr "37e8"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:39454
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:39442
 msgid "3bbe"
 msgstr "3bbe"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:39991
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:39979
 msgid "3ca3"
 msgstr "3ca3"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37541
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37529
 msgid "3f8c"
 msgstr "3f8c"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:38118
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:38106
 msgid "428f"
 msgstr "428f"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:39226
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:39214
 msgid "44ad"
 msgstr "44ad"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:38111
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:38099
 msgid "44d2"
 msgstr "44d2"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37908
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37896
 msgid "44e7"
 msgstr "44e7"
 
@@ -26657,127 +26657,127 @@ msgctxt "Image Cropper"
 msgid "4:3"
 msgstr "4:3"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:39349
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:39337
 msgid "4d64"
 msgstr "4d64"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:39931
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:39919
 msgid "4de4"
 msgstr "4de4"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:39025
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:39013
 msgid "4df4"
 msgstr "4df4"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:40078
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:40066
 msgid "4fad"
 msgstr "4fad"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37493
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37481
 msgid "50c4"
 msgstr "50c4"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:39653
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:39641
 msgid "56ef"
 msgstr "56ef"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37494
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37482
 msgid "5a34"
 msgstr "5a34"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37243
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37231
 msgid "5c6c"
 msgstr "5c6c"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:40094
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:40082
 msgid "5db7"
 msgstr "5db7"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37933
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37921
 msgid "65f0"
 msgstr "65f0"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37577
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37565
 msgid "69f3"
 msgstr "69f3"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37421
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37409
 msgid "6eeb"
 msgstr "6eeb"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37742
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37730
 msgid "6f53"
 msgstr "6f53"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:40095
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:40083
 msgid "73d9"
 msgstr "73d9"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:38775
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:38763
 msgid "746f"
 msgstr "746f"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37703
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37691
 msgid "7b0b"
 msgstr "7b0b"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37627
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37615
 msgid "7c73"
 msgstr "7c73"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37578
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37566
 msgid "7dd0"
 msgstr "7dd0"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37987
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37975
 msgid "7f9a"
 msgstr "7f9a"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37469
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37457
 msgid "825a"
 msgstr "825a"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37241
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37229
 msgid "83ab"
 msgstr "83ab"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37566
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37554
 msgid "861d"
 msgstr "861d"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37770
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37758
 msgid "8aa5"
 msgstr "8aa5"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:40267
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:40255
 msgid "8bbf"
 msgstr "8bbf"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:38772
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:38760
 msgid "90e3"
 msgstr "90e3"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37424
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37412
 msgid "94ca"
 msgstr "94ca"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:39930
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:39918
 msgid "99af"
 msgstr "99af"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37704
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37692
 msgid "9bdd"
 msgstr "9bdd"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37551
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37539
 msgid "9bf2"
 msgstr "9bf2"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:38213
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:38201
 msgid "9ed3"
 msgstr "9ed3"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:38432
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:38420
 msgid "9f7f"
 msgstr "9f7f"
 
@@ -26785,239 +26785,239 @@ msgstr "9f7f"
 msgid "Updated To A New Version u{1F389}"
 msgstr "Atualizado para uma nova versão u{1F389}"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37929
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37917
 msgid "a2bf"
 msgstr "a2bf"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:40065
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:40053
 msgid "a352"
 msgstr "a352"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:39935
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:39923
 msgid "a434"
 msgstr "a434"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:39937
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:39925
 msgid "a4d3"
 msgstr "a4d3"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:40020
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:40008
 msgid "a630"
 msgstr "a630"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37277
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37265
 msgid "a640"
 msgstr "a640"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37409
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37397
 msgid "a691"
 msgstr "a691"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37496
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37484
 msgid "ab13"
 msgstr "ab13"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:39534
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:39522
 msgid "ac1f"
 msgstr "ac1f"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37471
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37459
 msgid "ad6d"
 msgstr "ad6d"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37278
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37266
 msgid "ae40"
 msgstr "ae40"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:38222
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:38210
 msgid "ae93"
 msgstr "ae93"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:39479
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:39467
 msgid "b041"
 msgstr "b041"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:40022
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:40010
 msgid "b0c0"
 msgstr "b0c0"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37189
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37177
 msgid "b622"
 msgstr "b622"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:39940
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:39928
 msgid "b64b"
 msgstr "b64b"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37323
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37311
 msgid "b727"
 msgstr "b727"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37245
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37233
 msgid "c04e"
 msgstr "c04e"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37497
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37485
 msgid "c430"
 msgstr "c430"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37288
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37276
 msgid "c6b6"
 msgstr "c6b6"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37887
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37875
 msgid "c6cd"
 msgstr "c6cd"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:40165
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:40153
 msgid "c740"
 msgstr "c740"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:39648
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:39636
 msgid "c8ba"
 msgstr "c8ba"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:39933
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:39921
 msgid "c975"
 msgstr "c975"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37459
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37447
 msgid "ca84"
 msgstr "ca84"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:40112
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:40100
 msgid "caad"
 msgstr "caad"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37264
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37252
 msgid "cc12"
 msgstr "cc12"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37422
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37410
 msgid "ce4e"
 msgstr "ce4e"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37993
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37981
 msgid "d012"
 msgstr "d012"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37263
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37251
 msgid "d039"
 msgstr "d039"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37333
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37321
 msgid "d066"
 msgstr "d066"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37242
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37230
 msgid "d1e7"
 msgstr "d1e7"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:39988
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:39976
 msgid "d28b"
 msgstr "d28b"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:38215
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:38203
 msgid "d2bb"
 msgstr "d2bb"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:39990
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:39978
 msgid "d3b7"
 msgstr "d3b7"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:38216
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:38204
 msgid "d44e"
 msgstr "d44e"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37276
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37264
 msgid "d58f"
 msgstr "d58f"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37764
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37752
 msgid "d784"
 msgstr "d784"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:39934
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:39922
 msgid "d81d"
 msgstr "d81d"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37306
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37294
 msgid "da84"
 msgstr "da84"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:39939
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:39927
 msgid "dbb4"
 msgstr "dbb4"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:40076
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:40064
 msgid "dbf1"
 msgstr "dbf1"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:39992
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:39980
 msgid "ddb0"
 msgstr "ddb0"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37553
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37541
 msgid "df75"
 msgstr "df75"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:39987
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:39975
 msgid "e01a"
 msgstr "e01a"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:38214
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:38202
 msgid "e163"
 msgstr "e163"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:39775
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:39763
 msgid "e177"
 msgstr "e177"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:39692
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:39680
 msgid "e260"
 msgstr "e260"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:39938
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:39926
 msgid "e439"
 msgstr "e439"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:38120
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:38108
 msgid "e538"
 msgstr "e538"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37423
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37411
 msgid "e893"
 msgstr "e893"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37968
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37956
 msgid "e8b5"
 msgstr "e8b5"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37705
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37693
 msgid "e95a"
 msgstr "e95a"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37540
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37528
 msgid "f5df"
 msgstr "f5df"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37992
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37980
 msgid "f772"
 msgstr "f772"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:40021
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:40009
 msgid "fb6a"
 msgstr "fb6a"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37225
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37213
 msgid "fc6a"
 msgstr "fc6a"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:37307
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:37295
 msgid "fdbc"
 msgstr "fdbc"
 
-#: apps/frappe/frappe/public/dist/js/form_builder.bundle.Z3HSXWMS.js:38749
+#: apps/frappe/frappe/public/dist/js/print_format_builder.bundle.OMZ4SQXI.js:38737
 msgid "fdbf"
 msgstr "fdbf"
 
@@ -28063,7 +28063,7 @@ msgstr "{0} documentos restritos"
 
 #~ msgctxt "Label of name column in report"
 #~ msgid "ID"
-#~ msgstr "Id"
+#~ msgstr "ID"
 
 #~ msgctxt "Button in list view menu"
 #~ msgid "Import"
