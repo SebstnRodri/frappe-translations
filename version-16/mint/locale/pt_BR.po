@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-02-24 16:10+0553\n"
-"PO-Revision-Date: 2026-03-11 07:53\n"
+"PO-Revision-Date: 2026-03-25 19:43\n"
 "Last-Translator: Translation Hub <ai@translationhub.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -563,14 +563,18 @@ msgstr "Você não tem permissão para importar e submeter transações bancári
 msgid "You do not have permission to import bank transactions"
 msgstr "Você não tem permissão para importar transações bancárias"
 
-#: Navbar::0
-msgctxt "Label of a Navbar Item"
-msgid "Clear Demo Data"
-msgstr "Limpar Dados de Demonstração"
-
 #: DocType: Mint Bank Statement Import:0
 msgid "Currency"
 msgstr "Moeda"
+
+#: Navbar::0
+msgctxt "Label of a Navbar Item"
+msgid "Delete Demo Data"
+msgstr "Excluir Dados de Demonstração"
+
+#~ msgctxt "Label of a Navbar Item"
+#~ msgid "Clear Demo Data"
+#~ msgstr "Limpar Dados de Demonstração"
 
 #~ msgctxt "Label of a Navbar Item"
 #~ msgid "Log out"
