@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-12-09 12:39\n"
-"PO-Revision-Date: 2026-03-11 07:53\n"
+"PO-Revision-Date: 2026-03-25 19:42\n"
 "Last-Translator: Translation Hub <ai@translationhub.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -1537,8 +1537,12 @@ msgstr "🔄 Solicitar Retradução da IA"
 
 #: Navbar::0
 msgctxt "Label of a Navbar Item"
-msgid "Clear Demo Data"
-msgstr "Limpar Dados de Demonstração"
+msgid "Delete Demo Data"
+msgstr "Excluir Dados de Demonstração"
+
+#~ msgctxt "Label of a Navbar Item"
+#~ msgid "Clear Demo Data"
+#~ msgstr "Limpar Dados de Demonstração"
 
 #~ msgctxt "Label of a Navbar Item"
 #~ msgid "Apps"
