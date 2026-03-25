@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-03-22 09:44+0000\n"
-"PO-Revision-Date: 2026-03-24 14:53\n"
+"PO-Revision-Date: 2026-03-25 19:42\n"
 "Last-Translator: Translation Hub <ai@translationhub.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -19823,7 +19823,7 @@ msgid "Opportunity Source"
 msgstr "Fonte da Oportunidade"
 
 msgid "Opportunity Summary by Sales Stage"
-msgstr "Resumo de Oportunidades por Estágio de Venda"
+msgstr "Resumo de Oportunidades por Estágio de Vendas"
 
 #: DocType: Opportunity:0
 msgid "Opportunity Type"
@@ -23576,10 +23576,6 @@ msgstr "Pedido de Venda do Plano de Produção"
 
 #: DocType: Purchase Order Item:0
 msgid "Production Plan Sub Assembly Item"
-msgstr "Item de Submontagem do Plano de Produção"
-
-#: DocType: Work Order:0
-msgid "Production Plan Sub-assembly Item"
 msgstr "Item de Submontagem do Plano de Produção"
 
 #: apps/erpnext/erpnext/manufacturing/doctype/production_plan/production_plan.js:110
@@ -42184,11 +42180,6 @@ msgstr ""
 "Não é possível desativar {0}, pois isso pode levar a uma incorreta valoração"
 " de estoque."
 
-#: Navbar::0
-msgctxt "Label of a Navbar Item"
-msgid "Clear Demo Data"
-msgstr "Limpar Dados de Demonstração"
-
 #: apps/erpnext/erpnext/public/dist/js/erpnext.bundle.PSPZRQ54.js:11237
 msgid "Delete Demo Data"
 msgstr "Excluir Dados de Demonstração"
@@ -42253,6 +42244,17 @@ msgstr "{0} pode ser {1} ou {2}."
 #: apps/erpnext/erpnext/stock/doctype/serial_and_batch_bundle/serial_and_batch_bundle.py:1742
 msgid "{0} is not a CSV file."
 msgstr "{0} não é um arquivo CSV."
+
+#: DocType: Support Settings:0
+msgid "Set this value to 0 to disable the feature."
+msgstr "Defina este valor como 0 para desativar o recurso."
+
+#~ msgid "Production Plan Sub-assembly Item"
+#~ msgstr "Item de Submontagem do Plano de Produção"
+
+#~ msgctxt "Label of a Navbar Item"
+#~ msgid "Clear Demo Data"
+#~ msgstr "Limpar Dados de Demonstração"
 
 #~ msgid "Clear Demo Data"
 #~ msgstr "Limpar Dados de Demonstração"
@@ -42677,7 +42679,7 @@ msgstr "{0} não é um arquivo CSV."
 #~ msgstr "Aplicar TDS"
 
 #~ msgid "Apply Tax Withholding Amount"
-#~ msgstr "Aplicar Valor de Retenção de Imposto"
+#~ msgstr "Aplicar Valor de Retenção Tributária "
 
 #~ msgid "Apply Tax Withholding Amount "
 #~ msgstr ""
