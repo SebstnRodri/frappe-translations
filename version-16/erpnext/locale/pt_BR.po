@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-03-29 09:46+0000\n"
-"PO-Revision-Date: 2026-04-01 08:27\n"
+"PO-Revision-Date: 2026-04-02 07:47\n"
 "Last-Translator: Translation Hub <ai@translationhub.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -2244,10 +2244,6 @@ msgstr "Filtragem Avançada"
 msgid "Advances"
 msgstr "Adiantamentos"
 
-#: DocType: Repost Item Valuation:0
-msgid "Affected Transactions"
-msgstr "Transações Afetadas"
-
 #: DocType: GL Entry:0
 msgid "Against"
 msgstr "Contra"
@@ -4479,12 +4475,6 @@ msgstr "Item de Sucata de BOM"
 
 msgid "BOM Search"
 msgstr "Pesquisar LDM"
-
-msgid "BOM Stock Calculated"
-msgstr "Bom Estoque Calculado"
-
-msgid "BOM Stock Report"
-msgstr "Relatório de Estoque Por LDM"
 
 #: DocType: BOM Creator:0
 msgid "BOM Tree"
@@ -7069,7 +7059,7 @@ msgstr "Nome da empresa não pode ser Empresa"
 msgid "Company Not Linked"
 msgstr "Empresa Não Vinculada"
 
-#: DocType: Subcontracting Order:0
+#: DocType: Request for Quotation:0
 msgid "Company Shipping Address"
 msgstr "Endereço de Expedição da Empresa"
 
@@ -8085,7 +8075,7 @@ msgstr "Criar Modelo de Imposto"
 msgid "Create Timesheet"
 msgstr "Criar Quadro de Horários"
 
-#: DocType: Employee:0
+#: apps/erpnext/erpnext/setup/doctype/employee/employee.js:50
 msgid "Create User"
 msgstr "Criar Usuário"
 
@@ -8124,10 +8114,6 @@ msgstr "Criar orçamentos de clientes"
 #: DocType: Accounts Settings:0
 msgid "Create in Draft Status"
 msgstr "Criar como Rascunho"
-
-#: DocType: Opening Invoice Creation Tool:0
-msgid "Create missing customer or supplier."
-msgstr "Criar cliente ou fornecedor ausente."
 
 #: apps/erpnext/erpnext/public/dist/js/erpnext.bundle.PSPZRQ54.js:9195
 msgid "Create {0} {1} ?"
@@ -10260,10 +10246,6 @@ msgstr "Distância da borda esquerda"
 msgid "Distance from top edge"
 msgstr "Distância da borda superior"
 
-#: DocType: Repost Item Valuation:0
-msgid "Distinct Item and Warehouse"
-msgstr "Item e Armazém Distintos"
-
 #: DocType: Serial No:0
 msgid "Distinct unit of an Item"
 msgstr "Unidade distinta de um Item"
@@ -10853,10 +10835,6 @@ msgstr "Detalhe do Funcionário"
 msgid "Employee Education"
 msgstr "Escolaridade do Colaborador"
 
-#: DocType: Employee:0
-msgid "Employee Exit"
-msgstr "Saída do Funcionário"
-
 #: DocType: Employee External Work History:0
 msgid "Employee External Work History"
 msgstr "Histórico de Trabalho Externo do Colaborador"
@@ -11124,9 +11102,6 @@ msgstr "Fim do período de assinatura atual"
 #: DocType: Manufacturing Settings:0
 msgid "Enforce Time Logs"
 msgstr "Exigir Registros de Tempo"
-
-msgid "Enough Parts to Build"
-msgstr "Peças Suficientes Para Construir"
 
 #: DocType: Sales Order Item:0
 msgid "Ensure Delivery Based on Produced Serial No"
@@ -14314,9 +14289,6 @@ msgstr "Em Quantidade"
 #: apps/erpnext/erpnext/templates/form_grid/stock_entry_grid.html:26
 msgid "In Stock"
 msgstr "Em Estoque"
-
-msgid "In Stock Qty"
-msgstr "Quantidade no Estoque"
 
 #: DocType: Delivery Trip:0
 msgid "In Transit"
@@ -19809,7 +19781,7 @@ msgid "Opportunity Source"
 msgstr "Fonte da Oportunidade"
 
 msgid "Opportunity Summary by Sales Stage"
-msgstr "Resumo de Oportunidades por Estágio de Venda "
+msgstr "Resumo de Oportunidades por Estágio de Vendas "
 
 #: DocType: Opportunity:0
 msgid "Opportunity Type"
@@ -20765,7 +20737,7 @@ msgstr "Link do Parceiro"
 msgid "Party Mismatch"
 msgstr "Incompatibilidade de Parceiro"
 
-#: DocType: Payment Entry:0
+#: DocType: Opening Invoice Creation Tool Item:0
 msgid "Party Name"
 msgstr "Nome do Parceiro"
 
@@ -25548,10 +25520,6 @@ msgstr "Repostagem iniciada em segundo plano"
 #: DocType: Repost Item Valuation:0
 msgid "Reposting Data File"
 msgstr "Repostando Arquivo de Dados"
-
-#: DocType: Repost Item Valuation:0
-msgid "Reposting Info"
-msgstr "Informações de republicação"
 
 #: apps/erpnext/erpnext/stock/doctype/repost_item_valuation/repost_item_valuation.js:131
 msgid "Reposting Progress"
@@ -34093,10 +34061,6 @@ msgstr "Valor Total Recebido"
 msgid "Total Repair Cost"
 msgstr "Custo Total de Reparo"
 
-#: DocType: Repost Item Valuation:0
-msgid "Total Reposting Count"
-msgstr "Contagem Total de Recontabilização"
-
 #: apps/erpnext/erpnext/selling/report/customer_acquisition_and_loyalty/customer_acquisition_and_loyalty.py:44
 msgid "Total Revenue"
 msgstr "Receita Total"
@@ -42296,6 +42260,103 @@ msgstr "Exibir disponibilidade dos itens explodidos"
 #: apps/erpnext/erpnext/manufacturing/report/bom_stock_analysis/bom_stock_analysis.py:286
 msgid "Warehouse is required to get producible FG Items"
 msgstr "Depósito é obrigatório para obter os Itens FG Produzíveis"
+
+msgid "BOM Stock Analysis"
+msgstr "Análise de Estoque da Lista de Materiais"
+
+#: DocType: Employee:0
+msgid "Create User Automatically"
+msgstr "Criar Usuário Automaticamente"
+
+#: DocType: Employee:0
+msgid ""
+"Creates a User account for this employee using the Preferred, Company, or "
+"Personal email."
+msgstr ""
+"Cria uma conta de usuário para este funcionário utilizando o e-mail "
+"Preferencial, da Empresa ou Pessoal."
+
+msgid "DRE - CPC 51 (IFRS 18)"
+msgstr "DRE - CPC 51 (IFRS 18)"
+
+#: DocType: Item:0
+msgid ""
+"Defines the date after which the item can no longer be used in transactions "
+"or manufacturing"
+msgstr ""
+"Define a data após a qual o item não pode mais ser utilizado em transações "
+"ou na produção"
+
+#: DocType: Item:0
+msgid ""
+"Enable to reserve a small sample from each batch for any analysis arising "
+"ahead"
+msgstr ""
+"Ative para reservar uma pequena amostra de cada lote para qualquer análise "
+"futura"
+
+#: DocType: Employee:0
+msgid "Exit"
+msgstr "Sair"
+
+#: DocType: Opening Invoice Creation Tool:0
+msgid "If party does not exist, create it using the Party Name field."
+msgstr ""
+"Se o terceiro não existir, crie-o utilizando o campo Nome do Terceiro."
+
+#: DocType: Repost Item Valuation:0
+msgid "Ledgers Posted"
+msgstr "Razões Lançadas"
+
+#: DocType: Repost Item Valuation:0
+msgid "No of Items to Repost"
+msgstr "Nº de Itens a Relançar"
+
+#: DocType: Opening Invoice Creation Tool Item:0
+msgid "Party ID"
+msgstr "ID do Terceiro"
+
+#: DocType: Repost Item Valuation:0
+msgid "Reposting Item and Warehouse"
+msgstr "Relançando Item e Depósito"
+
+#: DocType: Repost Item Valuation:0
+msgid "Reposting Vouchers"
+msgstr "Relançando Vouchers"
+
+#: DocType: Repost Item Valuation:0
+msgid "Total Ledgers"
+msgstr "Total de Razões"
+
+#~ msgid "Affected Transactions"
+#~ msgstr "Transações Afetadas"
+
+#~ msgid "BOM Stock Calculated"
+#~ msgstr "Bom Estoque Calculado"
+
+#~ msgid "BOM Stock Report"
+#~ msgstr "Relatório de Estoque Por LDM"
+
+#~ msgid "Create missing customer or supplier."
+#~ msgstr "Criar cliente ou fornecedor ausente."
+
+#~ msgid "Distinct Item and Warehouse"
+#~ msgstr "Item e Armazém Distintos"
+
+#~ msgid "Employee Exit"
+#~ msgstr "Saída do Funcionário"
+
+#~ msgid "Enough Parts to Build"
+#~ msgstr "Peças Suficientes Para Construir"
+
+#~ msgid "In Stock Qty"
+#~ msgstr "Quantidade no Estoque"
+
+#~ msgid "Reposting Info"
+#~ msgstr "Informações de republicação"
+
+#~ msgid "Total Reposting Count"
+#~ msgstr "Contagem Total de Recontabilização"
 
 #~ msgid "BOM Qty"
 #~ msgstr "Quantidade de BOM"
