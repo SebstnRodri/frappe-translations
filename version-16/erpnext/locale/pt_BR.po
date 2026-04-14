@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-04-05 09:48+0000\n"
-"PO-Revision-Date: 2026-04-13 09:59\n"
+"PO-Revision-Date: 2026-04-14 15:39\n"
 "Last-Translator: Translation Hub <ai@translationhub.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -19725,7 +19725,7 @@ msgid "Opportunity Source"
 msgstr "Fonte da Oportunidade"
 
 msgid "Opportunity Summary by Sales Stage"
-msgstr "Resumo de Oportunidades por Estágio de Venda "
+msgstr "Resumo de Oportunidades por Estágio de Venda"
 
 #: DocType: Opportunity:0
 msgid "Opportunity Type"
@@ -38607,7 +38607,7 @@ msgstr "Por Hora"
 
 #: DocType: Call Log:0
 msgid "ID"
-msgstr "Id"
+msgstr "ID"
 
 #: DocType: Contract:0
 msgid "IP Address"
@@ -38620,7 +38620,7 @@ msgstr "ISS-.YYYY.-"
 #: apps/erpnext/erpnext/stock/report/incorrect_balance_qty_after_transaction/incorrect_balance_qty_after_transaction.py:83
 msgctxt "d"
 msgid "Id"
-msgstr "Id"
+msgstr "ID"
 
 #: DocType: BOM Operation:0
 msgid ""
@@ -43056,7 +43056,7 @@ msgstr "A Ordem de Produção {0} não possui quantidade produzida"
 #~ msgstr "Aplicar TDS"
 
 #~ msgid "Apply Tax Withholding Amount"
-#~ msgstr "Aplicar Valor de Retenção de Imposto "
+#~ msgstr "Aplicar Valor de Retenção de Imposto"
 
 #~ msgid "Apply Tax Withholding Amount "
 #~ msgstr ""
