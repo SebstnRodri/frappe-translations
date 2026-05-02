@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-02-24 16:10+0553\n"
-"PO-Revision-Date: 2026-03-25 19:43\n"
+"PO-Revision-Date: 2026-05-02 15:34\n"
 "Last-Translator: Translation Hub <ai@translationhub.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -448,7 +448,7 @@ msgstr "Este método destina-se apenas ao modo de desenvolvedor"
 msgid "Amount is expressed as"
 msgstr "O valor é expresso como"
 
-#: apps/mint/mint/apis/statement_import.py:146
+#: apps/mint/mint/apis/statement_import.py:159
 msgid "Bank statement imported successfully."
 msgstr "Extrato bancário importado com sucesso."
 
@@ -488,7 +488,7 @@ msgstr "Índice do Cabeçalho"
 msgid "Header Text"
 msgstr "Texto do Cabeçalho"
 
-#: apps/mint/mint/apis/statement_import.py:160
+#: apps/mint/mint/apis/statement_import.py:173
 msgid "Import template should be of type .csv, .xlsx or .xls"
 msgstr "O modelo de importação deve ser do tipo .csv, .xlsx ou .xls"
 
@@ -532,11 +532,11 @@ msgstr "Data de Início"
 msgid "Statement Type"
 msgstr "Tipo de Extrato"
 
-#: apps/mint/mint/apis/statement_import.py:93
+#: apps/mint/mint/apis/statement_import.py:106
 msgid "The bank account is disabled. Please enable it"
 msgstr "A conta bancária está desabilitada. Por favor, habilite-a"
 
-#: apps/mint/mint/apis/statement_import.py:90
+#: apps/mint/mint/apis/statement_import.py:103
 msgid ""
 "The bank account is not a company account. Please select a company account"
 msgstr ""
@@ -555,11 +555,11 @@ msgstr "Tipo de Transação contendo Depósito/Saque"
 msgid "Variable"
 msgstr "Variável"
 
-#: apps/mint/mint/apis/statement_import.py:84
+#: apps/mint/mint/apis/statement_import.py:97
 msgid "You do not have permission to import and submit bank transactions"
 msgstr "Você não tem permissão para importar e submeter transações bancárias"
 
-#: apps/mint/mint/apis/statement_import.py:78
+#: apps/mint/mint/apis/statement_import.py:91
 msgid "You do not have permission to import bank transactions"
 msgstr "Você não tem permissão para importar transações bancárias"
 
