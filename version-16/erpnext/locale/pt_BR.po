@@ -29765,7 +29765,7 @@ msgstr "Linha #{}: A moeda de {} - {} não corresponde à moeda da empresa."
 
 #: apps/erpnext/erpnext/accounts/doctype/opening_invoice_creation_tool/opening_invoice_creation_tool.py:113
 msgid "Row #{}: Either Party ID or Party Name is required"
-msgstr ""
+msgstr "Linha #{0}: É necessário o ID da Parte ou o Nome da Parte"
 
 #: apps/erpnext/erpnext/assets/doctype/asset/asset.py:421
 msgid "Row #{}: Finance Book should not be empty since you're using multiple."
