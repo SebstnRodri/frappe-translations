@@ -29787,7 +29787,7 @@ msgstr "Linha #{}: A Nota Fiscal de POS {} ainda não foi submetida"
 
 #: apps/erpnext/erpnext/accounts/doctype/opening_invoice_creation_tool/opening_invoice_creation_tool.py:123
 msgid "Row #{}: Party ID is required"
-msgstr ""
+msgstr "Linha #{0}: É necessário o ID da Parte"
 
 #: apps/erpnext/erpnext/assets/doctype/asset_maintenance/asset_maintenance.py:41
 msgid "Row #{}: Please assign task to a member."
