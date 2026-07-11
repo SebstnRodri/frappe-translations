@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-28 10:17+0000\n"
-"PO-Revision-Date: 2026-07-10 14:36\n"
+"PO-Revision-Date: 2026-07-11 08:05\n"
 "Last-Translator: Translation Hub <ai@translationhub.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -1375,7 +1375,7 @@ msgstr "Configurações Avançadas"
 
 #: apps/frappe/frappe/public/js/frappe/ui/filters/filter.js:64
 msgid "After"
-msgstr "depois"
+msgstr "após"
 
 #: DocType: Server Script:0
 msgid "After Cancel"
@@ -5567,7 +5567,7 @@ msgstr "A exclusão deste documento só é permitida no modo de desenvolvedor."
 
 #: DocType: Data Import:0
 msgid "Delimiter Options"
-msgstr "Opções de Delimitador"
+msgstr "Opções de delimitador"
 
 #: apps/frappe/frappe/utils/csvutils.py:76
 msgid ""
@@ -6094,7 +6094,7 @@ msgstr "Título do documento"
 
 #: DocType: Assignment Rule:0
 msgid "Document Type"
-msgstr "Tipo de documento"
+msgstr "Tipo de Documento "
 
 #: apps/frappe/frappe/desk/doctype/number_card/number_card.py:60
 msgid "Document Type and Function are required to create a number card"
@@ -9233,7 +9233,7 @@ msgstr "Nome legível para exibição ao usuário final."
 
 #: DocType: User Session Display:0
 msgid "ID"
-msgstr "ID"
+msgstr "Id"
 
 #: apps/frappe/frappe/public/js/print_format_builder/PrintFormatControls.vue:169
 msgid "ID (name)"
@@ -12236,7 +12236,7 @@ msgstr "Módulo"
 
 #: DocType: Server Script:0
 msgid "Module (for export)"
-msgstr "Módulo (para Exportação)"
+msgstr "Módulo (para exportação)"
 
 #: DocType: Module Def:0
 msgid "Module Def"
@@ -13169,7 +13169,7 @@ msgstr "Nenhum {0}"
 
 #: apps/frappe/frappe/public/js/frappe/web_form/web_form_list.js:240
 msgid "No {0} found"
-msgstr "Nenhum {0} encontrado"
+msgstr "Nenhum {0} Encontrado"
 
 #: apps/frappe/frappe/public/js/frappe/list/list_view.js:540
 msgid "No {0} found with matching filters. Clear filters to see all {0}."
@@ -17913,7 +17913,7 @@ msgstr "Separador"
 
 #: DocType: Workspace:0
 msgid "Sequence Id"
-msgstr "ID de Sequência"
+msgstr "ID da Sequência"
 
 #: DocType: Document Naming Settings:0
 msgid "Series List for this Transaction"
@@ -28720,7 +28720,7 @@ msgstr "{0} é obrigatório."
 
 #~ msgctxt "Label of name column in report"
 #~ msgid "ID"
-#~ msgstr "ID"
+#~ msgstr "Id"
 
 #~ msgctxt "Button in list view menu"
 #~ msgid "Import"
