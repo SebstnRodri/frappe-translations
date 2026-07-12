@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-28 10:17+0000\n"
-"PO-Revision-Date: 2026-07-11 08:05\n"
+"PO-Revision-Date: 2026-07-12 10:49\n"
 "Last-Translator: Translation Hub <ai@translationhub.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -9233,7 +9233,7 @@ msgstr "Nome legível para exibição ao usuário final."
 
 #: DocType: User Session Display:0
 msgid "ID"
-msgstr "Id"
+msgstr "ID"
 
 #: apps/frappe/frappe/public/js/print_format_builder/PrintFormatControls.vue:169
 msgid "ID (name)"
@@ -17473,7 +17473,7 @@ msgstr "selecionar"
 
 #: apps/frappe/frappe/public/js/frappe/list/list_view.js:760
 msgid "Select All"
-msgstr "Selecionar tudo"
+msgstr "Selecionar todos"
 
 #: apps/frappe/frappe/public/js/frappe/views/communication.js:203
 msgid "Select Attachments"
@@ -28720,7 +28720,7 @@ msgstr "{0} é obrigatório."
 
 #~ msgctxt "Label of name column in report"
 #~ msgid "ID"
-#~ msgstr "Id"
+#~ msgstr "ID"
 
 #~ msgctxt "Button in list view menu"
 #~ msgid "Import"
