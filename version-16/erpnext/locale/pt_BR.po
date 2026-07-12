@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-28 10:20+0000\n"
-"PO-Revision-Date: 2026-07-11 08:06\n"
+"PO-Revision-Date: 2026-07-12 10:50\n"
 "Last-Translator: Translation Hub <ai@translationhub.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -21710,7 +21710,7 @@ msgid "Opportunity Source"
 msgstr "Fonte da Oportunidade"
 
 msgid "Opportunity Summary by Sales Stage"
-msgstr "Resumo de Oportunidade por Estágio de Vendas "
+msgstr "Resumo de Oportunidade por Fase de Vendas "
 
 #: DocType: Opportunity:0
 msgid "Opportunity Type"
