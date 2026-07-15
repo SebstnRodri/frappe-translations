@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-07-12 10:05+0000\n"
-"PO-Revision-Date: 2026-07-14 08:03\n"
+"PO-Revision-Date: 2026-07-15 08:32\n"
 "Last-Translator: Translation Hub <ai@translationhub.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -37940,7 +37940,7 @@ msgstr "Dados de Webhook Não Verificados"
 
 #: apps/erpnext/erpnext/accounts/doctype/bisect_accounting_statements/bisect_accounting_statements.js:17
 msgid "Up"
-msgstr "para cima"
+msgstr "topo"
 
 #: DocType: Email Digest:0
 msgid "Upcoming Calendar Events"
